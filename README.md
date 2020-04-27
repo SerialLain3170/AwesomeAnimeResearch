@@ -36,4 +36,16 @@ Computer vision papers related to animes or cartoons.
 
 | Paper | Conference/Arxiv |
 | ---- | ---- |
-| 
+| [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/pdf/1704.08834.pdf) | |
+| [Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN](https://arxiv.org/pdf/1706.03319.pdf) | ACPR2017 |
+| [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/pdf/1706.06918.pdf) | |
+| [User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks](https://arxiv.org/pdf/1808.03240.pdf) | ACMMC2018 |
+| [Two-stage Sketch Colorization](https://github.com/lllyasviel/style2paints/blob/master/papers/sa.pdf) | |
+| [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 |
+| [Anime Sketch Coloring with Swish-gated Residual U-net and Spectrally Normalized GAN](http://www.engineeringletters.com/issues_v27/issue_3/EL_27_3_01.pdf) | |
+| [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | |
+| [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | |
+| [Line Art Correlation Matching Network for Automatic Animation Colorization](https://arxiv.org/pdf/2004.06718.pdf) | |
+
+### Automatic Character Lighting
+
