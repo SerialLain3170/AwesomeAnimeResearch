@@ -31,6 +31,8 @@ Computer vision papers related to animes or cartoons.
 | | [GANILLA: Generative adversarial networks for image to illustration translation](https://arxiv.org/pdf/2002.05638.pdf) | |
 | | [CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator](https://arxiv.org/pdf/1911.06102.pdf) | MMM2020 |
 | | [Learning to Cartoonize Using White-box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization/blob/master/paper/06791.pdf) | CVPR2020 |
+| Sketch2anime | [SmartPaint: a co-creative drawing system based on generative adversarial networks](https://link.springer.com/content/pdf/10.1631/FITEE.1900386.pdf) | |
+| | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf) | |
 | Photo2manga | [Unpaired Photo-to-manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/pdf/2004.10634.pdf) | |
 | Style transfer | [Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks](https://arxiv.org/pdf/1805.07997v1.pdf) | |
 | | [Disentangling Style and Content in Anime Illustrations](https://arxiv.org/pdf/1905.10742v2.pdf) | |
@@ -50,6 +52,7 @@ Computer vision papers related to animes or cartoons.
 | | [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/pdf/1706.06918.pdf) | |
 | | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) | SIGGRAPH2017 |
 | | [Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors](https://dl.acm.org/doi/pdf/10.1145/3306214.3338585) | SIGGRAPH2019 |
+| | [Semantic Example Guided Image-to-Image Translation](https://arxiv.org/pdf/1909.13028.pdf) | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | |
 | | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | |
