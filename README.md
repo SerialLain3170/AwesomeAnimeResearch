@@ -1,6 +1,6 @@
-# Awesome-animepapers
+# Awesome-animeresearch
 
-Computer vision papers related to animes or cartoons.
+signal processing or machine learning related to anime or manga
 
 ## Papers
 
@@ -51,6 +51,7 @@ Computer vision papers related to animes or cartoons.
 | Reference | [Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN](https://arxiv.org/pdf/1706.03319.pdf) | ACPR2017 |
 | | [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/pdf/1706.06918.pdf) | |
 | | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) | SIGGRAPH2017 |
+| | [Attentioned Deep Paint](https://github.com/ktaebum/AttentionedDeepPaint/blob/master/poster.pdf) | |
 | | [Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors](https://dl.acm.org/doi/pdf/10.1145/3306214.3338585) | SIGGRAPH2019 |
 | | [Semantic Example Guided Image-to-Image Translation](https://arxiv.org/pdf/1909.13028.pdf) | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 |
@@ -78,3 +79,30 @@ Computer vision papers related to animes or cartoons.
 | [Real-Time Data-Driven Interactive Rough Sketch Inking](https://dl.acm.org/doi/pdf/10.1145/3197517.3201370) | ACM Trans. Graph. 2018 |
 | [Unpaired Sketch-to-Line Translation via Synthesis of Sketches](https://dl.acm.org/doi/pdf/10.1145/3355088.3365163) | SIGGRAPH2019 |
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 |
+
+### Landmark Detection
+| Paper | Conference |
+| ---- | ---- |
+| [Facial Landmark Detection for Manga Images](https://arxiv.org/pdf/1811.03214.pdf) | |
+
+### Pose Estimation
+| Paper | Conference |
+| ---- | ---- |
+| [Pose Estimation of Anime/Manga Characters: A Case for Synthetic Data](http://www.cs.cornell.edu/~pramook/papers/manpu2016.pdf) | |
+
+### Speech Synthesis
+| Paper | Conference |
+| ---- | ---- |
+| [Comic-Guided Speech Synthesis](https://dl.acm.org/doi/pdf/10.1145/3355089.3356487) | ACM Trans. Graph. 2019 |
+
+## Articles
+
+### Image Generation
+- [FGO StyleGAN: This Heroic Spirit Doesn’t Exist](https://towardsdatascience.com/fgo-stylegan-this-heroic-spirit-doesnt-exist-23d62fbb680e)
+
+## Services
+
+### Image Generation
+- [makegirlsmoe](https://make.girls.moe/#/)
+- [Crypko](https://crypko.ai/#/)
+- [Waifu Labs](https://waifulabs.com/)
