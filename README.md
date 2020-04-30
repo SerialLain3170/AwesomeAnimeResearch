@@ -1,4 +1,4 @@
-# Awesome-animeresearch
+# AwesomeAnimeResearch
 
 signal processing or machine learning related to anime or manga
 
@@ -10,6 +10,7 @@ signal processing or machine learning related to anime or manga
 | ---- | ---- |
 | [Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](https://arxiv.org/pdf/1708.05509.pdf) | Comiket 92 |
 | [Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks](https://arxiv.org/pdf/1809.01890v1.pdf) | ECCVW2018 |
+| [Towards Diverse Anime Face Generation: Active Label Completion and Style Feature Network](https://diglib.eg.org/bitstream/handle/10.2312/egs20191016/065-068.pdf?sequence=1&isAllowed=y) | EUROGRAPHICS2019 |
 | [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/pdf/2002.03754.pdf) | |
 | [Autoencoding Generative Adversarial Networks](https://arxiv.org/pdf/2004.05472.pdf) | |
 
