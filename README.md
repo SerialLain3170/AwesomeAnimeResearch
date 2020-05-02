@@ -68,6 +68,7 @@ signal processing or machine learning related to anime or manga
 
 | Paper | Conference |
 | ---- | ---- |
+| [Ink-and-Ray: Bas-Relief Meshes for Adding Global Illumination Effects to Hand-Drawn Characters](https://dcgi.fel.cvut.cz/home/sykorad/Sykora14-TOG.pdf) | ACM Trans. Graph. 2014 |
 | [Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Hudon_Deep_Normal_Estimation_for_Automatic_Shading_of_Hand-Drawn_Characters_ECCVW_2018_paper.pdf) | ECCVW2018 |
 | [Automatic Illumination Effects for 2D Characters](https://nips2018creativity.github.io/doc/Automatic_Illumination_Effects_for_2D_Characters.pdf) | NIPSW2018 |
 | [2D shading for cel animation](https://dl.acm.org/doi/10.1145/3229147.3229148) | NPAR2018 |
