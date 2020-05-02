@@ -43,13 +43,17 @@ signal processing or machine learning related to anime or manga
 | Subcategory | Paper | Conference |
 | ---- | ---- | ---- |
 | NoHint | [Do You Like Sclera? Sclera-region Detection and Colorization for Anime Character Line Drawings](https://www.atlantis-press.com/journals/ijndc/125913573) | IJNDC2019 |
-| Atari | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/pdf/1704.08834.pdf) | |
+| Atari | [Manga Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf) | ACM Trans. Graph. 2006 |
+| | [TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations](https://dcgi.fel.cvut.cz/home/sykorad/Sykora11-NPAR.pdf) | NPAR2011 |
+| | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/pdf/1704.08834.pdf) | |
 | | [Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1705.01908.pdf) | |
 | | [User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks](https://arxiv.org/pdf/1808.03240.pdf) | ACMMC2018 |
 | | [Two-stage Sketch Colorization](https://github.com/lllyasviel/style2paints/blob/master/papers/sa.pdf) | ACM Trans. Graph. 2018 |
 | | [Anime Sketch Coloring with Swish-gated Residual U-net and Spectrally Normalized GAN](http://www.engineeringletters.com/issues_v27/issue_3/EL_27_3_01.pdf) | |
 | | [PaintsTorch: a User-Guided Anime Line Art Colorization Tool with Double Generator Conditional Adversarial Network](https://dl.acm.org/doi/10.1145/3359998.3369401) | CVMP2019 |
-| Reference | [Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN](https://arxiv.org/pdf/1706.03319.pdf) | ACPR2017 |
+| Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 |
+| | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 |
+| | [Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN](https://arxiv.org/pdf/1706.03319.pdf) | ACPR2017 |
 | | [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/pdf/1706.06918.pdf) | |
 | | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) | SIGGRAPH2017 |
 | | [Attentioned Deep Paint](https://github.com/ktaebum/AttentionedDeepPaint/blob/master/poster.pdf) | |
@@ -74,12 +78,18 @@ signal processing or machine learning related to anime or manga
 
 | Paper | Conference |
 | ---- | ---- |
+| [Temporal Noise Control for Sketchy Animation](https://dl.acm.org/doi/10.1145/2024676.2024691) | NPAR2011 |
 | [Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup](https://esslab.jp/~ess/publications/SimoSerraSIGGRAPH2016.pdf) | ACM Trans. Graph. 2016 |
 | [Mastering Sketching: Adversarial Augmentation for Structured Prediction](https://arxiv.org/pdf/1703.08966.pdf) | |
 | [Deep Extraction of Manga Structural Lines](https://dl.acm.org/doi/10.1145/3072959.3073675) | ACM Trans. Graph. 2017 |
 | [Real-Time Data-Driven Interactive Rough Sketch Inking](https://dl.acm.org/doi/pdf/10.1145/3197517.3201370) | ACM Trans. Graph. 2018 |
 | [Unpaired Sketch-to-Line Translation via Synthesis of Sketches](https://dl.acm.org/doi/pdf/10.1145/3355088.3365163) | SIGGRAPH2019 |
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 |
+
+### Representation Learning
+| Paper | Conference | 
+| ---- | ---- |
+| [Illustration2Vec: A Semantic Vector Representation of Illustrations](https://www.gwern.net/docs/anime/2015-saito.pdf) | SIGGRAPH2015 |
 
 ### Landmark Detection
 | Paper | Conference |
@@ -95,6 +105,11 @@ signal processing or machine learning related to anime or manga
 | Paper | Conference |
 | ---- | ---- |
 | [Comic-Guided Speech Synthesis](https://dl.acm.org/doi/pdf/10.1145/3355089.3356487) | ACM Trans. Graph. 2019 |
+
+### Survey
+| Paper | Conference |
+| ---- | ---- |
+| [A Survey of Comics Research in Computer Science](https://arxiv.org/pdf/1804.05490.pdf) | |
 
 ## Articles
 
