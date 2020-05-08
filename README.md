@@ -111,15 +111,3 @@ signal processing or machine learning related to anime or manga
 | Paper | Conference |
 | ---- | ---- |
 | [A Survey of Comics Research in Computer Science](https://arxiv.org/pdf/1804.05490.pdf) | |
-
-## Articles
-
-### Image Generation
-- [FGO StyleGAN: This Heroic Spirit Doesn’t Exist](https://towardsdatascience.com/fgo-stylegan-this-heroic-spirit-doesnt-exist-23d62fbb680e)
-
-## Services
-
-### Image Generation
-- [makegirlsmoe](https://make.girls.moe/#/)
-- [Crypko](https://crypko.ai/#/)
-- [Waifu Labs](https://waifulabs.com/)
