@@ -9,6 +9,7 @@ signal processing or machine learning related to anime or manga
 | Paper | Conference |
 | ---- | ---- |
 | [Building a Manga Dataset ”Manga109” with Annotations for Multimedia Applications](https://arxiv.org/pdf/2005.04425.pdf) | |
+| [The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives](https://arxiv.org/pdf/1611.05118.pdf) | CVPR2017 |
 
 ### Image Generation
 
@@ -109,6 +110,28 @@ signal processing or machine learning related to anime or manga
 | ---- | ---- |
 | [Pose Estimation of Anime/Manga Characters: A Case for Synthetic Data](http://www.cs.cornell.edu/~pramook/papers/manpu2016.pdf) | |
 
+### Image Retrieval
+| Paper | Conference |
+| ---- | ---- |
+| [Sketch-based Manga Retrieval using Manga109 Dataset](https://arxiv.org/pdf/1510.04389.pdf) | |
+
+### Text Detection from Comics
+| Paper | Conference |
+| ---- | ---- |
+| [Method for Real Time Text Extraction of Digital Manga Comic](https://www.cscjournals.org/manuscript/Journals/IJIP/Volume4/Issue6/IJIP-290.pdf) | |
+| [Text-independent speech balloon segmentation for comics and manga](https://hal.archives-ouvertes.fr/hal-01719513/file/2015_Rigaud_text-independent_speech_balloon_segmentation_for_comics_and_manga.pdf) | |
+| [Deep CNN-based Speech Balloon Detection and Segmentation for Comic Books](https://arxiv.org/pdf/1902.08137.pdf) | |
+
+### Character Recognition
+| Paper | Conference |
+| ---- | ---- |
+| [Progressive Deep Feature Learning for Manga Character Recognition via Unlabeled Training Data](https://dl.acm.org/doi/pdf/10.1145/3321408.3322624) | |
+
+### Character Detection
+| Paper | Conference |
+| ---- | ---- |
+| [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8893046&casa_token=ZHfSLyDLShIAAAAA:Ta33GNZVMshklmNrlRrOZ5FtF5tnttXQoYkJRssYhnqPo81Vu7wgdswQwtQ7SKqZs2ilUJ3FpB3I&tag=1) | |
+
 ### Speech Synthesis
 | Paper | Conference |
 | ---- | ---- |
@@ -118,3 +141,4 @@ signal processing or machine learning related to anime or manga
 | Paper | Conference |
 | ---- | ---- |
 | [A Survey of Comics Research in Computer Science](https://arxiv.org/pdf/1804.05490.pdf) | |
+| [Computational Approaches to Comics Analysis](https://s3.amazonaws.com/academia.edu.documents/63243542/Laubrock___Dunst_Computational_Approaches_to_Comics_Analysis_202020200508-45041-o5w64o.pdf?response-content-disposition=inline%3B%20filename%3DComputational_Approaches_to_Comics_Analy.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIATUSBJ6BAOFV4KE4J%2F20200512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200512T131345Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIBRwLxztPYYhcQLSzU83gAY4kAUvajN%2BUqEvzPFZPViWAiB96I6IUWIPZInf%2BTOiZ3yaIrpgzTlb6LH1cCh3%2FNvn3Cq0AwhEEAAaDDI1MDMxODgxMTIwMCIMgBoH9nlx%2FxcmWI70KpEDnaWOR0JejwYZiGlyq5nJ5KMKroTpEZrApmrq4Ba2wG8Fuz8jxfACIVvj4PEkVhMYlOHRivyI5hnJu%2Fn7X6kbMY9nQSdxNDQjKAn7FK%2FdmozZPNIs31fR3DuK1psDG%2F1k8RTqyYvyTt6epYkx6zjXpLigBXNmZI%2BdoHna%2FMhZfYh1TF%2FQvxlKmU6k1D5PkSZBS99txOvrsvW4asn9q5Y3RXxAm7izXcrcBhJZFITy9gk%2FDopupO%2B653Wc8GZN3CVNBMXW%2F9SLnQrwSVjnOtygRlDXOHlZnL1BGB6hRkpFS2osPMAwDUr4ffgrkwwOG5BzSQs5KBr9QSgdPGscEOGwB5X1P8HmlOhUPUZxTOj5om%2FlaWLqPmoTcT4Blztug3b9gmMTKK4wbF9ofcskjl5kNVe6za1%2FPFiGS%2BMoEKgEGJ%2B%2BqPi0THgqvkefWUOUCrY%2BWNP3uGzNvobZ0ZhdMVEhwnKeYuCY4getddf%2BHFYIIev6yHzFlxKiO0TveeJA0nm4tkAAZN0b2ZZgTIEHzXGghHYw8vbp9QU67AGz%2B9wvvnvBGxM0E80PVBgvygqdEQJZmd8OlybVXhkFFcd%2FmoTJmtI9V7omUdrwfrXrv7iV%2FmvmGRGvXcu0w9RA5DhpGmiohZZA8uo58vc6cAQBsXTZlitnvjQIw%2B6g%2FkVUtvtMCAC76dSjxiGZDk1ljNz9A5DjStcSkMOKqNgDVY02vNnCOFYkgdjPkC1a5cfVwWYEFcF%2Bhg4cn%2Fw0bF%2Form65UkHevJWn%2B215LLrjr99sqiL2LzYIL9%2F%2Fk1Fg3VJBk7h90BHdckl1XLR4g7W5uMUl5GFPxNK6qO82sjgLr6Gzas1a0Ugs%2FoEPhA%3D%3D&X-Amz-Signature=858824c2bd5ccfbd67709cf8067758d6f0aa5b1d68d986904238b90061ad2416) | |
