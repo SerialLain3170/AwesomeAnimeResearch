@@ -132,6 +132,11 @@ signal processing or machine learning related to anime or manga
 | ---- | ---- |
 | [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8893046&casa_token=ZHfSLyDLShIAAAAA:Ta33GNZVMshklmNrlRrOZ5FtF5tnttXQoYkJRssYhnqPo81Vu7wgdswQwtQ7SKqZs2ilUJ3FpB3I&tag=1) | |
 
+### Robotics
+| Paper | Conference |
+| ---- | ---- |
+| [Making Robots Draw A Vivid Portrait In Two Minutes](https://arxiv.org/pdf/2005.05526.pdf) | |
+
 ### Speech Synthesis
 | Paper | Conference |
 | ---- | ---- |
