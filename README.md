@@ -39,6 +39,7 @@ signal processing or machine learning related to anime or manga
 | | [GANILLA: Generative adversarial networks for image to illustration translation](https://arxiv.org/pdf/2002.05638.pdf) | |
 | | [CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator](https://arxiv.org/pdf/1911.06102.pdf) | MMM2020 |
 | | [Learning to Cartoonize Using White-box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization/blob/master/paper/06791.pdf) | CVPR2020 |
+| | [Generative Adversarial Networks for photo to Hayao Miyazaki style cartoons](https://arxiv.org/pdf/2005.07702.pdf) | |
 | Sketch2anime | [SmartPaint: a co-creative drawing system based on generative adversarial networks](https://link.springer.com/content/pdf/10.1631/FITEE.1900386.pdf) | |
 | | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf) | |
 | Photo2manga | [Unpaired Photo-to-manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/pdf/2004.10634.pdf) | |
