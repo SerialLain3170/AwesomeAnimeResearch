@@ -8,8 +8,9 @@ signal processing or machine learning related to anime or manga
 
 | Paper | Conference |
 | ---- | ---- |
-| [Building a Manga Dataset ”Manga109” with Annotations for Multimedia Applications](https://arxiv.org/pdf/2005.04425.pdf) | |
 | [The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives](https://arxiv.org/pdf/1611.05118.pdf) | CVPR2017 |
+| [Building a Manga Dataset ”Manga109” with Annotations for Multimedia Applications](https://arxiv.org/pdf/2005.04425.pdf) | |
+| [DanbooRegion: An Illustration Region Dataset](https://lllyasviel.github.io/DanbooRegion/paper/paper.pdf) | ECCV2020 |
 
 ### Image Generation
 
@@ -87,6 +88,13 @@ signal processing or machine learning related to anime or manga
 | [2D shading for cel animation](https://dl.acm.org/doi/10.1145/3229147.3229148) | NPAR2018 |
 | [Generating Digital Painting Lighting Effects via RGB-space Geometry](https://lllyasviel.github.io/PaintingLight/files/TOG20PaintingLight.pdf) | ACM Trans. Graph. 2020 |
 | [Learning to Shadow Hand-drawn Sketches](https://arxiv.org/pdf/2002.11812.pdf) | CVPR2020 |
+
+### Image Editing
+
+| Paper | Conference |
+| ---- | ---- |
+| [Spatially Controllable Image Synthesis with Internal Representation Collaging](https://arxiv.org/pdf/1811.10153.pdf) | |
+| [Erasing Appearance Preservation in Optimization-based Smoothing](https://lllyasviel.github.io/AppearanceEraser/paper/paper.pdf) | ECCV2020 |
 
 ### Sketch Editing
 
