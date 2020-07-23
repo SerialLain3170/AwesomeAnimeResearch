@@ -75,6 +75,7 @@ signal processing or machine learning related to anime or manga
 | | [Deep-Eyes: Fully Automatic Anime Character Colorization with Painting of Details on Empty Pupils](https://www.gwern.net/docs/ai/anime/2020-akita.pdf) | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | |
+| | [Artist-Guided Semiautomatic Animation Colorization](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Thasarathan_Artist-Guided_Semiautomatic_Animation_Colorization_ICCVW_2019_paper.pdf) | ICCVW2019 |
 | | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | |
 | | [Line Art Correlation Matching Network for Automatic Animation Colorization](https://arxiv.org/pdf/2004.06718.pdf) | |
 
@@ -108,6 +109,11 @@ signal processing or machine learning related to anime or manga
 | [Unpaired Sketch-to-Line Translation via Synthesis of Sketches](https://dl.acm.org/doi/pdf/10.1145/3355088.3365163) | SIGGRAPH2019 |
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 |
 
+### Screentone Synthesis
+| Paper | Conference |
+| ---- | ---- |
+| [Synthesis of Screentone Patterns of Manga Characters](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8959008&casa_token=kmJ6IhlI3q4AAAAA:jjs8YrOWPFpv1eJWoztbX8jdHBqRQWPWmTq4Tr1FqABXgA9f5u5lRiyktztGAH05ALmkkcwdoEkx&tag=1) | ISM2019 |
+
 ### Representation Learning
 | Paper | Conference | 
 | ---- | ---- |
@@ -139,10 +145,6 @@ signal processing or machine learning related to anime or manga
 | Paper | Conference |
 | ---- | ---- |
 | [Progressive Deep Feature Learning for Manga Character Recognition via Unlabeled Training Data](https://dl.acm.org/doi/pdf/10.1145/3321408.3322624) | |
-
-### Character Detection
-| Paper | Conference |
-| ---- | ---- |
 | [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8893046&casa_token=ZHfSLyDLShIAAAAA:Ta33GNZVMshklmNrlRrOZ5FtF5tnttXQoYkJRssYhnqPo81Vu7wgdswQwtQ7SKqZs2ilUJ3FpB3I&tag=1) | |
 
 ### Robotics
