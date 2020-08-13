@@ -42,6 +42,7 @@ signal processing or machine learning related to anime or manga
 | | [CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator](https://arxiv.org/pdf/1911.06102.pdf) | MMM2020 |
 | | [Learning to Cartoonize Using White-box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization/blob/master/paper/06791.pdf) | CVPR2020 |
 | | [Generative Adversarial Networks for photo to Hayao Miyazaki style cartoons](https://arxiv.org/pdf/2005.07702.pdf) | |
+| | [AnimeGAN: a novel lightweight GAN for photo animation](https://github.com/TachibanaYoshino/AnimeGAN/blob/master/doc/Chen2020_Chapter_AnimeGAN.pdf) | |
 | Sketch2anime | [SmartPaint: a co-creative drawing system based on generative adversarial networks](https://link.springer.com/content/pdf/10.1631/FITEE.1900386.pdf) | |
 | | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf) | |
 | | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf) | ECCV2020 |
