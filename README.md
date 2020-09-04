@@ -51,6 +51,7 @@ Summary of published or preprint papers
 | Photo2manga | [Unpaired Photo-to-manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/pdf/2004.10634.pdf) | | |
 | Style transfer | [Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks](https://arxiv.org/pdf/1805.07997v1.pdf) | | |
 | | [Disentangling Style and Content in Anime Illustrations](https://arxiv.org/pdf/1905.10742v2.pdf) | | [Github](https://github.com/stormraiser/adversarial-disentangle) |
+| | [StarGAN Based Facial Expression Transfer for Anime Characters](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9050061) | CSICC2020 | |
 
 ### Automatic Line Art Colorization
 
