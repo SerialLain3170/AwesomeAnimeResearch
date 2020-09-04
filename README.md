@@ -66,18 +66,21 @@ Summary of published or preprint papers
 | | [Two-stage Sketch Colorization](https://github.com/lllyasviel/style2paints/blob/master/papers/sa.pdf) | ACM Trans. Graph. 2018 | [Github](https://github.com/lllyasviel/style2paints) |
 | | [Anime Sketch Coloring with Swish-gated Residual U-net and Spectrally Normalized GAN](http://www.engineeringletters.com/issues_v27/issue_3/EL_27_3_01.pdf) | | [Github](https://github.com/pradeeplam/Anime-Sketch-Coloring-with-Swish-Gated-Residual-UNet) |
 | | [PaintsTorch: a User-Guided Anime Line Art Colorization Tool with Double Generator Conditional Adversarial Network](https://dl.acm.org/doi/10.1145/3359998.3369401) | CVMP2019 | |
+| | [Interactive Anime Sketch Colorization with Style Consistency via a Deep Residual Neural Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8959911&casa_token=x0HnMYRJbEUAAAAA:0S56be9ECJ1X_3w7T0mH7om5JJHD_xQA-2VRyA0UbZbZmh1aq6N-WopRAqQLlg6NxbMURVGUDPNe) | TAAI2019 | |
 | | [Semi-Auto Sketch Colorization Based on Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8965999&casa_token=XpC8iKsSzA0AAAAA:8XB2bqBNYereYl4kd69CyHxxtm2xfX2EkCSB2mQPKDzB2hpOeND9o41XAKvQVOivaJgkSoYVt552&tag=1) | CISP-BMEI2019 | |
 | | [MANGAN: ASSISTING COLORIZATION OF MANGA CHARACTERS CONCEPT ART USING CONDITIONAL GAN](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803667&casa_token=1HtzmvCWXucAAAAA:MEdu83aRd8aNcUcA4OkLGmkeK66c_hl4z-Qkh1zoHgGJzxongNZAEsy1uwD-kjMpbJC2JwKVgnv0) | ICIP2019 | [Github](https://github.com/felipelodur/ManGAN) |
 | | [Two-Stage Sketch Colorization With Color Parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8944253) | IEEE Access2019 | |
 | | [User Guided Digital Artwork Colorization](https://dl.acm.org/doi/pdf/10.1145/3374587.3374604?casa_token=-9L6xZgFmAwAAAAA:MPaxWTYULVcdxxr3LDmoWmEmit3imOq1AJZmc4x2rb_wDy7IhVTJgQapn4qHdypr9_Z9i6Da5kEEZUs) | CSAI2019 | |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 | |
 | | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 | |
+| | [Deep Manga Colorization with Color Style Extraction by Conditional Adversarially Learned Inference](http://www.iaiai.org/journals/index.php/IEE/article/view/214) | IIAI2017 | |
 | | [Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN](https://arxiv.org/pdf/1706.03319.pdf) | ACPR2017 | |
 | | [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/pdf/1706.06918.pdf) | ICDAR2017 | [Github](https://github.com/sudheerachary/Manga_Colorization) |
 | | [Comicolorization: Semi-Automatic Manga Colorization](https://arxiv.org/pdf/1706.06759.pdf) | SIGGRAPH2017 | [Github](https://github.com/DwangoMediaVillage/Comicolorization) |
 | | [Attentioned Deep Paint](https://github.com/ktaebum/AttentionedDeepPaint/blob/master/poster.pdf) | | [Github](https://github.com/ktaebum/AttentionedDeepPaint) |
 | | [Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors](https://dl.acm.org/doi/pdf/10.1145/3306214.3338585) | SIGGRAPH2019 | |
 | | [Semantic Example Guided Image-to-Image Translation](https://arxiv.org/pdf/1909.13028.pdf) | IEEE Transactions on Multimedia2020 | |
+| | [Graph Matching based Anime Colorization with Multiple References](https://dl.acm.org/doi/pdf/10.1145/3306214.3338560?casa_token=AJBPYxa5W4cAAAAA:7qKVj7ywwBhrsOvGlRwGyNIrjEeRwSMW9VP8pTEX3ma9CPyGIFzWD120QA7XLkS5jsaoIIojN6Fs-9k) | SIGGRAPH2019 | |
 | | [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](https://arxiv.org/pdf/2005.05207.pdf) | CVPR2020 | |
 | | [Multi-Density Sketch-to-Image Translation Network](https://arxiv.org/pdf/2006.10649.pdf) | | |
 | | [Deep-Eyes: Fully Automatic Anime Character Colorization with Painting of Details on Empty Pupils](https://www.gwern.net/docs/ai/anime/2020-akita.pdf) | EG2020| |
@@ -116,6 +119,7 @@ Summary of published or preprint papers
 | [Mastering Sketching: Adversarial Augmentation for Structured Prediction](https://arxiv.org/pdf/1703.08966.pdf) | ACM Trans. Graph. 2018 | [Github](https://github.com/bobbens/sketch_simplification) |
 | [Real-Time Data-Driven Interactive Rough Sketch Inking](https://dl.acm.org/doi/pdf/10.1145/3197517.3201370) | ACM Trans. Graph. 2018 | [Github](https://github.com/bobbens/line_thinning) |
 | [Unpaired Sketch-to-Line Translation via Synthesis of Sketches](https://dl.acm.org/doi/pdf/10.1145/3355088.3365163) | SIGGRAPH2019 | |
+| [Perceptual-aware Sketch Simplification Based on Integrated VGG Layers](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8771128&casa_token=hdWBbb6M48gAAAAA:UF7ya0ielOOv-xlBL8cOi-m2AprGfNRxBoM7eyCAUK_5Cxzx2y6PGD_4iUdHEzvpB-fsnZi9ABHG) | TVCG2019 | |
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 | |
 
 ### Screentone Synthesis
