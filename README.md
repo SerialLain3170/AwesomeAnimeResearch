@@ -3,6 +3,7 @@
 signal processing or machine learning related to anime or manga
 
 ## Papers
+Summary of published or preprint papers
 
 ### Dataset
 
@@ -171,3 +172,33 @@ signal processing or machine learning related to anime or manga
 | [A Survey of Comics Research in Computer Science](https://arxiv.org/pdf/1804.05490.pdf) | |
 | [Computational Approaches to Comics Analysis](https://s3.amazonaws.com/academia.edu.documents/63243542/Laubrock___Dunst_Computational_Approaches_to_Comics_Analysis_202020200508-45041-o5w64o.pdf?response-content-disposition=inline%3B%20filename%3DComputational_Approaches_to_Comics_Analy.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIATUSBJ6BAOFV4KE4J%2F20200512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200512T131345Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIBRwLxztPYYhcQLSzU83gAY4kAUvajN%2BUqEvzPFZPViWAiB96I6IUWIPZInf%2BTOiZ3yaIrpgzTlb6LH1cCh3%2FNvn3Cq0AwhEEAAaDDI1MDMxODgxMTIwMCIMgBoH9nlx%2FxcmWI70KpEDnaWOR0JejwYZiGlyq5nJ5KMKroTpEZrApmrq4Ba2wG8Fuz8jxfACIVvj4PEkVhMYlOHRivyI5hnJu%2Fn7X6kbMY9nQSdxNDQjKAn7FK%2FdmozZPNIs31fR3DuK1psDG%2F1k8RTqyYvyTt6epYkx6zjXpLigBXNmZI%2BdoHna%2FMhZfYh1TF%2FQvxlKmU6k1D5PkSZBS99txOvrsvW4asn9q5Y3RXxAm7izXcrcBhJZFITy9gk%2FDopupO%2B653Wc8GZN3CVNBMXW%2F9SLnQrwSVjnOtygRlDXOHlZnL1BGB6hRkpFS2osPMAwDUr4ffgrkwwOG5BzSQs5KBr9QSgdPGscEOGwB5X1P8HmlOhUPUZxTOj5om%2FlaWLqPmoTcT4Blztug3b9gmMTKK4wbF9ofcskjl5kNVe6za1%2FPFiGS%2BMoEKgEGJ%2B%2BqPi0THgqvkefWUOUCrY%2BWNP3uGzNvobZ0ZhdMVEhwnKeYuCY4getddf%2BHFYIIev6yHzFlxKiO0TveeJA0nm4tkAAZN0b2ZZgTIEHzXGghHYw8vbp9QU67AGz%2B9wvvnvBGxM0E80PVBgvygqdEQJZmd8OlybVXhkFFcd%2FmoTJmtI9V7omUdrwfrXrv7iV%2FmvmGRGvXcu0w9RA5DhpGmiohZZA8uo58vc6cAQBsXTZlitnvjQIw%2B6g%2FkVUtvtMCAC76dSjxiGZDk1ljNz9A5DjStcSkMOKqNgDVY02vNnCOFYkgdjPkC1a5cfVwWYEFcF%2Bhg4cn%2Fw0bF%2Form65UkHevJWn%2B215LLrjr99sqiL2LzYIL9%2F%2Fk1Fg3VJBk7h90BHdckl1XLR4g7W5uMUl5GFPxNK6qO82sjgLr6Gzas1a0Ugs%2FoEPhA%3D%3D&X-Amz-Signature=858824c2bd5ccfbd67709cf8067758d6f0aa5b1d68d986904238b90061ad2416) | |
 | [Image Colorization: A Survey and Dataset](https://arxiv.org/pdf/2008.10774.pdf) | |
+
+## Projects
+Summary of github or other types of projects that are related to anime or manga except above.
+
+### Image Generation
+- [ANIME-FACE-GAN](https://github.com/ANIME305/Anime-GAN-tensorflow): Generation by SAGAN and BigGAN
+- [AnimeGAN](https://github.com/jayleicn/animeGAN): Generation by DCGAN
+- [Anime_GAN](https://github.com/FangYang970206/Anime_GAN): Generation by DCGAN, WGAN and cGAN
+- [ACGAN Conditional Anime Generation](https://github.com/bchao1/Anime-Generation): Generation by ACGAN
+
+### Image-to-Image Tranlation
+- [Chainer-CycleGAN](https://github.com/Aixile/chainer-cyclegan): Turn all girls into silver hair
+- [Avatar Artist Using GAN](http://cs230.stanford.edu/projects_winter_2020/reports/32639139.pdf)
+- [Real world to anime style transfer](https://github.com/racinmat/anime-style-transfer)
+
+### Automatic Line Art Colorization
+- [PaintsChainer](https://github.com/pfnet/PaintsChainer)
+- [Line-Art-Colorization-SPADE](https://github.com/Ugness/Line-Art-Colorization-SPADE)
+- [GANime: Generating Anime and Manga Character Drawings from Sketches](http://cs230.stanford.edu/projects_winter_2020/posters/32226261.pdf)
+- [Line Drawing Colorization](http://cs231n.stanford.edu/reports/2017/pdfs/425.pdf)
+
+### Character Animating
+- [Talking Head Anime from a Single Image](https://pkhungurn.github.io/talking-head-anime/)
+
+### Super Resolution
+- [waifu2x](https://github.com/nagadomi/waifu2x)
+- [Anime4K](https://github.com/bloc97/Anime4K)
+
+### Landmark Detection
+- [Anime face landmark detection by deep cascaded regression](https://github.com/kanosawa/anime_face_landmark_detection)
