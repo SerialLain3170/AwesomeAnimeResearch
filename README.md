@@ -32,6 +32,7 @@ Summary of published or preprint papers
 | Face2anime| [Improving Shape Deformation in Unsupervised Image-to-Image Translation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Aaron_Gokaslan_Improving_Shape_Deformation_ECCV_2018_paper.pdf) | ECCV2018 | [Github](https://github.com/brownvc/ganimorph) |
 | | [Twin-GAN – Unpaired Cross-Domain Image Translation with Weight-Sharing GANs](https://arxiv.org/pdf/1809.00946.pdf) | | [Github](https://github.com/jerryli27/TwinGAN) |
 | | [Landmark Assisted CycleGAN for Cartoon Face Generation](https://arxiv.org/pdf/1907.01424v1.pdf) | | |
+| | [Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation](https://arxiv.org/pdf/2007.13332.pdf) | | |
 | Selfie2anime | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | ICLR2020 | [Github](https://github.com/taki0112/UGATIT) |
 | | [Breaking the cycle—Colleagues are all you need](https://arxiv.org/pdf/1911.10538.pdf) | CVPR2020 | [Github](https://github.com/Onr/Council-GAN) |
 | | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://arxiv.org/pdf/1911.11897.pdf) | IJCNN2019 | [Github](https://github.com/Ha0Tang/AttentionGAN) |
@@ -49,6 +50,7 @@ Summary of published or preprint papers
 | | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf) | ECCV2020 | [Github](https://github.com/hytseng0509/ArtEditing) |
 | | [Deep Sketch-guided Cartoon Video Synthesis](https://arxiv.org/pdf/2008.04149.pdf) | | |
 | Photo2manga | [Unpaired Photo-to-manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/pdf/2004.10634.pdf) | | |
+| anime2costume | [Anime-to-Real Clothing: Cosplay Costume Generation via Image-to-Image Translation](https://arxiv.org/pdf/2008.11479.pdf) | | |
 | Style transfer | [Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks](https://arxiv.org/pdf/1805.07997v1.pdf) | | |
 | | [Disentangling Style and Content in Anime Illustrations](https://arxiv.org/pdf/1905.10742v2.pdf) | | [Github](https://github.com/stormraiser/adversarial-disentangle) |
 | | [StarGAN Based Facial Expression Transfer for Anime Characters](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9050061) | CSICC2020 | |
