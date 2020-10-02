@@ -12,6 +12,7 @@ Summary of published or preprint papers
 | [The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives](https://arxiv.org/pdf/1611.05118.pdf) | CVPR2017 | [Github](https://github.com/miyyer/comics) |
 | [Building a Manga Dataset ”Manga109” with Annotations for Multimedia Applications](https://arxiv.org/pdf/2005.04425.pdf) | IEEE MultiMedia,2020 | [HP](http://www.manga109.org/ja/download_s.html) |
 | [DanbooRegion: An Illustration Region Dataset](https://lllyasviel.github.io/DanbooRegion/paper/paper.pdf) | ECCV2020 | [Github](https://github.com/lllyasviel/DanbooRegion) |
+| [Unconstrained Text Detection in Manga: a New Dataset and Baseline](https://arxiv.org/pdf/2009.04042.pdf) | ECCVW2020 | |
 
 ### Image Generation
 
@@ -129,6 +130,7 @@ Summary of published or preprint papers
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [Synthesis of Screentone Patterns of Manga Characters](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8959008&casa_token=kmJ6IhlI3q4AAAAA:jjs8YrOWPFpv1eJWoztbX8jdHBqRQWPWmTq4Tr1FqABXgA9f5u5lRiyktztGAH05ALmkkcwdoEkx&tag=1) | ISM2019 | |
+| [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) | SIGGRAPH2020 | |
 
 ### Representation Learning
 | Paper | Conference | Links |
