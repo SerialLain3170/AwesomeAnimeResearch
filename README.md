@@ -34,6 +34,7 @@ Summary of published or preprint papers
 | | [Twin-GAN – Unpaired Cross-Domain Image Translation with Weight-Sharing GANs](https://arxiv.org/pdf/1809.00946.pdf) | | [Github](https://github.com/jerryli27/TwinGAN) |
 | | [Landmark Assisted CycleGAN for Cartoon Face Generation](https://arxiv.org/pdf/1907.01424v1.pdf) | | |
 | | [Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation](https://arxiv.org/pdf/2007.13332.pdf) | | |
+| | [Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network](https://arxiv.org/pdf/2010.05713.pdf) | | |
 | Selfie2anime | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | ICLR2020 | [Github](https://github.com/taki0112/UGATIT) |
 | | [Breaking the cycle—Colleagues are all you need](https://arxiv.org/pdf/1911.10538.pdf) | CVPR2020 | [Github](https://github.com/Onr/Council-GAN) |
 | | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://arxiv.org/pdf/1911.11897.pdf) | IJCNN2019 | [Github](https://github.com/Ha0Tang/AttentionGAN) |
