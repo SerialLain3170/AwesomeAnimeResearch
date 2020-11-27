@@ -25,6 +25,7 @@ Summary of published or preprint papers
 | [Autoencoding Generative Adversarial Networks](https://arxiv.org/pdf/2004.05472.pdf) | | [Github](https://github.com/ConorLazarou/AEGAN-keras) |
 | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf) | | [Github](https://github.com/genforce/sefa) |
 | [FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2010.11943.pdf) | | |
+| [Generating Full-Body Standing Figures of Anime Characters and Its Style Transfer by GAN](https://waseda.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=58145&item_no=1&page_id=13&block_id=21) | | |
 
 
 ### Image-to-image Translation
@@ -127,6 +128,7 @@ Summary of published or preprint papers
 | [Unpaired Sketch-to-Line Translation via Synthesis of Sketches](https://dl.acm.org/doi/pdf/10.1145/3355088.3365163) | SIGGRAPH2019 | |
 | [Perceptual-aware Sketch Simplification Based on Integrated VGG Layers](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8771128&casa_token=hdWBbb6M48gAAAAA:UF7ya0ielOOv-xlBL8cOi-m2AprGfNRxBoM7eyCAUK_5Cxzx2y6PGD_4iUdHEzvpB-fsnZi9ABHG) | TVCG2019 | |
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 | |
+| [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/pdf/10.1145/3394171.3413720?casa_token=HwAeYhuqK8MAAAAA:JNFL_KlQLY7wRH9gYMLU086sBBxEPLoGh55Tfb42diFl_kaQIr_fDp6bR19r-ZNcxLqQu-RMzsipsdE) | MM2020 | [Github](https://github.com/LCXCUC/SketchMan2020) |
 
 ### Screentone Synthesis
 | Paper | Conference | Links |
@@ -168,6 +170,11 @@ Summary of published or preprint papers
 | [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8893046&casa_token=ZHfSLyDLShIAAAAA:Ta33GNZVMshklmNrlRrOZ5FtF5tnttXQoYkJRssYhnqPo81Vu7wgdswQwtQ7SKqZs2ilUJ3FpB3I&tag=1) | ICDARW2019 |
 | [Deep Learning-Based Classification of the Polar Emotions of “Moe”-Style Cartoon Pictures](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9220754) | TST2020 |
 | [Learning from the Past: Meta-Continual Learning withKnowledge Embedding for Jointly Sketch, Cartoon, andCaricature Face Recognition](https://dl.acm.org/doi/epdf/10.1145/3394171.3413892) | MM2020 |
+
+### 3D Character Creation
+| Paper | Conference | Links |
+| ---- | ---- | ---- |
+| [Automatic Generation of 3D Natural Anime-like Non-Player Characters with Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9240508&casa_token=gHSr2f5OAhUAAAAA:xNB09j75UwvjmmP7SncPlYqS1wKBeD9samzdfwxPy3DcZmkswGoQ8wJ4R70l_7wuHDq0HN1N5axW) | ICCW2020 | |
 
 ### Robotics
 | Paper | Conference | Links |
