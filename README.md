@@ -35,6 +35,7 @@ Summary of published or preprint papers
 | Face2anime| [Improving Shape Deformation in Unsupervised Image-to-Image Translation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Aaron_Gokaslan_Improving_Shape_Deformation_ECCV_2018_paper.pdf) | ECCV2018 | [Github](https://github.com/brownvc/ganimorph) |
 | | [Twin-GAN – Unpaired Cross-Domain Image Translation with Weight-Sharing GANs](https://arxiv.org/pdf/1809.00946.pdf) | | [Github](https://github.com/jerryli27/TwinGAN) |
 | | [Landmark Assisted CycleGAN for Cartoon Face Generation](https://arxiv.org/pdf/1907.01424v1.pdf) | | |
+| | [Generating Anime from Real Human Image with Adversarial Training](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8934465&casa_token=6RpNKFk9XGYAAAAA:GJBL2_x8sJDqYnSf3BKtYjiKdR3DAYoR4N7Cq-fF65LX9hlRgq5Wn9w6G71IPnGzCHPpdpIi9PuE) | ICASERT2019 | |
 | | [Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation](https://arxiv.org/pdf/2007.13332.pdf) | | |
 | | [Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network](https://arxiv.org/pdf/2010.05713.pdf) | | |
 | Selfie2anime | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | ICLR2020 | [Github](https://github.com/taki0112/UGATIT) |
@@ -42,6 +43,7 @@ Summary of published or preprint papers
 | | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://arxiv.org/pdf/1911.11897.pdf) | IJCNN2019 | [Github](https://github.com/Ha0Tang/AttentionGAN) |
 | | [Unpaired Image-to-Image Translation using Adversarial Consistency Loss](https://arxiv.org/pdf/2003.04858.pdf) | ECCV2020 | [Github](https://github.com/hyperplane-lab/ACL-GAN) |
 | | [Feature Quantization Improves GAN Training](https://arxiv.org/pdf/2004.02088.pdf) | ICML2020 | [Github](https://github.com/YangNaruto/FQ-GAN) |
+| | [Interpolation based Anime Face Style Transfer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9237764&casa_token=BY0WWYLJdYwAAAAA:KFmo-RJs4Hx7ezP9Tryq0A7XdmDVem0VmhOMuj4wvdQ985KYts5TNg8WduK9UDOKqWliLpUUv7qz) | MAPR2020 | |
 | Photo2anime | [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf) | CVPR2018 | [Github](https://github.com/znxlwm/pytorch-CartoonGAN) |
 | | [Comixify: Transform video into a comics](https://arxiv.org/pdf/1812.03473.pdf) | | [Github](https://github.com/maciej3031/comixify) |
 | | [GANILLA: Generative adversarial networks for image to illustration translation](https://arxiv.org/pdf/2002.05638.pdf) | | [Github](https://github.com/giddyyupp/ganilla) |
@@ -78,6 +80,7 @@ Summary of published or preprint papers
 | | [MANGAN: ASSISTING COLORIZATION OF MANGA CHARACTERS CONCEPT ART USING CONDITIONAL GAN](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803667&casa_token=1HtzmvCWXucAAAAA:MEdu83aRd8aNcUcA4OkLGmkeK66c_hl4z-Qkh1zoHgGJzxongNZAEsy1uwD-kjMpbJC2JwKVgnv0) | ICIP2019 | [Github](https://github.com/felipelodur/ManGAN) |
 | | [Two-Stage Sketch Colorization With Color Parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8944253) | IEEE Access2019 | |
 | | [User Guided Digital Artwork Colorization](https://dl.acm.org/doi/pdf/10.1145/3374587.3374604?casa_token=-9L6xZgFmAwAAAAA:MPaxWTYULVcdxxr3LDmoWmEmit3imOq1AJZmc4x2rb_wDy7IhVTJgQapn4qHdypr9_Z9i6Da5kEEZUs) | CSAI2019 | |
+| | [Cartoon image colorization based on emotion recognition and superpixel color resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9262834&casa_token=v0oZd2YnDmsAAAAA:n7CGvg0EkFJJnFzC8cmh3KnbrXbu1hQ8n3NmvyCNTOFgacki8fIN41i38t3D5QoRW_SnmhTvMowI) | ICCST2020 | |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 | |
 | | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 | |
 | | [Deep Manga Colorization with Color Style Extraction by Conditional Adversarially Learned Inference](http://www.iaiai.org/journals/index.php/IEE/article/view/214) | IIAI2017 | |
