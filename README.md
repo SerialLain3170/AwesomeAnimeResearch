@@ -133,6 +133,13 @@ Summary of published or preprint papers
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 | |
 | [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/pdf/10.1145/3394171.3413720?casa_token=HwAeYhuqK8MAAAAA:JNFL_KlQLY7wRH9gYMLU086sBBxEPLoGh55Tfb42diFl_kaQIr_fDp6bR19r-ZNcxLqQu-RMzsipsdE) | MM2020 | [Github](https://github.com/LCXCUC/SketchMan2020) |
 
+### Automatic Animation Inbetweening
+| Paper | Conference | Links |
+| ---- | ---- | ---- |
+| [A filter based approach for inbetweening (Japanese)](https://arxiv.org/pdf/1706.03497.pdf) | | [Movie](https://www.youtube.com/watch?v=_RM1zUrY1AQ) |
+| [DiLight: Digital light table – Inbetweening for 2D animations using guidelines](http://graphics.tudelft.nl/Publications-new/2017/CMV17/pdf.pdf) | CMV2017 | |
+| [OPTICAL FLOW BASED LINE DRAWING FRAME INTERPOLATION USING DISTANCE TRANSFORM TO SUPPORT INBETWEENINGS](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803506&casa_token=UtSMDpNxQWsAAAAA:87rASfEQRNMDjEX1CjAINPb0A2_ZyPU4k0KJBN547nOK79ZxL2Rk1zkAd_tzUhj0FBEwaMLpZ9jN&tag=1) | ICIP2019 | |
+
 ### Screentone Synthesis
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
