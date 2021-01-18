@@ -32,7 +32,6 @@ Summary of published or preprint papers
 | [MineGAN: effective knowledge transfer from GANs to target domains with few images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) | CVPR2020 | |
 | [Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs](https://arxiv.org/pdf/2002.10964.pdf) | CVPRW2020 | [Github](https://github.com/sangwoomo/FreezeD) |
 | [Unsupervised Discovery of Disentangled Manifolds in GANs](https://arxiv.org/pdf/2011.11842.pdf) | | |
-| [Image Generation From Small Datasets via Batch Statistics Adaptation]()
 
 
 ### Image-to-image Translation
