@@ -52,6 +52,7 @@ Summary of published or preprint papers
 | | [Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation](https://arxiv.org/pdf/2007.13332.pdf) | | |
 | | [Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network](https://arxiv.org/pdf/2010.05713.pdf) | | [Github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2) |
 | | [A Note on Data Biases in Generative Models](https://arxiv.org/pdf/2012.02516.pdf) | NeurIPSW2020 | |
+| | [Turn Real People into Anime Cartoonization](https://ieeexplore.ieee.org/document/9342433) | ICCECE2021 | |
 | Selfie2anime | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | ICLR2020 | [Github](https://github.com/taki0112/UGATIT) |
 | | [Breaking the cycle—Colleagues are all you need](https://arxiv.org/pdf/1911.10538.pdf) | CVPR2020 | [Github](https://github.com/Onr/Council-GAN) |
 | | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://arxiv.org/pdf/1911.11897.pdf) | IJCNN2019 | [Github](https://github.com/Ha0Tang/AttentionGAN) |
@@ -84,6 +85,7 @@ Summary of published or preprint papers
 | NoHint | [Automatic Sketch Colorization with Tandem Conditional Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8695564&casa_token=hB87yhYxDEkAAAAA:zT1hWyKK9_cXVA3rTmWl63zsg4olw7fKo5D93lGsm8gPpUJDLb2CYLaLVvCURgek15m97YdOfinr) | ISCID2018 | |
 | | [Do You Like Sclera? Sclera-region Detection and Colorization for Anime Character Line Drawings](https://www.atlantis-press.com/journals/ijndc/125913573) | IJNDC2019 | |
 | | [Colorization for Anime Sketches with Cycle-Consistent Adversarial Network](http://www.ijpe-online.com/EN/abstract/abstract4089.shtml) | IJPE2019 | |
+| | [Seg2pix: Few Shot Training Line Art Colorization with Segmented Image Data](https://www.mdpi.com/2076-3417/11/4/1464) | Appl. Sci. 2021 | |
 | Atari | [Manga Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf) | ACM Trans. Graph. 2006 | |
 | | [TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations](https://dcgi.fel.cvut.cz/home/sykorad/Sykora11-NPAR.pdf) | NPAR2011 | |
 | | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/pdf/1704.08834.pdf) | | |
@@ -162,6 +164,7 @@ Summary of published or preprint papers
 ### Talking Head Animation
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
+| [MakeItTalk: Speaker-Aware Talking-Head Animation](https://arxiv.org/pdf/2004.12992.pdf) | SIGGRAPH Asia2020 | |
 | [CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_CPTNet_Cascade_Pose_Transform_Network_for_Single_Image_Talking_Head_ACCV_2020_paper.pdf) | ACCV2020 | |
 
 ### Screentone Synthesis
