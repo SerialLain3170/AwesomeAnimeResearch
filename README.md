@@ -28,6 +28,7 @@ Summary of published or preprint papers
 | | [Classification Representations Can be Reused for Downstream Generations](https://arxiv.org/pdf/2004.07543.pdf) | | |
 | | [GAN Memory with No Forgetting](https://arxiv.org/pdf/2006.07543.pdf) | NeurIPS2020 | [Github](https://github.com/MiaoyunZhao/GANmemory_LifelongLearning) |
 | | [Generating Full-Body Standing Figures of Anime Characters and Its Style Transfer by GAN](https://waseda.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=58145&item_no=1&page_id=13&block_id=21) | | |
+| | [Efficient Continual Adaptation for Generative Adversarial Networks](https://arxiv.org/pdf/2103.04032.pdf) | | |
 | Few-shot | [Image Generation From Small Datasets via Batch Statistics Adaptation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Noguchi_Image_Generation_From_Small_Datasets_via_Batch_Statistics_Adaptation_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/nogu-atsu/small-dataset-image-generation) |
 | | [FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2010.11943.pdf) | | [Github](https://github.com/e-271/few-shot-gan) |
 | | [MineGAN: effective knowledge transfer from GANs to target domains with few images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) | CVPR2020 | [Github](https://github.com/yaxingwang/MineGAN) |
@@ -37,6 +38,7 @@ Summary of published or preprint papers
 | | [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/pdf/2002.03754.pdf) | ICML2020 | [Github](https://github.com/anvoynov/GANLatentDiscovery) |
 | | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf) | | [Github](https://github.com/genforce/sefa) |
 | | [Unsupervised Discovery of Disentangled Manifolds in GANs](https://arxiv.org/pdf/2011.11842.pdf) | | |
+| | [Do Generative Models Know Disentanglement? Contrastive Learning is All You Need](https://arxiv.org/pdf/2102.10543.pdf) | | [Github](https://github.com/xrenaa/DisCo) |
 
 
 ### Image-to-image Translation
@@ -53,6 +55,7 @@ Summary of published or preprint papers
 | | [Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network](https://arxiv.org/pdf/2010.05713.pdf) | | [Github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2) |
 | | [A Note on Data Biases in Generative Models](https://arxiv.org/pdf/2012.02516.pdf) | NeurIPSW2020 | |
 | | [Turn Real People into Anime Cartoonization](https://ieeexplore.ieee.org/document/9342433) | ICCECE2021 | |
+| | [AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation](https://arxiv.org/pdf/2102.12593.pdf) | | |
 | Selfie2anime | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | ICLR2020 | [Github](https://github.com/taki0112/UGATIT) |
 | | [Breaking the cycle—Colleagues are all you need](https://arxiv.org/pdf/1911.10538.pdf) | CVPR2020 | [Github](https://github.com/Onr/Council-GAN) |
 | | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://arxiv.org/pdf/1911.11897.pdf) | IJCNN2019 | [Github](https://github.com/Ha0Tang/AttentionGAN) |
@@ -101,6 +104,7 @@ Summary of published or preprint papers
 | | [User Guided Digital Artwork Colorization](https://dl.acm.org/doi/pdf/10.1145/3374587.3374604?casa_token=-9L6xZgFmAwAAAAA:MPaxWTYULVcdxxr3LDmoWmEmit3imOq1AJZmc4x2rb_wDy7IhVTJgQapn4qHdypr9_Z9i6Da5kEEZUs) | CSAI2019 | |
 | | [Cartoon image colorization based on emotion recognition and superpixel color resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9262834&casa_token=v0oZd2YnDmsAAAAA:n7CGvg0EkFJJnFzC8cmh3KnbrXbu1hQ8n3NmvyCNTOFgacki8fIN41i38t3D5QoRW_SnmhTvMowI) | ICCST2020 | |
 | | [Automatic Colorization of Anime Style Illustrations Using a Two-Stage Generator](https://www.mdpi.com/2076-3417/10/23/8699) | Appl. Sci. 2020 | |
+| | User-Guided Line Art Flat Filling with Split Filling Mechanism | CVPR2021 | [HP](https://lllyasviel.github.io/SplitFilling/) |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 | |
 | | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 | |
 | | [Deep Manga Colorization with Color Style Extraction by Conditional Adversarially Learned Inference](http://www.iaiai.org/journals/index.php/IEE/article/view/214) | IIAI2017 | |
@@ -172,6 +176,7 @@ Summary of published or preprint papers
 | ---- | ---- | ---- |
 | [Synthesis of Screentone Patterns of Manga Characters](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8959008&casa_token=kmJ6IhlI3q4AAAAA:jjs8YrOWPFpv1eJWoztbX8jdHBqRQWPWmTq4Tr1FqABXgA9f5u5lRiyktztGAH05ALmkkcwdoEkx&tag=1) | ISM2019 | |
 | [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) | SIGGRAPH2020 | |
+| Generating Manga from Illustrations via Mimicking Manga Workflow | CVPR2021 | [HP](https://lllyasviel.github.io/MangaFilter/) |
 
 ### Representation Learning
 | Paper | Conference | Links |
