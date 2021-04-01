@@ -28,6 +28,7 @@ Summary of published or preprint papers
 | | [Classification Representations Can be Reused for Downstream Generations](https://arxiv.org/pdf/2004.07543.pdf) | | |
 | | [GAN Memory with No Forgetting](https://arxiv.org/pdf/2006.07543.pdf) | NeurIPS2020 | [Github](https://github.com/MiaoyunZhao/GANmemory_LifelongLearning) |
 | | [Generating Full-Body Standing Figures of Anime Characters and Its Style Transfer by GAN](https://waseda.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=58145&item_no=1&page_id=13&block_id=21) | | |
+| | [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/pdf/2011.11731.pdf) | CVPR2021 | [Github](https://github.com/mahmoudnafifi/HistoGAN) |
 | | [Efficient Continual Adaptation for Generative Adversarial Networks](https://arxiv.org/pdf/2103.04032.pdf) | | |
 | Few-shot | [Image Generation From Small Datasets via Batch Statistics Adaptation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Noguchi_Image_Generation_From_Small_Datasets_via_Batch_Statistics_Adaptation_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/nogu-atsu/small-dataset-image-generation) |
 | | [FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2010.11943.pdf) | | [Github](https://github.com/e-271/few-shot-gan) |
@@ -62,6 +63,7 @@ Summary of published or preprint papers
 | | [Unpaired Image-to-Image Translation using Adversarial Consistency Loss](https://arxiv.org/pdf/2003.04858.pdf) | ECCV2020 | [Github](https://github.com/hyperplane-lab/ACL-GAN) |
 | | [Feature Quantization Improves GAN Training](https://arxiv.org/pdf/2004.02088.pdf) | ICML2020 | [Github](https://github.com/YangNaruto/FQ-GAN) |
 | | [Interpolation based Anime Face Style Transfer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9237764&casa_token=BY0WWYLJdYwAAAAA:KFmo-RJs4Hx7ezP9Tryq0A7XdmDVem0VmhOMuj4wvdQ985KYts5TNg8WduK9UDOKqWliLpUUv7qz) | MAPR2020 | |
+| | [SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/2103.16219.pdf) | | |
 | Photo2anime | [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf) | CVPR2018 | [Github](https://github.com/znxlwm/pytorch-CartoonGAN) |
 | | [Comixify: Transform video into a comics](https://arxiv.org/pdf/1812.03473.pdf) | | [Github](https://github.com/maciej3031/comixify) |
 | | [GANILLA: Generative adversarial networks for image to illustration translation](https://arxiv.org/pdf/2002.05638.pdf) | | [Github](https://github.com/giddyyupp/ganilla) |
@@ -89,6 +91,7 @@ Summary of published or preprint papers
 | | [Do You Like Sclera? Sclera-region Detection and Colorization for Anime Character Line Drawings](https://www.atlantis-press.com/journals/ijndc/125913573) | IJNDC2019 | |
 | | [Colorization for Anime Sketches with Cycle-Consistent Adversarial Network](http://www.ijpe-online.com/EN/abstract/abstract4089.shtml) | IJPE2019 | |
 | | [Seg2pix: Few Shot Training Line Art Colorization with Segmented Image Data](https://www.mdpi.com/2076-3417/11/4/1464) | Appl. Sci. 2021 | |
+| | [Stylized-Colorization for Line Arts](https://www.gwern.net/docs/ai/anime/2021-fang.pdf) | ICPR2021 | |
 | Atari | [Manga Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf) | ACM Trans. Graph. 2006 | |
 | | [TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations](https://dcgi.fel.cvut.cz/home/sykorad/Sykora11-NPAR.pdf) | NPAR2011 | |
 | | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/pdf/1704.08834.pdf) | | |
