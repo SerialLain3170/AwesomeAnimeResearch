@@ -13,6 +13,7 @@ Summary of published or preprint papers
 | [Building a Manga Dataset ”Manga109” with Annotations for Multimedia Applications](https://arxiv.org/pdf/2005.04425.pdf) | IEEE MultiMedia,2020 | [HP](http://www.manga109.org/ja/download_s.html) |
 | [DanbooRegion: An Illustration Region Dataset](https://lllyasviel.github.io/DanbooRegion/paper/paper.pdf) | ECCV2020 | [Github](https://github.com/lllyasviel/DanbooRegion) |
 | [Unconstrained Text Detection in Manga: a New Dataset and Baseline](https://arxiv.org/pdf/2009.04042.pdf) | ECCVW2020 | [Github](https://github.com/juvian/Manga-Text-Segmentation) |
+| [DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION](https://arxiv.org/pdf/2101.08674.pdf) | | [Github](https://github.com/arkel23/animesion) | 
 
 ### Image Generation
 
@@ -30,6 +31,7 @@ Summary of published or preprint papers
 | | [Generating Full-Body Standing Figures of Anime Characters and Its Style Transfer by GAN](https://waseda.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=58145&item_no=1&page_id=13&block_id=21) | | |
 | | [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/pdf/2011.11731.pdf) | CVPR2021 | [Github](https://github.com/mahmoudnafifi/HistoGAN) |
 | | [Efficient Continual Adaptation for Generative Adversarial Networks](https://arxiv.org/pdf/2103.04032.pdf) | | |
+| | [Generating "Ideal" Anime Opening Frames Using Neural Networks](https://ieeexplore.ieee.org/abstract/document/9396557) | ElConRus2021 | |
 | Few-shot | [Image Generation From Small Datasets via Batch Statistics Adaptation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Noguchi_Image_Generation_From_Small_Datasets_via_Batch_Statistics_Adaptation_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/nogu-atsu/small-dataset-image-generation) |
 | | [FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2010.11943.pdf) | | [Github](https://github.com/e-271/few-shot-gan) |
 | | [MineGAN: effective knowledge transfer from GANs to target domains with few images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) | CVPR2020 | [Github](https://github.com/yaxingwang/MineGAN) |
@@ -91,6 +93,7 @@ Summary of published or preprint papers
 | | [Do You Like Sclera? Sclera-region Detection and Colorization for Anime Character Line Drawings](https://www.atlantis-press.com/journals/ijndc/125913573) | IJNDC2019 | |
 | | [Colorization for Anime Sketches with Cycle-Consistent Adversarial Network](http://www.ijpe-online.com/EN/abstract/abstract4089.shtml) | IJPE2019 | |
 | | [Seg2pix: Few Shot Training Line Art Colorization with Segmented Image Data](https://www.mdpi.com/2076-3417/11/4/1464) | Appl. Sci. 2021 | |
+| | [Semi-automatic Manga Colorization Using Conditional Adversarial Networks](https://www.gwern.net/docs/ai/anime/2021-golyadkin.pdf) | | [Github](https://github.com/qweasdd/manga-colorization) |
 | | [Stylized-Colorization for Line Arts](https://www.gwern.net/docs/ai/anime/2021-fang.pdf) | ICPR2021 | |
 | Atari | [Manga Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf) | ACM Trans. Graph. 2006 | |
 | | [TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations](https://dcgi.fel.cvut.cz/home/sykorad/Sykora11-NPAR.pdf) | NPAR2011 | |
@@ -167,6 +170,7 @@ Summary of published or preprint papers
 | [A filter based approach for inbetweening (Japanese)](https://arxiv.org/pdf/1706.03497.pdf) | | [Movie](https://www.youtube.com/watch?v=_RM1zUrY1AQ) |
 | [DiLight: Digital light table – Inbetweening for 2D animations using guidelines](http://graphics.tudelft.nl/Publications-new/2017/CMV17/pdf.pdf) | CMV2017 | |
 | [OPTICAL FLOW BASED LINE DRAWING FRAME INTERPOLATION USING DISTANCE TRANSFORM TO SUPPORT INBETWEENINGS](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803506&casa_token=UtSMDpNxQWsAAAAA:87rASfEQRNMDjEX1CjAINPb0A2_ZyPU4k0KJBN547nOK79ZxL2Rk1zkAd_tzUhj0FBEwaMLpZ9jN&tag=1) | ICIP2019 | |
+| [Deep Animation Video Interpolation in the Wild](https://arxiv.org/pdf/2104.02495.pdf) | CVPR2021 | [Github](https://github.com/lisiyao21/AnimeInterp/) |
 
 ### Talking Head Animation
 | Paper | Conference | Links |
