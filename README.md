@@ -23,7 +23,7 @@ Summary of published or preprint papers
 | | [Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks](https://arxiv.org/pdf/1809.01890v1.pdf) | ECCVW2018 | [HP](https://dena.com/intl/anime-generation/) |
 | | [Generate Novel Image Styles using Weighted Hybrid Generative Adversarial Nets](https://ieeexplore.ieee.org/document/8489080) | IJCNN2018 | |
 | | [Towards Diverse Anime Face Generation: Active Label Completion and Style Feature Network](https://diglib.eg.org/bitstream/handle/10.2312/egs20191016/065-068.pdf?sequence=1&isAllowed=y) | EUROGRAPHICS2019 | |
-| | [An Adaptive Control Algorithm for Stable Training of Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8936350) | IEEE Access2019 | |
+| | [An Adaptive Control Algorithm for Stable Training of Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8936350) | IEEE Access2019 | |
 | | [Overcoming Long-term Catastrophic Forgetting through Adversarial Neural Pruning and Synaptic Consolidation](https://arxiv.org/pdf/1912.09091.pdf) | | |
 | | [Autoencoding Generative Adversarial Networks](https://arxiv.org/pdf/2004.05472.pdf) | | [Github](https://github.com/ConorLazarou/AEGAN-keras) |
 | | [Classification Representations Can be Reused for Downstream Generations](https://arxiv.org/pdf/2004.07543.pdf) | | |
@@ -36,13 +36,12 @@ Summary of published or preprint papers
 | | [FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2010.11943.pdf) | | [Github](https://github.com/e-271/few-shot-gan) |
 | | [MineGAN: effective knowledge transfer from GANs to target domains with few images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) | CVPR2020 | [Github](https://github.com/yaxingwang/MineGAN) |
 | | [Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs](https://arxiv.org/pdf/2002.10964.pdf) | CVPRW2020 | [Github](https://github.com/sangwoomo/FreezeD) |
-| | [DATA INSTANCE PRIOR FOR TRANSFER LEARNING IN GANS](https://arxiv.org/pdf/2012.04256.pdf) | |
+| | [DATA INSTANCE PRIOR FOR TRANSFER LEARNING IN GANS](https://arxiv.org/pdf/2012.04256.pdf) | | |
 | Interpretability | [RPGAN: GANs Interpretability via Random Routing](https://arxiv.org/pdf/1912.10920.pdf) | | [Github](https://github.com/anvoynov/RandomPathGAN) |
 | | [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/pdf/2002.03754.pdf) | ICML2020 | [Github](https://github.com/anvoynov/GANLatentDiscovery) |
-| | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf) | | [Github](https://github.com/genforce/sefa) |
+| | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf) | CVPR2021 | [Github](https://github.com/genforce/sefa) |
 | | [Unsupervised Discovery of Disentangled Manifolds in GANs](https://arxiv.org/pdf/2011.11842.pdf) | | |
 | | [Do Generative Models Know Disentanglement? Contrastive Learning is All You Need](https://arxiv.org/pdf/2102.10543.pdf) | | [Github](https://github.com/xrenaa/DisCo) |
-
 
 ### Image-to-image Translation
 
@@ -52,19 +51,19 @@ Summary of published or preprint papers
 | | [Twin-GAN – Unpaired Cross-Domain Image Translation with Weight-Sharing GANs](https://arxiv.org/pdf/1809.00946.pdf) | | [Github](https://github.com/jerryli27/TwinGAN) |
 | | [DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ma_DA-GAN_Instance-Level_Image_CVPR_2018_paper.pdf) | CVPR2018 | [Github](https://github.com/Rongpeng-Lin/A-DA-GAN-architecture) |
 | | [Landmark Assisted CycleGAN for Cartoon Face Generation](https://arxiv.org/pdf/1907.01424v1.pdf) | | |
-| | [Generating Anime from Real Human Image with Adversarial Training](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8934465&casa_token=6RpNKFk9XGYAAAAA:GJBL2_x8sJDqYnSf3BKtYjiKdR3DAYoR4N7Cq-fF65LX9hlRgq5Wn9w6G71IPnGzCHPpdpIi9PuE) | ICASERT2019 | |
+| | [Generating Anime from Real Human Image with Adversarial Training](https://ieeexplore.ieee.org/document/8934465) | ICASERT2019 | |
 | | [Auto-Encoding for Shared Cross Domain Feature Representation and Image-to-Image Translation](https://arxiv.org/pdf/2006.11404.pdf) | | |
 | | [Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation](https://arxiv.org/pdf/2007.13332.pdf) | | |
 | | [Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network](https://arxiv.org/pdf/2010.05713.pdf) | | [Github](https://github.com/HideUnderBush/UI2I_via_StyleGAN2) |
 | | [A Note on Data Biases in Generative Models](https://arxiv.org/pdf/2012.02516.pdf) | NeurIPSW2020 | |
 | | [Turn Real People into Anime Cartoonization](https://ieeexplore.ieee.org/document/9342433) | ICCECE2021 | |
-| | [AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation](https://arxiv.org/pdf/2102.12593.pdf) | | |
+| | [AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation](https://arxiv.org/pdf/2102.12593.pdf) | | [Github](https://github.com/bing-li-ai/AniGAN) |
 | Selfie2anime | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | ICLR2020 | [Github](https://github.com/taki0112/UGATIT) |
 | | [Breaking the cycle—Colleagues are all you need](https://arxiv.org/pdf/1911.10538.pdf) | CVPR2020 | [Github](https://github.com/Onr/Council-GAN) |
 | | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://arxiv.org/pdf/1911.11897.pdf) | IJCNN2019 | [Github](https://github.com/Ha0Tang/AttentionGAN) |
 | | [Unpaired Image-to-Image Translation using Adversarial Consistency Loss](https://arxiv.org/pdf/2003.04858.pdf) | ECCV2020 | [Github](https://github.com/hyperplane-lab/ACL-GAN) |
 | | [Feature Quantization Improves GAN Training](https://arxiv.org/pdf/2004.02088.pdf) | ICML2020 | [Github](https://github.com/YangNaruto/FQ-GAN) |
-| | [Interpolation based Anime Face Style Transfer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9237764&casa_token=BY0WWYLJdYwAAAAA:KFmo-RJs4Hx7ezP9Tryq0A7XdmDVem0VmhOMuj4wvdQ985KYts5TNg8WduK9UDOKqWliLpUUv7qz) | MAPR2020 | |
+| | [Interpolation based Anime Face Style Transfer](https://ieeexplore.ieee.org/abstract/document/9237764) | MAPR2020 | |
 | | [SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/2103.16219.pdf) | | |
 | Photo2anime | [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf) | CVPR2018 | [Github](https://github.com/znxlwm/pytorch-CartoonGAN) |
 | | [Comixify: Transform video into a comics](https://arxiv.org/pdf/1812.03473.pdf) | | [Github](https://github.com/maciej3031/comixify) |
@@ -76,20 +75,20 @@ Summary of published or preprint papers
 | Sketch2anime | [SmartPaint: a co-creative drawing system based on generative adversarial networks](https://link.springer.com/content/pdf/10.1631/FITEE.1900386.pdf) | FITEE2019 | |
 | | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf) | | [Github](https://github.com/youyuge34/PI-REC) |
 | | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf) | ECCV2020 | [Github](https://github.com/hytseng0509/ArtEditing) |
-| | [Deep Sketch-guided Cartoon Video Synthesis](https://arxiv.org/pdf/2008.04149.pdf) | | |
+| | [Deep Sketch-guided Cartoon Video Inbetweening](https://arxiv.org/pdf/2008.04149.pdf) | IEEE2021 | |
 | | [How to train your conditional GAN: An approach using geometrically structured latent manifolds](https://arxiv.org/pdf/2011.13055.pdf) | | |
-| Photo2manga | [Unpaired Photo-to-manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/pdf/2004.10634.pdf) | | |
+| Photo2manga | [MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/pdf/2004.10634.pdf) | AAAI2021 | |
 | Anime2costume | [Anime-to-Real Clothing: Cosplay Costume Generation via Image-to-Image Translation](https://arxiv.org/pdf/2008.11479.pdf) | | |
 | Style transfer | [Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks](https://arxiv.org/pdf/1805.07997v1.pdf) | | |
 | | [Disentangling Style and Content in Anime Illustrations](https://arxiv.org/pdf/1905.10742v2.pdf) | | [Github](https://github.com/stormraiser/adversarial-disentangle) |
-| | [RAG: Facial Attribute Editing by Learning Residual Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8746217) | IEEE Access2019 | |
-| | [StarGAN Based Facial Expression Transfer for Anime Characters](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9050061) | CSICC2020 | |
+| | [RAG: Facial Attribute Editing by Learning Residual Attributes](https://www.researchgate.net/publication/334058885_RAG_Facial_Attribute_Editing_by_Learning_Residual_Attributes) | IEEE Access2019 | |
+| | [StarGAN Based Facial Expression Transfer for Anime Characters](https://ieeexplore.ieee.org/document/9050061) | CSICC2020 | |
 
 ### Automatic Line Art Colorization
 
 | Subcategory | Paper | Conference | Links |
 | ---- | ---- | ---- | ---- |
-| NoHint | [Automatic Sketch Colorization with Tandem Conditional Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8695564&casa_token=hB87yhYxDEkAAAAA:zT1hWyKK9_cXVA3rTmWl63zsg4olw7fKo5D93lGsm8gPpUJDLb2CYLaLVvCURgek15m97YdOfinr) | ISCID2018 | |
+| NoHint | [Automatic Sketch Colorization with Tandem Conditional Adversarial Networks](https://ieeexplore.ieee.org/document/8695564) | ISCID2018 | |
 | | [Do You Like Sclera? Sclera-region Detection and Colorization for Anime Character Line Drawings](https://www.atlantis-press.com/journals/ijndc/125913573) | IJNDC2019 | |
 | | [Colorization for Anime Sketches with Cycle-Consistent Adversarial Network](http://www.ijpe-online.com/EN/abstract/abstract4089.shtml) | IJPE2019 | |
 | | [Seg2pix: Few Shot Training Line Art Colorization with Segmented Image Data](https://www.mdpi.com/2076-3417/11/4/1464) | Appl. Sci. 2021 | |
@@ -103,12 +102,12 @@ Summary of published or preprint papers
 | | [Two-stage Sketch Colorization](https://github.com/lllyasviel/style2paints/blob/master/papers/sa.pdf) | ACM Trans. Graph. 2018 | [Github](https://github.com/lllyasviel/style2paints) |
 | | [Anime Sketch Coloring with Swish-gated Residual U-net and Spectrally Normalized GAN](http://www.engineeringletters.com/issues_v27/issue_3/EL_27_3_01.pdf) | | [Github](https://github.com/pradeeplam/Anime-Sketch-Coloring-with-Swish-Gated-Residual-UNet) |
 | | [PaintsTorch: a User-Guided Anime Line Art Colorization Tool with Double Generator Conditional Adversarial Network](https://dl.acm.org/doi/10.1145/3359998.3369401) | CVMP2019 | |
-| | [Interactive Anime Sketch Colorization with Style Consistency via a Deep Residual Neural Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8959911&casa_token=x0HnMYRJbEUAAAAA:0S56be9ECJ1X_3w7T0mH7om5JJHD_xQA-2VRyA0UbZbZmh1aq6N-WopRAqQLlg6NxbMURVGUDPNe) | TAAI2019 | |
-| | [Semi-Auto Sketch Colorization Based on Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8965999&casa_token=XpC8iKsSzA0AAAAA:8XB2bqBNYereYl4kd69CyHxxtm2xfX2EkCSB2mQPKDzB2hpOeND9o41XAKvQVOivaJgkSoYVt552&tag=1) | CISP-BMEI2019 | |
-| | [MANGAN: ASSISTING COLORIZATION OF MANGA CHARACTERS CONCEPT ART USING CONDITIONAL GAN](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803667&casa_token=1HtzmvCWXucAAAAA:MEdu83aRd8aNcUcA4OkLGmkeK66c_hl4z-Qkh1zoHgGJzxongNZAEsy1uwD-kjMpbJC2JwKVgnv0) | ICIP2019 | [Github](https://github.com/felipelodur/ManGAN) |
-| | [Two-Stage Sketch Colorization With Color Parsing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8944253) | IEEE Access2019 | |
-| | [User Guided Digital Artwork Colorization](https://dl.acm.org/doi/pdf/10.1145/3374587.3374604?casa_token=-9L6xZgFmAwAAAAA:MPaxWTYULVcdxxr3LDmoWmEmit3imOq1AJZmc4x2rb_wDy7IhVTJgQapn4qHdypr9_Z9i6Da5kEEZUs) | CSAI2019 | |
-| | [Cartoon image colorization based on emotion recognition and superpixel color resolution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9262834&casa_token=v0oZd2YnDmsAAAAA:n7CGvg0EkFJJnFzC8cmh3KnbrXbu1hQ8n3NmvyCNTOFgacki8fIN41i38t3D5QoRW_SnmhTvMowI) | ICCST2020 | |
+| | [Interactive Anime Sketch Colorization with Style Consistency via a Deep Residual Neural Network](https://ieeexplore.ieee.org/document/8959911) | TAAI2019 | |
+| | [Semi-Auto Sketch Colorization Based on Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8965999) | CISP-BMEI2019 | |
+| | [MANGAN: ASSISTING COLORIZATION OF MANGA CHARACTERS CONCEPT ART USING CONDITIONAL GAN](https://ieeexplore.ieee.org/document/8803667) | ICIP2019 | [Github](https://github.com/felipelodur/ManGAN) |
+| | [Two-Stage Sketch Colorization With Color Parsing](https://ieeexplore.ieee.org/document/8944253) | IEEE Access2019 | |
+| | [User Guided Digital Artwork Colorization](https://dl.acm.org/doi/10.1145/3374587.3374604) | CSAI2019 | |
+| | [Cartoon image colorization based on emotion recognition and superpixel color resolution](https://ieeexplore.ieee.org/document/9262834) | ICCST2020 | |
 | | [Automatic Colorization of Anime Style Illustrations Using a Two-Stage Generator](https://www.mdpi.com/2076-3417/10/23/8699) | Appl. Sci. 2020 | |
 | | User-Guided Line Art Flat Filling with Split Filling Mechanism | CVPR2021 | [HP](https://lllyasviel.github.io/SplitFilling/) |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 | |
@@ -120,7 +119,7 @@ Summary of published or preprint papers
 | | [Attentioned Deep Paint](https://github.com/ktaebum/AttentionedDeepPaint/blob/master/poster.pdf) | | [Github](https://github.com/ktaebum/AttentionedDeepPaint) |
 | | [Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors](https://dl.acm.org/doi/pdf/10.1145/3306214.3338585) | SIGGRAPH2019 | |
 | | [Semantic Example Guided Image-to-Image Translation](https://arxiv.org/pdf/1909.13028.pdf) | IEEE Transactions on Multimedia2020 | |
-| | [Graph Matching based Anime Colorization with Multiple References](https://dl.acm.org/doi/pdf/10.1145/3306214.3338560?casa_token=AJBPYxa5W4cAAAAA:7qKVj7ywwBhrsOvGlRwGyNIrjEeRwSMW9VP8pTEX3ma9CPyGIFzWD120QA7XLkS5jsaoIIojN6Fs-9k) | SIGGRAPH2019 | |
+| | [Graph Matching based Anime Colorization with Multiple References](https://ahcweb01.naist.jp/papers/conference/2019/201907_SIGGRAPH2019_s-nakamura/201907_SIGGRAPH_s-nakamura.slides.pdf) | SIGGRAPH2019 | |
 | | [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](https://arxiv.org/pdf/2005.05207.pdf) | CVPR2020 | |
 | | [Multi-Density Sketch-to-Image Translation Network](https://arxiv.org/pdf/2006.10649.pdf) | | |
 | | [Deep-Eyes: Fully Automatic Anime Character Colorization with Painting of Details on Empty Pupils](https://www.gwern.net/docs/ai/anime/2020-akita.pdf) | EG2020| |
@@ -129,7 +128,7 @@ Summary of published or preprint papers
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | | [Github](https://github.com/Harry-Thasarathan/TCVC) |
 | | [Artist-Guided Semiautomatic Animation Colorization](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Thasarathan_Artist-Guided_Semiautomatic_Animation_Colorization_ICCVW_2019_paper.pdf) | ICCVW2019 | |
 | | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | | |
-| | [Line Art Correlation Matching Network for Automatic Animation Colorization](https://arxiv.org/pdf/2004.06718.pdf) | | |
+| | [Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Line_Art_Correlation_Matching_Feature_Transfer_Network_for_Automatic_Animation_WACV_2021_paper.pdf) | WACV2021 | |
 
 ### Automatic Character Lighting
 
@@ -139,7 +138,7 @@ Summary of published or preprint papers
 | [Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Hudon_Deep_Normal_Estimation_for_Automatic_Shading_of_Hand-Drawn_Characters_ECCVW_2018_paper.pdf) | ECCVW2018 | [Github](https://github.com/V-Sense/DeepNormals) |
 | [Automatic Illumination Effects for 2D Characters](https://nips2018creativity.github.io/doc/Automatic_Illumination_Effects_for_2D_Characters.pdf) | NIPSW2018 | |
 | [2D shading for cel animation](https://dl.acm.org/doi/10.1145/3229147.3229148) | NPAR2018 | [HP](https://v-sense.scss.tcd.ie/research/vfx-animation/2d-shading-for-cel-animation/) |
-| [Augmenting Hand-Drawn Art with Global Illumination Effects through Surface Inflation](https://dl.acm.org/doi/pdf/10.1145/3359998.3369400?casa_token=HKCk1xGdg4kAAAAA:xgMuNvCBEMcaKWNjwo2715ma3laPraxAAtsObkQ3QHA5ck1MF7Yl891X22MpY24lfOb0IXKw-cahuk8) | CVMP 2019 | [HP](https://v-sense.scss.tcd.ie/research/augmenting-hand-drawn-art-with-global-illumination-effects-through-surface-inflation/) |
+| [Augmenting Hand-Drawn Art with Global Illumination Effects through Surface Inflation](https://dl.acm.org/doi/abs/10.1145/3359998.3369400) | CVMP 2019 | [HP](https://v-sense.scss.tcd.ie/research/augmenting-hand-drawn-art-with-global-illumination-effects-through-surface-inflation/) |
 | [Generating Digital Painting Lighting Effects via RGB-space Geometry](https://lllyasviel.github.io/PaintingLight/files/TOG20PaintingLight.pdf) | ACM Trans. Graph. 2020 | [Github](https://github.com/lllyasviel/PaintingLight) |
 | [Learning to Shadow Hand-drawn Sketches](https://arxiv.org/pdf/2002.11812.pdf) | CVPR2020 | [Github](https://github.com/qyzdao/ShadeSketch) |
 
@@ -160,16 +159,16 @@ Summary of published or preprint papers
 | [Mastering Sketching: Adversarial Augmentation for Structured Prediction](https://arxiv.org/pdf/1703.08966.pdf) | ACM Trans. Graph. 2018 | [Github](https://github.com/bobbens/sketch_simplification) |
 | [Real-Time Data-Driven Interactive Rough Sketch Inking](https://dl.acm.org/doi/pdf/10.1145/3197517.3201370) | ACM Trans. Graph. 2018 | [Github](https://github.com/bobbens/line_thinning) |
 | [Unpaired Sketch-to-Line Translation via Synthesis of Sketches](https://dl.acm.org/doi/pdf/10.1145/3355088.3365163) | SIGGRAPH2019 | |
-| [Perceptual-aware Sketch Simplification Based on Integrated VGG Layers](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8771128&casa_token=hdWBbb6M48gAAAAA:UF7ya0ielOOv-xlBL8cOi-m2AprGfNRxBoM7eyCAUK_5Cxzx2y6PGD_4iUdHEzvpB-fsnZi9ABHG) | TVCG2019 | |
+| [Perceptual-aware Sketch Simplification Based on Integrated VGG Layers](https://ieeexplore.ieee.org/abstract/document/8771128) | TVCG2019 | |
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 | |
-| [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/pdf/10.1145/3394171.3413720?casa_token=HwAeYhuqK8MAAAAA:JNFL_KlQLY7wRH9gYMLU086sBBxEPLoGh55Tfb42diFl_kaQIr_fDp6bR19r-ZNcxLqQu-RMzsipsdE) | MM2020 | [Github](https://github.com/LCXCUC/SketchMan2020) |
+| [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | MM2020 | [Github](https://github.com/LCXCUC/SketchMan2020) |
 
 ### Automatic Animation Inbetweening
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [A filter based approach for inbetweening (Japanese)](https://arxiv.org/pdf/1706.03497.pdf) | | [Movie](https://www.youtube.com/watch?v=_RM1zUrY1AQ) |
 | [DiLight: Digital light table – Inbetweening for 2D animations using guidelines](http://graphics.tudelft.nl/Publications-new/2017/CMV17/pdf.pdf) | CMV2017 | |
-| [OPTICAL FLOW BASED LINE DRAWING FRAME INTERPOLATION USING DISTANCE TRANSFORM TO SUPPORT INBETWEENINGS](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803506&casa_token=UtSMDpNxQWsAAAAA:87rASfEQRNMDjEX1CjAINPb0A2_ZyPU4k0KJBN547nOK79ZxL2Rk1zkAd_tzUhj0FBEwaMLpZ9jN&tag=1) | ICIP2019 | |
+| [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506) | ICIP2019 | |
 | [Deep Animation Video Interpolation in the Wild](https://arxiv.org/pdf/2104.02495.pdf) | CVPR2021 | [Github](https://github.com/lisiyao21/AnimeInterp/) |
 
 ### Talking Head Animation
@@ -181,7 +180,7 @@ Summary of published or preprint papers
 ### Screentone Synthesis
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
-| [Synthesis of Screentone Patterns of Manga Characters](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8959008&casa_token=kmJ6IhlI3q4AAAAA:jjs8YrOWPFpv1eJWoztbX8jdHBqRQWPWmTq4Tr1FqABXgA9f5u5lRiyktztGAH05ALmkkcwdoEkx&tag=1) | ISM2019 | |
+| [Synthesis of Screentone Patterns of Manga Characters](https://ieeexplore.ieee.org/document/8959008) | ISM2019 | |
 | [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) | SIGGRAPH2020 | |
 | Generating Manga from Illustrations via Mimicking Manga Workflow | CVPR2021 | [HP](https://lllyasviel.github.io/MangaFilter/) |
 
@@ -216,14 +215,14 @@ Summary of published or preprint papers
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [Progressive Deep Feature Learning for Manga Character Recognition via Unlabeled Training Data](https://dl.acm.org/doi/pdf/10.1145/3321408.3322624) | ACM TURC2019| |
-| [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8893046&casa_token=ZHfSLyDLShIAAAAA:Ta33GNZVMshklmNrlRrOZ5FtF5tnttXQoYkJRssYhnqPo81Vu7wgdswQwtQ7SKqZs2ilUJ3FpB3I&tag=1) | ICDARW2019 |
-| [Deep Learning-Based Classification of the Polar Emotions of “Moe”-Style Cartoon Pictures](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9220754) | TST2020 |
+| [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/document/8893046) | ICDARW2019 |
+| [Deep Learning-Based Classification of the Polar Emotions of “Moe”-Style Cartoon Pictures](https://ieeexplore.ieee.org/document/9220754) | TST2020 |
 | [Learning from the Past: Meta-Continual Learning withKnowledge Embedding for Jointly Sketch, Cartoon, andCaricature Face Recognition](https://dl.acm.org/doi/epdf/10.1145/3394171.3413892) | MM2020 |
 
 ### 3D Character Creation
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
-| [Automatic Generation of 3D Natural Anime-like Non-Player Characters with Machine Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9240508&casa_token=gHSr2f5OAhUAAAAA:xNB09j75UwvjmmP7SncPlYqS1wKBeD9samzdfwxPy3DcZmkswGoQ8wJ4R70l_7wuHDq0HN1N5axW) | ICCW2020 | |
+| [Automatic Generation of 3D Natural Anime-like Non-Player Characters with Machine Learning](https://ieeexplore.ieee.org/document/9240508) | ICCW2020 | |
 
 ### Robotics
 | Paper | Conference | Links |
@@ -239,7 +238,7 @@ Summary of published or preprint papers
 | Paper | Conference |
 | ---- | ---- |
 | [A Survey of Comics Research in Computer Science](https://arxiv.org/pdf/1804.05490.pdf) | |
-| [Computational Approaches to Comics Analysis](https://s3.amazonaws.com/academia.edu.documents/63243542/Laubrock___Dunst_Computational_Approaches_to_Comics_Analysis_202020200508-45041-o5w64o.pdf?response-content-disposition=inline%3B%20filename%3DComputational_Approaches_to_Comics_Analy.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIATUSBJ6BAOFV4KE4J%2F20200512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200512T131345Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIBRwLxztPYYhcQLSzU83gAY4kAUvajN%2BUqEvzPFZPViWAiB96I6IUWIPZInf%2BTOiZ3yaIrpgzTlb6LH1cCh3%2FNvn3Cq0AwhEEAAaDDI1MDMxODgxMTIwMCIMgBoH9nlx%2FxcmWI70KpEDnaWOR0JejwYZiGlyq5nJ5KMKroTpEZrApmrq4Ba2wG8Fuz8jxfACIVvj4PEkVhMYlOHRivyI5hnJu%2Fn7X6kbMY9nQSdxNDQjKAn7FK%2FdmozZPNIs31fR3DuK1psDG%2F1k8RTqyYvyTt6epYkx6zjXpLigBXNmZI%2BdoHna%2FMhZfYh1TF%2FQvxlKmU6k1D5PkSZBS99txOvrsvW4asn9q5Y3RXxAm7izXcrcBhJZFITy9gk%2FDopupO%2B653Wc8GZN3CVNBMXW%2F9SLnQrwSVjnOtygRlDXOHlZnL1BGB6hRkpFS2osPMAwDUr4ffgrkwwOG5BzSQs5KBr9QSgdPGscEOGwB5X1P8HmlOhUPUZxTOj5om%2FlaWLqPmoTcT4Blztug3b9gmMTKK4wbF9ofcskjl5kNVe6za1%2FPFiGS%2BMoEKgEGJ%2B%2BqPi0THgqvkefWUOUCrY%2BWNP3uGzNvobZ0ZhdMVEhwnKeYuCY4getddf%2BHFYIIev6yHzFlxKiO0TveeJA0nm4tkAAZN0b2ZZgTIEHzXGghHYw8vbp9QU67AGz%2B9wvvnvBGxM0E80PVBgvygqdEQJZmd8OlybVXhkFFcd%2FmoTJmtI9V7omUdrwfrXrv7iV%2FmvmGRGvXcu0w9RA5DhpGmiohZZA8uo58vc6cAQBsXTZlitnvjQIw%2B6g%2FkVUtvtMCAC76dSjxiGZDk1ljNz9A5DjStcSkMOKqNgDVY02vNnCOFYkgdjPkC1a5cfVwWYEFcF%2Bhg4cn%2Fw0bF%2Form65UkHevJWn%2B215LLrjr99sqiL2LzYIL9%2F%2Fk1Fg3VJBk7h90BHdckl1XLR4g7W5uMUl5GFPxNK6qO82sjgLr6Gzas1a0Ugs%2FoEPhA%3D%3D&X-Amz-Signature=858824c2bd5ccfbd67709cf8067758d6f0aa5b1d68d986904238b90061ad2416) | |
+| [Computational Approaches to Comics Analysis](https://pubmed.ncbi.nlm.nih.gov/31705626/) | |
 | [Image Colorization: A Survey and Dataset](https://arxiv.org/pdf/2008.10774.pdf) | |
 
 ## Projects
