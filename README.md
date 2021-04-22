@@ -32,6 +32,7 @@ Summary of published or preprint papers
 | | [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/pdf/2011.11731.pdf) | CVPR2021 | [Github](https://github.com/mahmoudnafifi/HistoGAN) |
 | | [Efficient Continual Adaptation for Generative Adversarial Networks](https://arxiv.org/pdf/2103.04032.pdf) | | |
 | | [Generating "Ideal" Anime Opening Frames Using Neural Networks](https://ieeexplore.ieee.org/abstract/document/9396557) | ElConRus2021 | |
+| | [CoPE: Conditional image generation using Polynomial Expansions](https://arxiv.org/pdf/2104.05077.pdf) | | |
 | Few-shot | [Image Generation From Small Datasets via Batch Statistics Adaptation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Noguchi_Image_Generation_From_Small_Datasets_via_Batch_Statistics_Adaptation_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/nogu-atsu/small-dataset-image-generation) |
 | | [FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2010.11943.pdf) | | [Github](https://github.com/e-271/few-shot-gan) |
 | | [MineGAN: effective knowledge transfer from GANs to target domains with few images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) | CVPR2020 | [Github](https://github.com/yaxingwang/MineGAN) |
@@ -42,6 +43,7 @@ Summary of published or preprint papers
 | | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf) | CVPR2021 | [Github](https://github.com/genforce/sefa) |
 | | [Unsupervised Discovery of Disentangled Manifolds in GANs](https://arxiv.org/pdf/2011.11842.pdf) | | |
 | | [Do Generative Models Know Disentanglement? Contrastive Learning is All You Need](https://arxiv.org/pdf/2102.10543.pdf) | | [Github](https://github.com/xrenaa/DisCo) |
+| | [Surrogate Gradient Field for Latent Space Manipulation](https://arxiv.org/pdf/2104.09065.pdf) | CVPR2021 | |
 
 ### Image-to-image Translation
 
