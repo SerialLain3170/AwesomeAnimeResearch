@@ -247,28 +247,39 @@ Summary of published or preprint papers
 Summary of github or other types of projects that are related to anime or manga except above.
 
 ### Image Generation
-- [ANIME-FACE-GAN](https://github.com/ANIME305/Anime-GAN-tensorflow): Generation by SAGAN and BigGAN
-- [AnimeGAN](https://github.com/jayleicn/animeGAN): Generation by DCGAN
-- [Anime_GAN](https://github.com/FangYang970206/Anime_GAN): Generation by DCGAN, WGAN and cGAN
-- [ACGAN Conditional Anime Generation](https://github.com/bchao1/Anime-Generation): Generation by ACGAN
+- [ANIME305/Anime-GAN-tensorflow](https://github.com/ANIME305/Anime-GAN-tensorflow): Generation by SAGAN and BigGAN
+- [jayleicn/AnimeGAN](https://github.com/jayleicn/animeGAN): Generation by DCGAN
+- [FangYang970206/Anime_GAN](https://github.com/FangYang970206/Anime_GAN): Generation by DCGAN, WGAN and cGAN
+- [pavitrakumar78/Anime-Face-GAN-Keras](https://github.com/pavitrakumar78/Anime-Face-GAN-Keras)
+- [forcecore/Keras-GAN-Animeface-Character](https://github.com/forcecore/Keras-GAN-Animeface-Character)
+- [tdrussell/IllustrationGAN](https://github.com/tdrussell/IllustrationGAN)
+- [m516825/Conditional-GAN](https://github.com/m516825/Conditional-GAN)
+- [bchao1/Anime-Generation](https://github.com/bchao1/Anime-Generation): Generation by ACGAN
 
 ### Image-to-Image Tranlation
-- [Chainer-CycleGAN](https://github.com/Aixile/chainer-cyclegan): Turn all girls into silver hair
+- [Aixile/chainer-cyclegan](https://github.com/Aixile/chainer-cyclegan): Turn all girls into silver hair
+- [racinmat/anime-style-transfer](https://github.com/racinmat/anime-style-transfer)
 - [Avatar Artist Using GAN](http://cs230.stanford.edu/projects_winter_2020/reports/32639139.pdf)
-- [Real world to anime style transfer](https://github.com/racinmat/anime-style-transfer)
 
 ### Automatic Line Art Colorization
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer)
-- [Line-Art-Colorization-SPADE](https://github.com/Ugness/Line-Art-Colorization-SPADE)
+- [Ugness/Line-Art-Colorization-SPADE](https://github.com/Ugness/Line-Art-Colorization-SPADE)
+- [sanjay235/Sketch2Color-anime-translation](https://github.com/sanjay235/Sketch2Color-anime-translation)
 - [GANime: Generating Anime and Manga Character Drawings from Sketches](http://cs230.stanford.edu/projects_winter_2020/posters/32226261.pdf)
 - [Line Drawing Colorization](http://cs231n.stanford.edu/reports/2017/pdfs/425.pdf)
 
 ### Character Animating
 - [Talking Head Anime from a Single Image](https://pkhungurn.github.io/talking-head-anime/)
+- [Talking Head Anime from a Single Image 2: More Expressive](https://pkhungurn.github.io/talking-head-anime-2/)
 
 ### Super Resolution
 - [waifu2x](https://github.com/nagadomi/waifu2x)
 - [Anime4K](https://github.com/bloc97/Anime4K)
+- [goldhuang/SRGAN-PyTorch](https://github.com/goldhuang/SRGAN-PyTorch)
+
+### Segmentation
+- [jerryli27/AniSeg](https://github.com/jerryli27/AniSeg)
+- [zymk9/Yet-Another-Anime-Segmenter](https://github.com/zymk9/Yet-Another-Anime-Segmenter)
 
 ### Landmark Detection
 - [Anime face landmark detection by deep cascaded regression](https://github.com/kanosawa/anime_face_landmark_detection)
