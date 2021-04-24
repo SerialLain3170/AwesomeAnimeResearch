@@ -247,24 +247,30 @@ Summary of published or preprint papers
 Summary of github or other types of projects that are related to anime or manga except above.
 
 ### Image Generation
-- [ANIME305/Anime-GAN-tensorflow](https://github.com/ANIME305/Anime-GAN-tensorflow): Generation by SAGAN and BigGAN
-- [jayleicn/AnimeGAN](https://github.com/jayleicn/animeGAN): Generation by DCGAN
-- [FangYang970206/Anime_GAN](https://github.com/FangYang970206/Anime_GAN): Generation by DCGAN, WGAN and cGAN
+- [makegirlsmoe](https://github.com/makegirlsmoe/makegirlsmoe_web)
+- [ANIME305/Anime-GAN-tensorflow](https://github.com/ANIME305/Anime-GAN-tensorflow)
+- [jayleicn/AnimeGAN](https://github.com/jayleicn/animeGAN)
+- [FangYang970206/Anime_GAN](https://github.com/FangYang970206/Anime_GAN)
 - [pavitrakumar78/Anime-Face-GAN-Keras](https://github.com/pavitrakumar78/Anime-Face-GAN-Keras)
 - [forcecore/Keras-GAN-Animeface-Character](https://github.com/forcecore/Keras-GAN-Animeface-Character)
 - [tdrussell/IllustrationGAN](https://github.com/tdrussell/IllustrationGAN)
 - [m516825/Conditional-GAN](https://github.com/m516825/Conditional-GAN)
-- [bchao1/Anime-Generation](https://github.com/bchao1/Anime-Generation): Generation by ACGAN
+- [bchao1/Anime-Generation](https://github.com/bchao1/Anime-Generation)
 
 ### Image-to-Image Tranlation
-- [Aixile/chainer-cyclegan](https://github.com/Aixile/chainer-cyclegan): Turn all girls into silver hair
+- [Aixile/chainer-cyclegan](https://github.com/Aixile/chainer-cyclegan)
+- [SystemErrorWang/FacialCartoonization](https://github.com/SystemErrorWang/FacialCartoonization)
+- [experience-ml/cartoonize](https://github.com/experience-ml/cartoonize)
 - [racinmat/anime-style-transfer](https://github.com/racinmat/anime-style-transfer)
+- [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
 - [Avatar Artist Using GAN](http://cs230.stanford.edu/projects_winter_2020/reports/32639139.pdf)
 
 ### Automatic Line Art Colorization
+- [style2paints](https://github.com/lllyasviel/style2paints)
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer)
 - [Ugness/Line-Art-Colorization-SPADE](https://github.com/Ugness/Line-Art-Colorization-SPADE)
 - [sanjay235/Sketch2Color-anime-translation](https://github.com/sanjay235/Sketch2Color-anime-translation)
+- [Pengxiao-Wang/Style2Paints_V3](https://github.com/Pengxiao-Wang/Style2Paints_V3)
 - [GANime: Generating Anime and Manga Character Drawings from Sketches](http://cs230.stanford.edu/projects_winter_2020/posters/32226261.pdf)
 - [Line Drawing Colorization](http://cs231n.stanford.edu/reports/2017/pdfs/425.pdf)
 
