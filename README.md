@@ -44,6 +44,7 @@ Summary of published or preprint papers
 | | [Unsupervised Discovery of Disentangled Manifolds in GANs](https://arxiv.org/pdf/2011.11842.pdf) | | |
 | | [Do Generative Models Know Disentanglement? Contrastive Learning is All You Need](https://arxiv.org/pdf/2102.10543.pdf) | | [Github](https://github.com/xrenaa/DisCo) |
 | | [Surrogate Gradient Field for Latent Space Manipulation](https://arxiv.org/pdf/2104.09065.pdf) | CVPR2021 | |
+| | [EigenGAN: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf) | | [Github](https://github.com/LynnHo/EigenGAN-Tensorflow) |
 
 ### Image-to-image Translation
 
@@ -150,6 +151,7 @@ Summary of published or preprint papers
 | ---- | ---- | ---- |
 | [Spatially Controllable Image Synthesis with Internal Representation Collaging](https://arxiv.org/pdf/1811.10153.pdf) | | [Github](https://github.com/quolc/neural-collage) |
 | [Erasing Appearance Preservation in Optimization-based Smoothing](https://lllyasviel.github.io/AppearanceEraser/paper/paper.pdf) | ECCV2020 | [Github](https://github.com/lllyasviel/AppearanceEraser) |
+| [Cross-Domain and Disentangled Face Manipulation with 3D Guidance](https://arxiv.org/pdf/2104.11228.pdf) | | [Github](https://github.com/cassiePython/cddfm3d) |
 
 ### Automatic Sketch Editing
 
