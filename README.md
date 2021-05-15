@@ -38,6 +38,7 @@ Summary of published or preprint papers
 | | [MineGAN: effective knowledge transfer from GANs to target domains with few images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) | CVPR2020 | [Github](https://github.com/yaxingwang/MineGAN) |
 | | [Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs](https://arxiv.org/pdf/2002.10964.pdf) | CVPRW2020 | [Github](https://github.com/sangwoomo/FreezeD) |
 | | [DATA INSTANCE PRIOR FOR TRANSFER LEARNING IN GANS](https://arxiv.org/pdf/2012.04256.pdf) | | |
+| | [MineGAN++: Mining Generative Models for Efficient Knowledge Transfer to Limited Data Domains](https://arxiv.org/pdf/2104.13742.pdf) | | |
 | Interpretability | [RPGAN: GANs Interpretability via Random Routing](https://arxiv.org/pdf/1912.10920.pdf) | | [Github](https://github.com/anvoynov/RandomPathGAN) |
 | | [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/pdf/2002.03754.pdf) | ICML2020 | [Github](https://github.com/anvoynov/GANLatentDiscovery) |
 | | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf) | CVPR2021 | [Github](https://github.com/genforce/sefa) |
@@ -127,6 +128,7 @@ Summary of published or preprint papers
 | | [Multi-Density Sketch-to-Image Translation Network](https://arxiv.org/pdf/2006.10649.pdf) | | |
 | | [Deep-Eyes: Fully Automatic Anime Character Colorization with Painting of Details on Empty Pupils](https://www.gwern.net/docs/ai/anime/2020-akita.pdf) | EG2020| |
 | | [Colorization of Line Drawings with Empty Pupils](https://www.gwern.net/docs/anime/2020-akita.pdf) | PG2020 | |
+| | [Anime Sketch Colorization by Component-based Matching using Deep Appearance Features and Graph Representation](https://ieeexplore.ieee.org/document/9412507) | ICPR2021 | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/blandocs/Tag2Pix) |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | | [Github](https://github.com/Harry-Thasarathan/TCVC) |
 | | [Artist-Guided Semiautomatic Animation Colorization](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Thasarathan_Artist-Guided_Semiautomatic_Animation_Colorization_ICCVW_2019_paper.pdf) | ICCVW2019 | |
@@ -181,22 +183,24 @@ Summary of published or preprint papers
 | [MakeItTalk: Speaker-Aware Talking-Head Animation](https://arxiv.org/pdf/2004.12992.pdf) | SIGGRAPH Asia2020 | |
 | [CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_CPTNet_Cascade_Pose_Transform_Network_for_Single_Image_Talking_Head_ACCV_2020_paper.pdf) | ACCV2020 | |
 
-### Screentone Synthesis
-| Paper | Conference | Links |
-| ---- | ---- | ---- |
-| [Synthesis of Screentone Patterns of Manga Characters](https://ieeexplore.ieee.org/document/8959008) | ISM2019 | |
-| [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) | SIGGRAPH2020 | |
-| Generating Manga from Illustrations via Mimicking Manga Workflow | CVPR2021 | [HP](https://lllyasviel.github.io/MangaFilter/) |
+### Manga Application
+| Subcategory | Paper | Conference | Links |
+| ---- | ---- | ---- | ---- |
+| Generation | [Synthesis of Screentone Patterns of Manga Characters](https://ieeexplore.ieee.org/document/8959008) | ISM2019 | |
+| | [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) | SIGGRAPH2020 | |
+| | Generating Manga from Illustrations via Mimicking Manga Workflow | CVPR2021 | [HP](https://lllyasviel.github.io/MangaFilter/) |
+| | [Hair Shading Style Transfer for Manga with cGAN](https://www.scitepress.org/Papers/2020/89614/89614.pdf) | ICAART2020 | 
+| Restoration | Exploiting Aliasing for Manga Restoration | CVPR2021 | [Github](https://github.com/msxie92/MangaRestoration) |
+| Text Detection | [Method for Real Time Text Extraction of Digital Manga Comic](https://www.cscjournals.org/manuscript/Journals/IJIP/Volume4/Issue6/IJIP-290.pdf) | IJIP2011 | |
+| | [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/document/8893046) | ICDARW2019 |
+| | [Deep Learning-Based Classification of the Polar Emotions of “Moe”-Style Cartoon Pictures](https://ieeexplore.ieee.org/document/9220754) | TST2020 |
+| | [Learning from the Past: Meta-Continual Learning withKnowledge Embedding for Jointly Sketch, Cartoon, andCaricature Face Recognition](https://dl.acm.org/doi/epdf/10.1145/3394171.3413892) | MM2020 |
+| Landmark Detection | [Facial Landmark Detection for Manga Images](https://arxiv.org/pdf/1811.03214.pdf) | | |
 
 ### Representation Learning
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [Illustration2Vec: A Semantic Vector Representation of Illustrations](https://www.gwern.net/docs/anime/2015-saito.pdf) | SIGGRAPH2015 | [Github](https://github.com/rezoo/illustration2vec) |
-
-### Landmark Detection
-| Paper | Conference | Links |
-| ---- | ---- | ---- |
-| [Facial Landmark Detection for Manga Images](https://arxiv.org/pdf/1811.03214.pdf) | | |
 
 ### Pose Estimation
 | Paper | Conference | Links |
@@ -207,13 +211,6 @@ Summary of published or preprint papers
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [Sketch-based Manga Retrieval using Manga109 Dataset](https://arxiv.org/pdf/1510.04389.pdf) | MTA2017 | |
-
-### Text Detection from Comics
-| Paper | Conference | Links |
-| ---- | ---- | ---- |
-| [Method for Real Time Text Extraction of Digital Manga Comic](https://www.cscjournals.org/manuscript/Journals/IJIP/Volume4/Issue6/IJIP-290.pdf) | IJIP2011 | | 
-| [Text-independent speech balloon segmentation for comics and manga](https://hal.archives-ouvertes.fr/hal-01719513/file/2015_Rigaud_text-independent_speech_balloon_segmentation_for_comics_and_manga.pdf) | GREC2015 | [Github](https://github.com/crigaud/publication/tree/master/2016/LNCS/text-independent_speech_balloon_segmentation_for_comics_and_manga) |
-| [Deep CNN-based Speech Balloon Detection and Segmentation for Comic Books](https://arxiv.org/pdf/1902.08137.pdf) | ICDAR2019 | [Github](https://github.com/DRDRD18/balloons) |
 
 ### Character Recognition
 | Paper | Conference | Links |
