@@ -113,7 +113,8 @@ Summary of published or preprint papers
 | | [User Guided Digital Artwork Colorization](https://dl.acm.org/doi/10.1145/3374587.3374604) | CSAI2019 | |
 | | [Cartoon image colorization based on emotion recognition and superpixel color resolution](https://ieeexplore.ieee.org/document/9262834) | ICCST2020 | |
 | | [Automatic Colorization of Anime Style Illustrations Using a Two-Stage Generator](https://www.mdpi.com/2076-3417/10/23/8699) | Appl. Sci. 2020 | |
-| | User-Guided Line Art Flat Filling with Split Filling Mechanism | CVPR2021 | [HP](https://lllyasviel.github.io/SplitFilling/) |
+| | [Line Art Colorization with Concatenated Spatial Attention](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Yuan_Line_Art_Colorization_With_Concatenated_Spatial_Attention_CVPRW_2021_paper.pdf) | CVPRW2021 | |
+| | [User-Guided Line Art Flat Filling with Split Filling Mechanism](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf) | CVPR2021 | [HP](https://lllyasviel.github.io/SplitFilling/) |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 | |
 | | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 | |
 | | [Deep Manga Colorization with Color Style Extraction by Conditional Adversarially Learned Inference](http://www.iaiai.org/journals/index.php/IEE/article/view/214) | IIAI2017 | |
@@ -188,9 +189,9 @@ Summary of published or preprint papers
 | ---- | ---- | ---- | ---- |
 | Generation | [Synthesis of Screentone Patterns of Manga Characters](https://ieeexplore.ieee.org/document/8959008) | ISM2019 | |
 | | [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) | SIGGRAPH2020 | |
-| | Generating Manga from Illustrations via Mimicking Manga Workflow | CVPR2021 | [HP](https://lllyasviel.github.io/MangaFilter/) |
+| | [Generating Manga from Illustrations via Mimicking Manga Workflow](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Generating_Manga_From_Illustrations_via_Mimicking_Manga_Creation_Workflow_CVPR_2021_paper.pdf) | CVPR2021 | [HP](https://lllyasviel.github.io/MangaFilter/) |
 | | [Hair Shading Style Transfer for Manga with cGAN](https://www.scitepress.org/Papers/2020/89614/89614.pdf) | ICAART2020 | 
-| Restoration | Exploiting Aliasing for Manga Restoration | CVPR2021 | [Github](https://github.com/msxie92/MangaRestoration) |
+| Restoration | [Exploiting Aliasing for Manga Restoration](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Exploiting_Aliasing_for_Manga_Restoration_CVPR_2021_paper.pdf) | CVPR2021 | [Github](https://github.com/msxie92/MangaRestoration) |
 | Text Detection | [Method for Real Time Text Extraction of Digital Manga Comic](https://www.cscjournals.org/manuscript/Journals/IJIP/Volume4/Issue6/IJIP-290.pdf) | IJIP2011 | |
 | | [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/document/8893046) | ICDARW2019 |
 | | [Deep Learning-Based Classification of the Polar Emotions of “Moe”-Style Cartoon Pictures](https://ieeexplore.ieee.org/document/9220754) | TST2020 |
