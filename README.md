@@ -65,6 +65,7 @@ Summary of published or preprint papers
 | | [AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation](https://arxiv.org/pdf/2102.12593.pdf) | | [Github](https://github.com/bing-li-ai/AniGAN) |
 | | [Multi-CartoonGAN for Conditional Artistic Face Translation ](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_2N1IS2a01/_pdf) | JSAI2021 | |
 | | [GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)](https://arxiv.org/pdf/2106.06561.pdf) | | [Github](https://github.com/mchong6/GANsNRoses) |
+| | [FINE-TUNING STYLEGAN2 FOR CARTOON FACE GENERATION](https://arxiv.org/pdf/2106.12445.pdf) | | [Github](https://github.com/happy-jihye/Cartoon-StyleGAN) |
 | Selfie2anime | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | ICLR2020 | [Github](https://github.com/taki0112/UGATIT) |
 | | [Breaking the cycle—Colleagues are all you need](https://arxiv.org/pdf/1911.10538.pdf) | CVPR2020 | [Github](https://github.com/Onr/Council-GAN) |
 | | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://arxiv.org/pdf/1911.11897.pdf) | IJCNN2019 | [Github](https://github.com/Ha0Tang/AttentionGAN) |
@@ -120,6 +121,7 @@ Summary of published or preprint papers
 | | [Automatic Colorization of Anime Style Illustrations Using a Two-Stage Generator](https://www.mdpi.com/2076-3417/10/23/8699) | Appl. Sci. 2020 | |
 | | [Line Art Colorization with Concatenated Spatial Attention](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Yuan_Line_Art_Colorization_With_Concatenated_Spatial_Attention_CVPRW_2021_paper.pdf) | CVPRW2021 | |
 | | [User-Guided Line Art Flat Filling with Split Filling Mechanism](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf) | CVPR2021 | [HP](https://lllyasviel.github.io/SplitFilling/) |
+| | [Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects](https://arxiv.org/pdf/2107.01619.pdf) | | |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 | |
 | | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 | |
 | | [Deep Manga Colorization with Color Style Extraction by Conditional Adversarially Learned Inference](http://www.iaiai.org/journals/index.php/IEE/article/view/214) | IIAI2017 | |
@@ -136,6 +138,7 @@ Summary of published or preprint papers
 | | [Colorization of Line Drawings with Empty Pupils](https://www.gwern.net/docs/anime/2020-akita.pdf) | PG2020 | |
 | | [Anime Sketch Colorization by Component-based Matching using Deep Appearance Features and Graph Representation](https://ieeexplore.ieee.org/document/9412507) | ICPR2021 | |
 | | [Anime Style Transfer With Spatially-Adaptive Normalization](https://ieeexplore.ieee.org/document/9428305) | ICME2021 | |
+| | [Exploring Sketch-based Character Design Guided by Automatic Colorization](https://rawanmg.github.io/pdf/gi21.pdf) | | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/blandocs/Tag2Pix) |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | | [Github](https://github.com/Harry-Thasarathan/TCVC) |
 | | [Artist-Guided Semiautomatic Animation Colorization](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Thasarathan_Artist-Guided_Semiautomatic_Animation_Colorization_ICCVW_2019_paper.pdf) | ICCVW2019 | |
@@ -275,6 +278,8 @@ Summary of github or other types of projects that are related to anime or manga 
 - [experience-ml/cartoonize](https://github.com/experience-ml/cartoonize)
 - [racinmat/anime-style-transfer](https://github.com/racinmat/anime-style-transfer)
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
+- [XiaoSanGit/Real2Animation-video-generation](https://github.com/XiaoSanGit/Real2Animation-video-generation)
+- [rinongal/StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)
 - [Avatar Artist Using GAN](http://cs230.stanford.edu/projects_winter_2020/reports/32639139.pdf)
 
 ### Automatic Line Art Colorization
