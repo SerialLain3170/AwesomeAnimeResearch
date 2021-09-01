@@ -125,6 +125,7 @@ Summary of published or preprint papers
 | | [Line Art Colorization with Concatenated Spatial Attention](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Yuan_Line_Art_Colorization_With_Concatenated_Spatial_Attention_CVPRW_2021_paper.pdf) | CVPRW2021 | |
 | | [User-Guided Line Art Flat Filling with Split Filling Mechanism](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf) | CVPR2021 | [HP](https://lllyasviel.github.io/SplitFilling/) |
 | | [Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects](https://arxiv.org/pdf/2107.01619.pdf) | | |
+| | [Dual Color Space Guided Sketch Colorization](https://ieeexplore.ieee.org/document/9515572) | IEEE Trans. on Img. Proc. 2021 | |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 | |
 | | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 | |
 | | [Deep Manga Colorization with Color Style Extraction by Conditional Adversarially Learned Inference](http://www.iaiai.org/journals/index.php/IEE/article/view/214) | IIAI2017 | |
@@ -169,6 +170,8 @@ Summary of published or preprint papers
 | [Erasing Appearance Preservation in Optimization-based Smoothing](https://lllyasviel.github.io/AppearanceEraser/paper/paper.pdf) | ECCV2020 | [Github](https://github.com/lllyasviel/AppearanceEraser) |
 | [Cross-Domain and Disentangled Face Manipulation with 3D Guidance](https://arxiv.org/pdf/2104.11228.pdf) | | [Github](https://github.com/cassiePython/cddfm3d) |
 | [L2M-GAN: Learning to Manipulate Latent Space Semantics for Facial Attribute Editing](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_L2M-GAN_Learning_To_Manipulate_Latent_Space_Semantics_for_Facial_Attribute_CVPR_2021_paper.pdf) | CVPR2021 | |
+| [Deep Unfolding with Normalizing Flow Priors for Inverse Problems](https://arxiv.org/pdf/2107.02848.pdf) | | |
+| [Sketch-based Anime Hairstyle Editing with Generative Inpainting](https://ieeexplore.ieee.org/document/9515963) | NicoInt2021 | |
 
 ### Automatic Sketch Editing
 
