@@ -33,6 +33,7 @@ Summary of published or preprint papers
 | | [Efficient Continual Adaptation for Generative Adversarial Networks](https://arxiv.org/pdf/2103.04032.pdf) | | |
 | | [Generating "Ideal" Anime Opening Frames Using Neural Networks](https://ieeexplore.ieee.org/abstract/document/9396557) | ElConRus2021 | |
 | | [CoPE: Conditional image generation using Polynomial Expansions](https://arxiv.org/pdf/2104.05077.pdf) | | |
+| | [StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators](https://arxiv.org/pdf/2108.00946.pdf) | | [Github](https://github.com/rinongal/StyleGAN-nada) |
 | Few-shot | [Image Generation From Small Datasets via Batch Statistics Adaptation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Noguchi_Image_Generation_From_Small_Datasets_via_Batch_Statistics_Adaptation_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/nogu-atsu/small-dataset-image-generation) |
 | | [FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2010.11943.pdf) | | [Github](https://github.com/e-271/few-shot-gan) |
 | | [MineGAN: effective knowledge transfer from GANs to target domains with few images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) | CVPR2020 | [Github](https://github.com/yaxingwang/MineGAN) |
@@ -224,7 +225,8 @@ Summary of published or preprint papers
 ### Pose Estimation
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
-| [Pose Estimation of Anime/Manga Characters: A Case for Synthetic Data](http://www.cs.cornell.edu/~pramook/papers/manpu2016.pdf) | MANPU2016 | |
+| [Pose Estimation of Anime/Manga Characters: A Case for Synthetic Data](http://www.cs.cornell.edu/~pramook/papers/manpu2016.pdf) | MANPU2016 |
+| [Transfer Learning for Pose Estimation of Illustrated Characters](https://arxiv.org/pdf/2108.01819.pdf) | WACV2022 | 
 
 ### Image Retrieval
 | Paper | Conference | Links |
@@ -239,6 +241,7 @@ Summary of published or preprint papers
 | [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/document/8893046) | ICDARW2019 |
 | [Deep Learning-Based Classification of the Polar Emotions of “Moe”-Style Cartoon Pictures](https://ieeexplore.ieee.org/document/9220754) | TST2020 |
 | [Learning from the Past: Meta-Continual Learning withKnowledge Embedding for Jointly Sketch, Cartoon, andCaricature Face Recognition](https://dl.acm.org/doi/epdf/10.1145/3394171.3413892) | MM2020 |
+| [Graph Jigsaw Learning for Cartoon Face Recognition](https://arxiv.org/pdf/2107.06532.pdf) | |
 
 ### 3D Character Creation
 | Paper | Conference | Links |
