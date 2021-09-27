@@ -13,6 +13,7 @@ Summary of published or preprint papers
 | [Building a Manga Dataset ”Manga109” with Annotations for Multimedia Applications](https://arxiv.org/pdf/2005.04425.pdf) | IEEE MultiMedia,2020 | [HP](http://www.manga109.org/ja/download_s.html) |
 | [DanbooRegion: An Illustration Region Dataset](https://lllyasviel.github.io/DanbooRegion/paper/paper.pdf) | ECCV2020 | [Github](https://github.com/lllyasviel/DanbooRegion) |
 | [Unconstrained Text Detection in Manga: a New Dataset and Baseline](https://arxiv.org/pdf/2009.04042.pdf) | ECCVW2020 | [Github](https://github.com/juvian/Manga-Text-Segmentation) |
+| [Cartoon Face Recognition: A Benchmark Dataset](https://arxiv.org/pdf/1907.13394.pdf) | ACM MM2020 | [Github](https://github.com/luxiangju-PersonAI/iCartoonFace) |
 | [DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION](https://arxiv.org/pdf/2101.08674.pdf) | | [Github](https://github.com/arkel23/animesion) | 
 
 ### Image Generation
@@ -34,6 +35,7 @@ Summary of published or preprint papers
 | | [Generating "Ideal" Anime Opening Frames Using Neural Networks](https://ieeexplore.ieee.org/abstract/document/9396557) | ElConRus2021 | |
 | | [CoPE: Conditional image generation using Polynomial Expansions](https://arxiv.org/pdf/2104.05077.pdf) | | |
 | | [StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators](https://arxiv.org/pdf/2108.00946.pdf) | | [Github](https://github.com/rinongal/StyleGAN-nada) |
+| | [DisUnknown: Distilling Unknown Factors for Disentanglement Learning](https://arxiv.org/pdf/2109.08090.pdf) | ICCV2021 | [Github](https://github.com/stormraiser/disunknown) |
 | Few-shot | [Image Generation From Small Datasets via Batch Statistics Adaptation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Noguchi_Image_Generation_From_Small_Datasets_via_Batch_Statistics_Adaptation_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/nogu-atsu/small-dataset-image-generation) |
 | | [FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2010.11943.pdf) | | [Github](https://github.com/e-271/few-shot-gan) |
 | | [MineGAN: effective knowledge transfer from GANs to target domains with few images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) | CVPR2020 | [Github](https://github.com/yaxingwang/MineGAN) |
@@ -76,6 +78,7 @@ Summary of published or preprint papers
 | | [Interpolation based Anime Face Style Transfer](https://ieeexplore.ieee.org/abstract/document/9237764) | MAPR2020 | |
 | | [SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/2103.16219.pdf) | | |
 | | [Good Artists Copy, Great Artists Steal: Model Extraction Attacks Against Image Translation Generative Adversarial Networks](https://arxiv.org/pdf/2104.12623.pdf) | | |
+| | [Unaligned Image-to-Image Translation by Learning to Reweight](https://arxiv.org/pdf/2109.11736.pdf) | ICCV2021 | |
 | Photo2anime | [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf) | CVPR2018 | [Github](https://github.com/znxlwm/pytorch-CartoonGAN) |
 | | [Comixify: Transform video into a comics](https://arxiv.org/pdf/1812.03473.pdf) | | [Github](https://github.com/maciej3031/comixify) |
 | | [GANILLA: Generative adversarial networks for image to illustration translation](https://arxiv.org/pdf/2002.05638.pdf) | | [Github](https://github.com/giddyyupp/ganilla) |
@@ -173,6 +176,7 @@ Summary of published or preprint papers
 | [L2M-GAN: Learning to Manipulate Latent Space Semantics for Facial Attribute Editing](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_L2M-GAN_Learning_To_Manipulate_Latent_Space_Semantics_for_Facial_Attribute_CVPR_2021_paper.pdf) | CVPR2021 | |
 | [Deep Unfolding with Normalizing Flow Priors for Inverse Problems](https://arxiv.org/pdf/2107.02848.pdf) | | |
 | [Sketch-based Anime Hairstyle Editing with Generative Inpainting](https://ieeexplore.ieee.org/document/9515963) | NicoInt2021 | |
+| [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/pdf/2109.10737.pdf) | | |
 
 ### Automatic Sketch Editing
 
@@ -242,6 +246,7 @@ Summary of published or preprint papers
 | [Deep Learning-Based Classification of the Polar Emotions of “Moe”-Style Cartoon Pictures](https://ieeexplore.ieee.org/document/9220754) | TST2020 |
 | [Learning from the Past: Meta-Continual Learning withKnowledge Embedding for Jointly Sketch, Cartoon, andCaricature Face Recognition](https://dl.acm.org/doi/epdf/10.1145/3394171.3413892) | MM2020 |
 | [Graph Jigsaw Learning for Cartoon Face Recognition](https://arxiv.org/pdf/2107.06532.pdf) | |
+| [ACFD: Asymmetric Cartoon Face Detector](https://arxiv.org/pdf/2007.00899.pdf) | IJCAI2020 | | 
 
 ### 3D Character Creation
 | Paper | Conference | Links |
