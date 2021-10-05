@@ -110,6 +110,7 @@ Summary of published or preprint papers
 | | [Seg2pix: Few Shot Training Line Art Colorization with Segmented Image Data](https://www.mdpi.com/2076-3417/11/4/1464) | Appl. Sci. 2021 | |
 | | [Semi-automatic Manga Colorization Using Conditional Adversarial Networks](https://www.gwern.net/docs/ai/anime/2021-golyadkin.pdf) | | [Github](https://github.com/qweasdd/manga-colorization) |
 | | [Stylized-Colorization for Line Arts](https://www.gwern.net/docs/ai/anime/2021-fang.pdf) | ICPR2021 | |
+| | [Generative Probabilistic Image Colorization](https://arxiv.org/pdf/2109.14518.pdf) | | |
 | Atari | [Manga Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf) | ACM Trans. Graph. 2006 | |
 | | [TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations](https://dcgi.fel.cvut.cz/home/sykorad/Sykora11-NPAR.pdf) | NPAR2011 | |
 | | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/pdf/1704.08834.pdf) | | |
@@ -177,6 +178,7 @@ Summary of published or preprint papers
 | [Deep Unfolding with Normalizing Flow Priors for Inverse Problems](https://arxiv.org/pdf/2107.02848.pdf) | | |
 | [Sketch-based Anime Hairstyle Editing with Generative Inpainting](https://ieeexplore.ieee.org/document/9515963) | NicoInt2021 | |
 | [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/pdf/2109.10737.pdf) | | |
+| [Improving The Quality Of Illustrations: Transforming Amateur Illustrations To A Professional Standard](https://ieeexplore.ieee.org/document/9506615) | ICIP2021 | |
 
 ### Automatic Sketch Editing
 
@@ -191,6 +193,7 @@ Summary of published or preprint papers
 | [Perceptual-aware Sketch Simplification Based on Integrated VGG Layers](https://ieeexplore.ieee.org/abstract/document/8771128) | TVCG2019 | |
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 | |
 | [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | MM2020 | [Github](https://github.com/LCXCUC/SketchMan2020) |
+| [One-shot Line Extraction from Color Illustrations](https://ieeexplore.ieee.org/document/9515964) | NicoInt2021 | |
 
 ### Automatic Animation Inbetweening
 | Paper | Conference | Links |
