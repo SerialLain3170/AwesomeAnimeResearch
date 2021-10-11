@@ -226,7 +226,7 @@ Summary of published or preprint papers
 | | [Deep Learning-Based Classification of the Polar Emotions of “Moe”-Style Cartoon Pictures](https://ieeexplore.ieee.org/document/9220754) | TST2020 |
 | | [Learning from the Past: Meta-Continual Learning withKnowledge Embedding for Jointly Sketch, Cartoon, andCaricature Face Recognition](https://dl.acm.org/doi/epdf/10.1145/3394171.3413892) | MM2020 |
 | Landmark Detection | [Facial Landmark Detection for Manga Images](https://arxiv.org/pdf/1811.03214.pdf) | | |
-| Image Segmentation | [Extraction of Frame Sequences in the Manga Context]() | 2020 IEEE International Symposium on Multimedia (ISM) | |
+| Image Segmentation | [Extraction of Frame Sequences in the Manga Context](https://ieeexplore.ieee.org/document/9327968) | 2020 IEEE International Symposium on Multimedia (ISM) | |
 
 ### Representation Learning
 | Paper | Conference | Links |
