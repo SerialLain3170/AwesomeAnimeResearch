@@ -50,6 +50,7 @@ Summary of published or preprint papers
 | | [Surrogate Gradient Field for Latent Space Manipulation](https://arxiv.org/pdf/2104.09065.pdf) | CVPR2021 | |
 | | [EigenGAN: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf) | | [Github](https://github.com/LynnHo/EigenGAN-Tensorflow) |
 | | [Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Discovering_Interpretable_Latent_Space_Directions_of_GANs_Beyond_Binary_Attributes_CVPR_2021_paper.pdf) | CVPR2021 | |
+| | [Discovering Density-Preserving Latent Space Walks in GANs for Semantic Image Transformations](https://dl.acm.org/doi/pdf/10.1145/3474085.3475293) | MM 2021 | | |
 
 ### Image-to-image Translation
 
@@ -100,6 +101,7 @@ Summary of published or preprint papers
 | | [RAG: Facial Attribute Editing by Learning Residual Attributes](https://www.researchgate.net/publication/334058885_RAG_Facial_Attribute_Editing_by_Learning_Residual_Attributes) | IEEE Access2019 | |
 | | [StarGAN Based Facial Expression Transfer for Anime Characters](https://ieeexplore.ieee.org/document/9050061) | CSICC2020 | |
 | | [Few-shot Semantic Image Synthesis Using StyleGAN Prior](https://arxiv.org/pdf/2103.14877.pdf) | | [Github](https://github.com/endo-yuki-t/Fewshot-SMIS) |
+| | [Fine-Grained Control of Artistic Styles in Image Generation](https://arxiv.org/pdf/2110.10278.pdf) | | |
 
 
 ### Automatic Line Art Colorization
@@ -152,7 +154,9 @@ Summary of published or preprint papers
 | | [Anime Style Transfer With Spatially-Adaptive Normalization](https://ieeexplore.ieee.org/document/9428305) | ICME2021 | |
 | | [Exploring Sketch-based Character Design Guided by Automatic Colorization](https://rawanmg.github.io/pdf/gi21.pdf) | | |
 | | [PAINTING STYLE-AWARE MANGA COLORIZATION BASED ON GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2107.07943.pdf) | | |
+| | [The Animation Transformer: Visual Correspondence via Segment Matching](https://openaccess.thecvf.com/content/ICCV2021/papers/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.pdf) | ICCV2021 | | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/blandocs/Tag2Pix) |
+| | [Line Art Colorization Based on Explicit Region Segmentation](https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf) | PG 2021 | | |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | | [Github](https://github.com/Harry-Thasarathan/TCVC) |
 | | [Artist-Guided Semiautomatic Animation Colorization](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Thasarathan_Artist-Guided_Semiautomatic_Animation_Colorization_ICCVW_2019_paper.pdf) | ICCVW2019 | |
 | | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | | |
@@ -183,6 +187,7 @@ Summary of published or preprint papers
 | [Sketch-based Anime Hairstyle Editing with Generative Inpainting](https://ieeexplore.ieee.org/document/9515963) | NicoInt2021 | |
 | [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/pdf/2109.10737.pdf) | | |
 | [Improving The Quality Of Illustrations: Transforming Amateur Illustrations To A Professional Standard](https://ieeexplore.ieee.org/document/9506615) | ICIP2021 | |
+| [Universal Face Restoration With Memorized Modulation](https://arxiv.org/pdf/2110.01033.pdf) | | |
 
 ### Automatic Sketch Editing
 
