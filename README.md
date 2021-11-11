@@ -71,6 +71,7 @@ Summary of published or preprint papers
 | | [GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)](https://arxiv.org/pdf/2106.06561.pdf) | | [Github](https://github.com/mchong6/GANsNRoses) |
 | | [FINE-TUNING STYLEGAN2 FOR CARTOON FACE GENERATION](https://arxiv.org/pdf/2106.12445.pdf) | | [Github](https://github.com/happy-jihye/Cartoon-StyleGAN) |
 | | [AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning](https://dl.acm.org/doi/pdf/10.1145/3450626.3459771) | ACM Trans. Graph. 2021 | [Github](https://github.com/GuoxianSong/AgileGAN) |
+| | [A Domain Gap Aware Generative Adversarial Network for Multi-domain Image Translation](https://arxiv.org/pdf/2110.10837.pdf) | | |
 | Selfie2anime | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | ICLR2020 | [Github](https://github.com/taki0112/UGATIT) |
 | | [Breaking the cycle—Colleagues are all you need](https://arxiv.org/pdf/1911.10538.pdf) | CVPR2020 | [Github](https://github.com/Onr/Council-GAN) |
 | | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://arxiv.org/pdf/1911.11897.pdf) | IJCNN2019 | [Github](https://github.com/Ha0Tang/AttentionGAN) |
@@ -155,6 +156,8 @@ Summary of published or preprint papers
 | | [Exploring Sketch-based Character Design Guided by Automatic Colorization](https://rawanmg.github.io/pdf/gi21.pdf) | | |
 | | [PAINTING STYLE-AWARE MANGA COLORIZATION BASED ON GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2107.07943.pdf) | | |
 | | [The Animation Transformer: Visual Correspondence via Segment Matching](https://openaccess.thecvf.com/content/ICCV2021/papers/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.pdf) | ICCV2021 | | |
+| | [Disentangled and controllable sketch creation based ondisentangling the structure and color enhancement](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.12343) | | |
+| | [Reference-guided structure-aware deep sketch colorization for cartoons](https://link.springer.com/content/pdf/10.1007/s41095-021-0228-6.pdf) | CVM2022 | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/blandocs/Tag2Pix) |
 | | [Line Art Colorization Based on Explicit Region Segmentation](https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf) | PG 2021 | | |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | | [Github](https://github.com/Harry-Thasarathan/TCVC) |
@@ -175,10 +178,11 @@ Summary of published or preprint papers
 | [Learning to Shadow Hand-drawn Sketches](https://arxiv.org/pdf/2002.11812.pdf) | CVPR2020 | [Github](https://github.com/qyzdao/ShadeSketch) |
 | [SmartShadow: Artistic Shadow Drawing Tool for Line Drawings](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_SmartShadow_Artistic_Shadow_Drawing_Tool_for_Line_Drawings_ICCV_2021_paper.pdf) | ICCV2021 | |
 
-### Automatic Character Editing
+### Automatic Illustration Editing
 
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
+| [Decomposing Images into Layers with Advanced Color Blending](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13577) | PG2018 | [Github](https://github.com/yuki-koyama/unblending) |
 | [Spatially Controllable Image Synthesis with Internal Representation Collaging](https://arxiv.org/pdf/1811.10153.pdf) | | [Github](https://github.com/quolc/neural-collage) |
 | [Erasing Appearance Preservation in Optimization-based Smoothing](https://lllyasviel.github.io/AppearanceEraser/paper/paper.pdf) | ECCV2020 | [Github](https://github.com/lllyasviel/AppearanceEraser) |
 | [Cross-Domain and Disentangled Face Manipulation with 3D Guidance](https://arxiv.org/pdf/2104.11228.pdf) | | [Github](https://github.com/cassiePython/cddfm3d) |
@@ -188,6 +192,7 @@ Summary of published or preprint papers
 | [DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing](https://arxiv.org/pdf/2109.10737.pdf) | | |
 | [Improving The Quality Of Illustrations: Transforming Amateur Illustrations To A Professional Standard](https://ieeexplore.ieee.org/document/9506615) | ICIP2021 | |
 | [Universal Face Restoration With Memorized Modulation](https://arxiv.org/pdf/2110.01033.pdf) | | |
+| [Unsupervised Learning of Compositional Energy Concepts](https://arxiv.org/pdf/2111.03042.pdf) | NeurIPS2021 | [Github](https://github.com/yilundu/comet) |
 
 ### Automatic Sketch Editing
 
@@ -211,6 +216,11 @@ Summary of published or preprint papers
 | [DiLight: Digital light table – Inbetweening for 2D animations using guidelines](http://graphics.tudelft.nl/Publications-new/2017/CMV17/pdf.pdf) | CMV2017 | |
 | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506) | ICIP2019 | |
 | [Deep Animation Video Interpolation in the Wild](https://arxiv.org/pdf/2104.02495.pdf) | CVPR2021 | [Github](https://github.com/lisiyao21/AnimeInterp/) |
+
+### Automatic Image Enhancement
+| Paper | Conference | Links |
+| ---- | ---- | ---- |
+| [Enhancement of Anime Imaging Enlargement using Modified Super-Resolution CNN](https://arxiv.org/pdf/2110.02321.pdf) | JSCI2021 | [Github](https://github.com/TanakitInt/SRCNN-anime) |
 
 ### Talking Head Animation
 | Paper | Conference | Links |
