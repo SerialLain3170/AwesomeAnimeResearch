@@ -14,7 +14,8 @@ Summary of published or preprint papers
 | [DanbooRegion: An Illustration Region Dataset](https://lllyasviel.github.io/DanbooRegion/paper/paper.pdf) | ECCV2020 | [Github](https://github.com/lllyasviel/DanbooRegion) |
 | [Unconstrained Text Detection in Manga: a New Dataset and Baseline](https://arxiv.org/pdf/2009.04042.pdf) | ECCVW2020 | [Github](https://github.com/juvian/Manga-Text-Segmentation) |
 | [Cartoon Face Recognition: A Benchmark Dataset](https://arxiv.org/pdf/1907.13394.pdf) | ACM MM2020 | [Github](https://github.com/luxiangju-PersonAI/iCartoonFace) |
-| [DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION](https://arxiv.org/pdf/2101.08674.pdf) | | [Github](https://github.com/arkel23/animesion) | 
+| [DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION](https://arxiv.org/pdf/2101.08674.pdf) | | [Github](https://github.com/arkel23/animesion) |
+| [AnimeCeleb: Large-Scale Animation CelebFaces Dataset via Controllable 3D Synthetic Models](https://arxiv.org/pdf/2111.07640.pdf) | | |
 
 ### Image Generation
 
@@ -90,6 +91,7 @@ Summary of published or preprint papers
 | | [AnimeGAN: a novel lightweight GAN for photo animation](https://github.com/TachibanaYoshino/AnimeGAN/blob/master/doc/Chen2020_Chapter_AnimeGAN.pdf) | | [Github](https://github.com/TachibanaYoshino/AnimeGAN) |
 | | [GAN-based Multi-Style Photo Cartoonization](https://ieeexplore.ieee.org/document/9382902) | IEEE TVCG2021 | |
 | | [Pseudo-Supervised Learning for Semantic Multi-Style Transfer](https://ieeexplore.ieee.org/document/9316188) | IEEE Access (Vol. 9) |
+| | [Cartoonize Images using TinyML Strategies with Transfer Learning](https://ieeexplore.ieee.org/document/9581835) | IEEE 2021 | |
 | Sketch2anime | [SmartPaint: a co-creative drawing system based on generative adversarial networks](https://link.springer.com/content/pdf/10.1631/FITEE.1900386.pdf) | FITEE2019 | |
 | | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf) | | [Github](https://github.com/youyuge34/PI-REC) |
 | | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf) | ECCV2020 | [Github](https://github.com/hytseng0509/ArtEditing) |
@@ -216,6 +218,7 @@ Summary of published or preprint papers
 | [DiLight: Digital light table – Inbetweening for 2D animations using guidelines](http://graphics.tudelft.nl/Publications-new/2017/CMV17/pdf.pdf) | CMV2017 | |
 | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506) | ICIP2019 | |
 | [Deep Animation Video Interpolation in the Wild](https://arxiv.org/pdf/2104.02495.pdf) | CVPR2021 | [Github](https://github.com/lisiyao21/AnimeInterp/) |
+| [Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/pdf/2111.12792.pdf) | | |
 
 ### Automatic Image Enhancement
 | Paper | Conference | Links |
