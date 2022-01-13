@@ -138,6 +138,8 @@ Summary of published or preprint papers
 | | [User-Guided Line Art Flat Filling with Split Filling Mechanism](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf) | CVPR2021 | [HP](https://lllyasviel.github.io/SplitFilling/) |
 | | [Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects](https://arxiv.org/pdf/2107.01619.pdf) | | |
 | | [Dual Color Space Guided Sketch Colorization](https://ieeexplore.ieee.org/document/9515572) | IEEE Trans. on Img. Proc. 2021 | |
+| | [Interactive Manga Colorization with Fast Flat Coloring](https://dl.acm.org/doi/fullHtml/10.1145/3476124.3488628) | SIGGRAPH Asia2021 | |
+| | [Late-resizing: A Simple but Effective Sketch Extraction Strategy for Improving Generalization of Line-art Colorization](https://openaccess.thecvf.com/content/WACV2022/papers/Kim_Late-Resizing_A_Simple_but_Effective_Sketch_Extraction_Strategy_for_Improving_WACV_2022_paper.pdf) | WACV2022 | |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 | |
 | | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 | |
 | | [Deep Manga Colorization with Color Style Extraction by Conditional Adversarially Learned Inference](http://www.iaiai.org/journals/index.php/IEE/article/view/214) | IIAI2017 | |
@@ -160,6 +162,7 @@ Summary of published or preprint papers
 | | [The Animation Transformer: Visual Correspondence via Segment Matching](https://openaccess.thecvf.com/content/ICCV2021/papers/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.pdf) | ICCV2021 | | |
 | | [Disentangled and controllable sketch creation based ondisentangling the structure and color enhancement](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.12343) | | |
 | | [Reference-guided structure-aware deep sketch colorization for cartoons](https://link.springer.com/content/pdf/10.1007/s41095-021-0228-6.pdf) | CVM2022 | |
+| | [Anime Character Colorization using Few-shot Learning](https://dl.acm.org/doi/10.1145/3478512.3488604) | SIGGRAPH Asia2021 | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/blandocs/Tag2Pix) |
 | | [Line Art Colorization Based on Explicit Region Segmentation](https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf) | PG 2021 | | |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | | [Github](https://github.com/Harry-Thasarathan/TCVC) |
