@@ -43,6 +43,7 @@ Summary of published or preprint papers
 | | [Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs](https://arxiv.org/pdf/2002.10964.pdf) | CVPRW2020 | [Github](https://github.com/sangwoomo/FreezeD) |
 | | [DATA INSTANCE PRIOR FOR TRANSFER LEARNING IN GANS](https://arxiv.org/pdf/2012.04256.pdf) | | |
 | | [MineGAN++: Mining Generative Models for Efficient Knowledge Transfer to Limited Data Domains](https://arxiv.org/pdf/2104.13742.pdf) | | |
+| | [Data InStance Prior (DISP) in Generative Adversarial Networks](https://openaccess.thecvf.com/content/WACV2022/papers/Mangla_Data_InStance_Prior_DISP_in_Generative_Adversarial_Networks_WACV_2022_paper.pdf) | WACV2022 | |
 | Interpretability | [RPGAN: GANs Interpretability via Random Routing](https://arxiv.org/pdf/1912.10920.pdf) | | [Github](https://github.com/anvoynov/RandomPathGAN) |
 | | [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/pdf/2002.03754.pdf) | ICML2020 | [Github](https://github.com/anvoynov/GANLatentDiscovery) |
 | | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf) | CVPR2021 | [Github](https://github.com/genforce/sefa) |
@@ -92,6 +93,7 @@ Summary of published or preprint papers
 | | [GAN-based Multi-Style Photo Cartoonization](https://ieeexplore.ieee.org/document/9382902) | IEEE TVCG2021 | |
 | | [Pseudo-Supervised Learning for Semantic Multi-Style Transfer](https://ieeexplore.ieee.org/document/9316188) | IEEE Access (Vol. 9) |
 | | [Cartoonize Images using TinyML Strategies with Transfer Learning](https://ieeexplore.ieee.org/document/9581835) | IEEE 2021 | |
+| | [Transfer photo to anime with dual discriminators GAN](https://ieeexplore.ieee.org/document/9712766) | ICCECE2022 | |
 | Sketch2anime | [SmartPaint: a co-creative drawing system based on generative adversarial networks](https://link.springer.com/content/pdf/10.1631/FITEE.1900386.pdf) | FITEE2019 | |
 | | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf) | | [Github](https://github.com/youyuge34/PI-REC) |
 | | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf) | ECCV2020 | [Github](https://github.com/hytseng0509/ArtEditing) |
@@ -280,6 +282,7 @@ Summary of published or preprint papers
 | [Learning from the Past: Meta-Continual Learning withKnowledge Embedding for Jointly Sketch, Cartoon, andCaricature Face Recognition](https://dl.acm.org/doi/epdf/10.1145/3394171.3413892) | MM2020 |
 | [Graph Jigsaw Learning for Cartoon Face Recognition](https://arxiv.org/pdf/2107.06532.pdf) | |
 | [ACFD: Asymmetric Cartoon Face Detector](https://arxiv.org/pdf/2007.00899.pdf) | IJCAI2020 | | 
+| [CAST: CHARACTER LABELING IN ANIMATION USING SELF-SUPERVISION BY TRACKING](https://arxiv.org/pdf/2201.07619.pdf) | EG2022 | |
 
 ### 3D Character Creation
 | Paper | Conference | Links |
