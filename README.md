@@ -83,6 +83,7 @@ Summary of published or preprint papers
 | | [SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/2103.16219.pdf) | | |
 | | [Good Artists Copy, Great Artists Steal: Model Extraction Attacks Against Image Translation Generative Adversarial Networks](https://arxiv.org/pdf/2104.12623.pdf) | | |
 | | [Unaligned Image-to-Image Translation by Learning to Reweight](https://arxiv.org/pdf/2109.11736.pdf) | ICCV2021 | |
+| | [UVCGAN: UNET VISION TRANSFORMER CYCLE-CONSISTENT GAN FOR UNPAIRED IMAGE-TO-IMAGE TRANSLATION](https://arxiv.org/pdf/2203.02557.pdf) | | |
 | Photo2anime | [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf) | CVPR2018 | [Github](https://github.com/znxlwm/pytorch-CartoonGAN) |
 | | [Comixify: Transform video into a comics](https://arxiv.org/pdf/1812.03473.pdf) | | [Github](https://github.com/maciej3031/comixify) |
 | | [GANILLA: Generative adversarial networks for image to illustration translation](https://arxiv.org/pdf/2002.05638.pdf) | | [Github](https://github.com/giddyyupp/ganilla) |
@@ -107,6 +108,8 @@ Summary of published or preprint papers
 | | [StarGAN Based Facial Expression Transfer for Anime Characters](https://ieeexplore.ieee.org/document/9050061) | CSICC2020 | |
 | | [Few-shot Semantic Image Synthesis Using StyleGAN Prior](https://arxiv.org/pdf/2103.14877.pdf) | | [Github](https://github.com/endo-yuki-t/Fewshot-SMIS) |
 | | [Fine-Grained Control of Artistic Styles in Image Generation](https://arxiv.org/pdf/2110.10278.pdf) | | |
+| | [Unsupersived Image Texture Transfer Based On Generative Adversarial Network](https://ieeexplore.ieee.org/document/9712754) | ICCECE2022 | |
+| | [Styleverse: Towards Identity Stylization across Heterogeneous Domains](https://arxiv.org/pdf/2203.00861.pdf) | | |
 
 
 ### Automatic Line Art Colorization
