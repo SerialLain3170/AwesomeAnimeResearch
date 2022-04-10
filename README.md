@@ -262,7 +262,6 @@ Summary of published or preprint papers
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [Illustration2Vec: A Semantic Vector Representation of Illustrations](https://www.gwern.net/docs/anime/2015-saito.pdf) | SIGGRAPH2015 | [Github](https://github.com/rezoo/illustration2vec) |
-| [Classification and vectorization of key-frames and face characters of anime](https://www.researchgate.net/publication/359842438_The_guy_of_the_names) |  | [Github](https://github.com/enmanuelmag/AnimeClassificator) |
 
 ### Pose Estimation
 | Paper | Conference | Links |
@@ -315,6 +314,9 @@ Summary of github or other types of projects that are related to anime or manga 
 
 ### Dataset
 - [Layered Temporal Dataset for Anime Drawings](https://layered-anime.github.io/)
+
+### Representation Learning
+- [Classification and vectorization of key-frames and face characters of anime](https://github.com/enmanuelmag/AnimeClassificator)
 
 ### Image Generation
 - [makegirlsmoe](https://github.com/makegirlsmoe/makegirlsmoe_web)
