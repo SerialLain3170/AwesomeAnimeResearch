@@ -315,6 +315,9 @@ Summary of github or other types of projects that are related to anime or manga 
 ### Dataset
 - [Layered Temporal Dataset for Anime Drawings](https://layered-anime.github.io/)
 
+### Representation Learning
+- [Classification and vectorization of key-frames and face characters of anime](https://github.com/enmanuelmag/AnimeClassificator)
+
 ### Image Generation
 - [makegirlsmoe](https://github.com/makegirlsmoe/makegirlsmoe_web)
 - [ANIME305/Anime-GAN-tensorflow](https://github.com/ANIME305/Anime-GAN-tensorflow)
