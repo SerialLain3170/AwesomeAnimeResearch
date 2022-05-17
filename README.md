@@ -95,6 +95,7 @@ Summary of published or preprint papers
 | | [Pseudo-Supervised Learning for Semantic Multi-Style Transfer](https://ieeexplore.ieee.org/document/9316188) | IEEE Access (Vol. 9) |
 | | [Cartoonize Images using TinyML Strategies with Transfer Learning](https://ieeexplore.ieee.org/document/9581835) | IEEE 2021 | |
 | | [Transfer photo to anime with dual discriminators GAN](https://ieeexplore.ieee.org/document/9712766) | ICCECE2022 | |
+| | [ARGAN: Fast Converging GAN for Animation Style Transfer](https://ieeexplore.ieee.org/document/9738752) | MVIP2022 | [Github](https://github.com/amirzenoozi/ARGAN) |
 | Sketch2anime | [SmartPaint: a co-creative drawing system based on generative adversarial networks](https://link.springer.com/content/pdf/10.1631/FITEE.1900386.pdf) | FITEE2019 | |
 | | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf) | | [Github](https://github.com/youyuge34/PI-REC) |
 | | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf) | ECCV2020 | [Github](https://github.com/hytseng0509/ArtEditing) |
@@ -110,6 +111,8 @@ Summary of published or preprint papers
 | | [Fine-Grained Control of Artistic Styles in Image Generation](https://arxiv.org/pdf/2110.10278.pdf) | | |
 | | [Unsupersived Image Texture Transfer Based On Generative Adversarial Network](https://ieeexplore.ieee.org/document/9712754) | ICCECE2022 | |
 | | [Styleverse: Towards Identity Stylization across Heterogeneous Domains](https://arxiv.org/pdf/2203.00861.pdf) | | |
+| | [Cross-modal and Semantics-Augmented Asymmetric CycleGAN for Data-Imbalanced Anime Style Face Translation](https://dl.acm.org/doi/fullHtml/10.1145/3503961.3503969) | VSIP2021 | |
+| | [Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer](https://arxiv.org/pdf/2203.13248.pdf) | CVPR2022 | [Github](https://github.com/williamyang1991/DualStyleGAN) |
 
 
 ### Automatic Line Art Colorization
@@ -123,6 +126,7 @@ Summary of published or preprint papers
 | | [Semi-automatic Manga Colorization Using Conditional Adversarial Networks](https://www.gwern.net/docs/ai/anime/2021-golyadkin.pdf) | | [Github](https://github.com/qweasdd/manga-colorization) |
 | | [Stylized-Colorization for Line Arts](https://www.gwern.net/docs/ai/anime/2021-fang.pdf) | ICPR2021 | |
 | | [Generative Probabilistic Image Colorization](https://arxiv.org/pdf/2109.14518.pdf) | | |
+| | [FlatMagic: Improving Flat Colorization through AI-driven Design for Digital Comic Professionals](https://dl.acm.org/doi/10.1145/3491102.3502075) | CHI2022 | [Github](https://cragl.cs.gmu.edu/flatmagic/) |
 | Atari | [Manga Colorization](http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf) | ACM Trans. Graph. 2006 | |
 | | [TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations](https://dcgi.fel.cvut.cz/home/sykorad/Sykora11-NPAR.pdf) | NPAR2011 | |
 | | [Outline Colorization through Tandem Adversarial Networks](https://arxiv.org/pdf/1704.08834.pdf) | | |
@@ -257,6 +261,7 @@ Summary of published or preprint papers
 | Translation | [Towards Fully Automated Manga Translation](https://arxiv.org/pdf/2012.14271.pdf) | AAAI2021 | |
 | Depth Estimation | [Estimating Image Depth in the Comics Domain](https://arxiv.org/pdf/2110.03575.pdf) | WACV2022 | |
 | Vectorization | [Vectorization of Raster Manga by Deep Reinforcement Learning](https://arxiv.org/pdf/2110.04830.pdf) | | |
+| Re-identification | [Unsupervised Manga Character Re-identification via Face-body and Spatial-temporal Associated Clustering](https://arxiv.org/pdf/2204.04621.pdf) | | |
 
 ### Representation Learning
 | Paper | Conference | Links |
@@ -286,6 +291,7 @@ Summary of published or preprint papers
 | [Graph Jigsaw Learning for Cartoon Face Recognition](https://arxiv.org/pdf/2107.06532.pdf) | |
 | [ACFD: Asymmetric Cartoon Face Detector](https://arxiv.org/pdf/2007.00899.pdf) | IJCAI2020 | | 
 | [CAST: CHARACTER LABELING IN ANIMATION USING SELF-SUPERVISION BY TRACKING](https://arxiv.org/pdf/2201.07619.pdf) | EG2022 | |
+| [Open-Vocabulary DETR with Conditional Matching](https://arxiv.org/pdf/2203.11876.pdf) | | [Github](https://github.com/yuhangzang/OV-DETR) |
 
 ### 3D Character Creation
 | Paper | Conference | Links |
