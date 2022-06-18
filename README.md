@@ -16,6 +16,7 @@ Summary of published or preprint papers
 | [Cartoon Face Recognition: A Benchmark Dataset](https://arxiv.org/pdf/1907.13394.pdf) | ACM MM2020 | [Github](https://github.com/luxiangju-PersonAI/iCartoonFace) |
 | [DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION](https://arxiv.org/pdf/2101.08674.pdf) | | [Github](https://github.com/arkel23/animesion) |
 | [AnimeCeleb: Large-Scale Animation CelebFaces Dataset via Controllable 3D Synthetic Models](https://arxiv.org/pdf/2111.07640.pdf) | | |
+| [A Challenging Benchmark of Anime Style Recognition](https://openaccess.thecvf.com/content/CVPR2022W/VDU/papers/Li_A_Challenging_Benchmark_of_Anime_Style_Recognition_CVPRW_2022_paper.pdf) | CVPRW2022 | |
 
 ### Image Generation
 
@@ -53,6 +54,7 @@ Summary of published or preprint papers
 | | [EigenGAN: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf) | | [Github](https://github.com/LynnHo/EigenGAN-Tensorflow) |
 | | [Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Discovering_Interpretable_Latent_Space_Directions_of_GANs_Beyond_Binary_Attributes_CVPR_2021_paper.pdf) | CVPR2021 | |
 | | [Discovering Density-Preserving Latent Space Walks in GANs for Semantic Image Transformations](https://dl.acm.org/doi/pdf/10.1145/3474085.3475293) | MM 2021 | | |
+| Montage | [MontageGAN: Generation and Assembly of Multiple Components by GANs](https://arxiv.org/pdf/2205.15577.pdf) | ICPR2022 | |
 
 ### Image-to-image Translation
 
@@ -74,6 +76,8 @@ Summary of published or preprint papers
 | | [FINE-TUNING STYLEGAN2 FOR CARTOON FACE GENERATION](https://arxiv.org/pdf/2106.12445.pdf) | | [Github](https://github.com/happy-jihye/Cartoon-StyleGAN) |
 | | [AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning](https://dl.acm.org/doi/pdf/10.1145/3450626.3459771) | ACM Trans. Graph. 2021 | [Github](https://github.com/GuoxianSong/AgileGAN) |
 | | [A Domain Gap Aware Generative Adversarial Network for Multi-domain Image Translation](https://arxiv.org/pdf/2110.10837.pdf) | | |
+| | [Cross-Domain Style Mixing for Face Cartoonization](https://arxiv.org/pdf/2205.12450.pdf) | CVPRW2022 | [HP](https://webtoon.github.io/WebtoonMe/en)|
+| | [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220.pdf) | | |
 | Selfie2anime | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | ICLR2020 | [Github](https://github.com/taki0112/UGATIT) |
 | | [Breaking the cycle—Colleagues are all you need](https://arxiv.org/pdf/1911.10538.pdf) | CVPR2020 | [Github](https://github.com/Onr/Council-GAN) |
 | | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://arxiv.org/pdf/1911.11897.pdf) | IJCNN2019 | [Github](https://github.com/Ha0Tang/AttentionGAN) |
@@ -84,6 +88,7 @@ Summary of published or preprint papers
 | | [Good Artists Copy, Great Artists Steal: Model Extraction Attacks Against Image Translation Generative Adversarial Networks](https://arxiv.org/pdf/2104.12623.pdf) | | |
 | | [Unaligned Image-to-Image Translation by Learning to Reweight](https://arxiv.org/pdf/2109.11736.pdf) | ICCV2021 | |
 | | [UVCGAN: UNET VISION TRANSFORMER CYCLE-CONSISTENT GAN FOR UNPAIRED IMAGE-TO-IMAGE TRANSLATION](https://arxiv.org/pdf/2203.02557.pdf) | | |
+| | [Unpaired Cartoon Image Synthesis via Gated Cycle Mapping](https://openaccess.thecvf.com/content/CVPR2022/papers/Men_Unpaired_Cartoon_Image_Synthesis_via_Gated_Cycle_Mapping_CVPR_2022_paper.pdf) | CVPR2022 | |
 | Photo2anime | [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf) | CVPR2018 | [Github](https://github.com/znxlwm/pytorch-CartoonGAN) |
 | | [Comixify: Transform video into a comics](https://arxiv.org/pdf/1812.03473.pdf) | | [Github](https://github.com/maciej3031/comixify) |
 | | [GANILLA: Generative adversarial networks for image to illustration translation](https://arxiv.org/pdf/2002.05638.pdf) | | [Github](https://github.com/giddyyupp/ganilla) |
@@ -96,6 +101,7 @@ Summary of published or preprint papers
 | | [Cartoonize Images using TinyML Strategies with Transfer Learning](https://ieeexplore.ieee.org/document/9581835) | IEEE 2021 | |
 | | [Transfer photo to anime with dual discriminators GAN](https://ieeexplore.ieee.org/document/9712766) | ICCECE2022 | |
 | | [ARGAN: Fast Converging GAN for Animation Style Transfer](https://ieeexplore.ieee.org/document/9738752) | MVIP2022 | [Github](https://github.com/amirzenoozi/ARGAN) |
+| | [Unsupervised Coherent Video Cartoonization with Perceptual Motion Consistency](https://www.aaai.org/AAAI22Papers/AAAI-6861.ZhenahuanL.pdf) | AAAI2022 | |
 | Sketch2anime | [SmartPaint: a co-creative drawing system based on generative adversarial networks](https://link.springer.com/content/pdf/10.1631/FITEE.1900386.pdf) | FITEE2019 | |
 | | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf) | | [Github](https://github.com/youyuge34/PI-REC) |
 | | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf) | ECCV2020 | [Github](https://github.com/hytseng0509/ArtEditing) |
@@ -172,6 +178,7 @@ Summary of published or preprint papers
 | | [Disentangled and controllable sketch creation based ondisentangling the structure and color enhancement](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.12343) | | |
 | | [Reference-guided structure-aware deep sketch colorization for cartoons](https://link.springer.com/content/pdf/10.1007/s41095-021-0228-6.pdf) | CVM2022 | |
 | | [Anime Character Colorization using Few-shot Learning](https://dl.acm.org/doi/10.1145/3478512.3488604) | SIGGRAPH Asia2021 | |
+| | [Exemplar-Based Sketch Colorization with Cross-Domain Dense Semantic Correspondence](https://www.mdpi.com/2227-7390/10/12/1988/htm) | Mathematics2022 | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/blandocs/Tag2Pix) |
 | | [Line Art Colorization Based on Explicit Region Segmentation](https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf) | PG 2021 | | |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | | [Github](https://github.com/Harry-Thasarathan/TCVC) |
@@ -222,6 +229,7 @@ Summary of published or preprint papers
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 | |
 | [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | MM2020 | [Github](https://github.com/LCXCUC/SketchMan2020) |
 | [One-shot Line Extraction from Color Illustrations](https://ieeexplore.ieee.org/document/9515964) | NicoInt2021 | |
+| [Learning to Generate Artistic Character Line Drawing](https://arxiv.org/pdf/2206.02998.pdf) | | |
 
 ### Automatic Animation Inbetweening
 | Paper | Conference | Links |
