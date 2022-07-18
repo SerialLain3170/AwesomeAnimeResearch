@@ -238,7 +238,7 @@ Summary of published or preprint papers
 | [DiLight: Digital light table – Inbetweening for 2D animations using guidelines](http://graphics.tudelft.nl/Publications-new/2017/CMV17/pdf.pdf) | CMV2017 | |
 | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506) | ICIP2019 | |
 | [Deep Animation Video Interpolation in the Wild](https://arxiv.org/pdf/2104.02495.pdf) | CVPR2021 | [Github](https://github.com/lisiyao21/AnimeInterp/) |
-| [Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/pdf/2111.12792.pdf) | | |
+| [Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/pdf/2111.12792.pdf) | ECCV2022 | [Github](https://github.com/ShuhongChen/eisai-anime-interpolator/) |
 
 ### Automatic Image Enhancement
 | Paper | Conference | Links |
@@ -280,7 +280,7 @@ Summary of published or preprint papers
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [Pose Estimation of Anime/Manga Characters: A Case for Synthetic Data](http://www.cs.cornell.edu/~pramook/papers/manpu2016.pdf) | MANPU2016 |
-| [Transfer Learning for Pose Estimation of Illustrated Characters](https://arxiv.org/pdf/2108.01819.pdf) | WACV2022 | 
+| [Transfer Learning for Pose Estimation of Illustrated Characters](https://arxiv.org/pdf/2108.01819.pdf) | WACV2022 | [Github](https://github.com/ShuhongChen/bizarre-pose-estimator) |
 
 ### Image Retrieval
 | Paper | Conference | Links |
