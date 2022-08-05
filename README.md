@@ -10,6 +10,7 @@ Summary of published or preprint papers
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives](https://arxiv.org/pdf/1611.05118.pdf) | CVPR2017 | [Github](https://github.com/miyyer/comics) |
+| [Creative Flow+ Dataset](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shugrina_Creative_Flow_Dataset_CVPR_2019_paper.pdf) | CVPR2019 | [HP](https://www.cs.toronto.edu/creativeflow/) |
 | [Building a Manga Dataset ”Manga109” with Annotations for Multimedia Applications](https://arxiv.org/pdf/2005.04425.pdf) | IEEE MultiMedia,2020 | [HP](http://www.manga109.org/ja/download_s.html) |
 | [DanbooRegion: An Illustration Region Dataset](https://lllyasviel.github.io/DanbooRegion/paper/paper.pdf) | ECCV2020 | [Github](https://github.com/lllyasviel/DanbooRegion) |
 | [Unconstrained Text Detection in Manga: a New Dataset and Baseline](https://arxiv.org/pdf/2009.04042.pdf) | ECCVW2020 | [Github](https://github.com/juvian/Manga-Text-Segmentation) |
@@ -17,6 +18,8 @@ Summary of published or preprint papers
 | [DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION](https://arxiv.org/pdf/2101.08674.pdf) | | [Github](https://github.com/arkel23/animesion) |
 | [AnimeCeleb: Large-Scale Animation CelebFaces Dataset via Controllable 3D Synthetic Models](https://arxiv.org/pdf/2111.07640.pdf) | | |
 | [A Challenging Benchmark of Anime Style Recognition](https://openaccess.thecvf.com/content/CVPR2022W/VDU/papers/Li_A_Challenging_Benchmark_of_Anime_Style_Recognition_CVPRW_2022_paper.pdf) | CVPRW2022 | |
+| [COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts](https://arxiv.org/pdf/2207.04675.pdf) | ECCV2022 | [Github](https://github.com/ku21fan/COO-Comic-Onomatopoeia) |
+| [AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies](https://openreview.net/pdf?id=04OPxj0jGN_) | | [HP](https://lisiyao21.github.io/projects/AnimeRun) |
 
 ### Image Generation
 
@@ -36,7 +39,7 @@ Summary of published or preprint papers
 | | [Efficient Continual Adaptation for Generative Adversarial Networks](https://arxiv.org/pdf/2103.04032.pdf) | | |
 | | [Generating "Ideal" Anime Opening Frames Using Neural Networks](https://ieeexplore.ieee.org/abstract/document/9396557) | ElConRus2021 | |
 | | [CoPE: Conditional image generation using Polynomial Expansions](https://arxiv.org/pdf/2104.05077.pdf) | | |
-| | [StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators](https://arxiv.org/pdf/2108.00946.pdf) | | [Github](https://github.com/rinongal/StyleGAN-nada) |
+| | [StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators](https://arxiv.org/pdf/2108.00946.pdf) | SIGGRAPH2022 | [Github](https://github.com/rinongal/StyleGAN-nada) |
 | | [DisUnknown: Distilling Unknown Factors for Disentanglement Learning](https://arxiv.org/pdf/2109.08090.pdf) | ICCV2021 | [Github](https://github.com/stormraiser/disunknown) |
 | Few-shot | [Image Generation From Small Datasets via Batch Statistics Adaptation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Noguchi_Image_Generation_From_Small_Datasets_via_Batch_Statistics_Adaptation_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/nogu-atsu/small-dataset-image-generation) |
 | | [FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2010.11943.pdf) | | [Github](https://github.com/e-271/few-shot-gan) |
@@ -45,6 +48,7 @@ Summary of published or preprint papers
 | | [DATA INSTANCE PRIOR FOR TRANSFER LEARNING IN GANS](https://arxiv.org/pdf/2012.04256.pdf) | | |
 | | [MineGAN++: Mining Generative Models for Efficient Knowledge Transfer to Limited Data Domains](https://arxiv.org/pdf/2104.13742.pdf) | | |
 | | [Data InStance Prior (DISP) in Generative Adversarial Networks](https://openaccess.thecvf.com/content/WACV2022/papers/Mangla_Data_InStance_Prior_DISP_in_Generative_Adversarial_Networks_WACV_2022_paper.pdf) | WACV2022 | |
+| | [Controlling StyleGANs Using Rough Scribbles via One-shot Learning](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/StyleGANSparseControl/CAVW_endo22_preprint.pdf) | CAVW2022 | [HP](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/StyleGANSparseControl/) |
 | Interpretability | [RPGAN: GANs Interpretability via Random Routing](https://arxiv.org/pdf/1912.10920.pdf) | | [Github](https://github.com/anvoynov/RandomPathGAN) |
 | | [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/pdf/2002.03754.pdf) | ICML2020 | [Github](https://github.com/anvoynov/GANLatentDiscovery) |
 | | [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/pdf/2007.06600.pdf) | CVPR2021 | [Github](https://github.com/genforce/sefa) |
@@ -115,10 +119,13 @@ Summary of published or preprint papers
 | | [StarGAN Based Facial Expression Transfer for Anime Characters](https://ieeexplore.ieee.org/document/9050061) | CSICC2020 | |
 | | [Few-shot Semantic Image Synthesis Using StyleGAN Prior](https://arxiv.org/pdf/2103.14877.pdf) | | [Github](https://github.com/endo-yuki-t/Fewshot-SMIS) |
 | | [Fine-Grained Control of Artistic Styles in Image Generation](https://arxiv.org/pdf/2110.10278.pdf) | | |
+| | [JoJoGAN: One Shot Face Stylization](https://arxiv.org/pdf/2112.11641.pdf) | | [Github](https://github.com/mchong6/JoJoGAN) |
 | | [Unsupersived Image Texture Transfer Based On Generative Adversarial Network](https://ieeexplore.ieee.org/document/9712754) | ICCECE2022 | |
 | | [Styleverse: Towards Identity Stylization across Heterogeneous Domains](https://arxiv.org/pdf/2203.00861.pdf) | | |
 | | [Cross-modal and Semantics-Augmented Asymmetric CycleGAN for Data-Imbalanced Anime Style Face Translation](https://dl.acm.org/doi/fullHtml/10.1145/3503961.3503969) | VSIP2021 | |
+| | [Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks](https://arxiv.org/pdf/2110.08398.pdf) | ICLR2022 | [Github](https://github.com/ZPdesu/MindTheGap) |
 | | [Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer](https://arxiv.org/pdf/2203.13248.pdf) | CVPR2022 | [Github](https://github.com/williamyang1991/DualStyleGAN) |
+| | [Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks](https://arxiv.org/pdf/2207.08736.pdf) | | [Github](https://github.com/1170300521/DiFa) |
 
 
 ### Automatic Line Art Colorization
@@ -173,7 +180,7 @@ Summary of published or preprint papers
 | | [Anime Sketch Colorization by Component-based Matching using Deep Appearance Features and Graph Representation](https://ieeexplore.ieee.org/document/9412507) | ICPR2021 | |
 | | [Anime Style Transfer With Spatially-Adaptive Normalization](https://ieeexplore.ieee.org/document/9428305) | ICME2021 | |
 | | [Exploring Sketch-based Character Design Guided by Automatic Colorization](https://rawanmg.github.io/pdf/gi21.pdf) | | |
-| | [PAINTING STYLE-AWARE MANGA COLORIZATION BASED ON GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2107.07943.pdf) | | |
+| | [PAINTING STYLE-AWARE MANGA COLORIZATION BASED ON GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2107.07943.pdf) | ICIP2021 | |
 | | [The Animation Transformer: Visual Correspondence via Segment Matching](https://openaccess.thecvf.com/content/ICCV2021/papers/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.pdf) | ICCV2021 | | |
 | | [Disentangled and controllable sketch creation based ondisentangling the structure and color enhancement](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.12343) | | |
 | | [Reference-guided structure-aware deep sketch colorization for cartoons](https://link.springer.com/content/pdf/10.1007/s41095-021-0228-6.pdf) | CVM2022 | |
@@ -244,12 +251,14 @@ Summary of published or preprint papers
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [Enhancement of Anime Imaging Enlargement using Modified Super-Resolution CNN](https://arxiv.org/pdf/2110.02321.pdf) | JSCI2021 | [Github](https://github.com/TanakitInt/SRCNN-anime) |
+| [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/pdf/2107.10833.pdf) | ICCVW2021 | [Github](https://github.com/xinntao/Real-ESRGAN) |
 
-### Talking Head Animation
+### Character Animating
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [MakeItTalk: Speaker-Aware Talking-Head Animation](https://arxiv.org/pdf/2004.12992.pdf) | SIGGRAPH Asia2020 | |
 | [CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_CPTNet_Cascade_Pose_Transform_Network_for_Single_Image_Talking_Head_ACCV_2020_paper.pdf) | ACCV2020 | |
+| [Collaborative Neural Rendering using Anime Character Sheets](https://arxiv.org/pdf/2207.05378.pdf) | | [Github](https://github.com/megvii-research/CONR) |
 
 ### Manga Application
 | Subcategory | Paper | Conference | Links |
@@ -288,6 +297,11 @@ Summary of published or preprint papers
 | [Sketch-based Manga Retrieval using Manga109 Dataset](https://arxiv.org/pdf/1510.04389.pdf) | MTA2017 | |
 | [AugNet: End-to-End Unsupervised Visual Representation Learning with Image Augmentation](https://arxiv.org/pdf/2106.06250.pdf) | | [Github](https://github.com/chenmingxiang110/AugNet) |
 
+### Visual Correspondence
+| Paper | Conference | Links |
+| ---- | ---- | ---- |
+| [Globally Optimal Toon Tracking](http://www.cse.cuhk.edu.hk/~ttwong/papers/toontrack/toontrack.pdf) | ACM Trans. Graph. 2016 | [HP](http://www.cse.cuhk.edu.hk/~ttwong/papers/toontrack/toontrack.html) |
+
 ### Character Recognition
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
@@ -316,6 +330,13 @@ Summary of published or preprint papers
 | ---- | ---- | ---- |
 | [Comic-Guided Speech Synthesis](https://dl.acm.org/doi/pdf/10.1145/3355089.3356487) | ACM Trans. Graph. 2019 | [HP](https://bitwangyujia.github.io/research/project/comic2speech.html) |
 
+### Adult Content Detection
+| Paper | Conference | Links |
+| ---- | ---- | ---- |
+| [KidsGUARD: Fine Grained Approach for Child Unsafe Video Representation and Detection](https://precog.iiitd.edu.in/pubs/KidsGuard-cam-ready.pdf) | ACM SAC2019 | [Github](https://github.com/precog-iiitd/kidsguard-sac) |
+| [An Evaluation of Traditional and CNN-Based Feature Descriptors for Cartoon Pornography Detection](https://ieeexplore.ieee.org/document/9371684) | IEEE Access2021 |  |
+| [A Deep Learning-Based Approach for Inappropriate Content Detection and Classification of YouTube Videos](https://ieeexplore.ieee.org/document/9696242) | IEEE Access2022 |  |
+
 ### Survey
 | Paper | Conference |
 | ---- | ---- |
@@ -328,6 +349,7 @@ Summary of github or other types of projects that are related to anime or manga 
 
 ### Dataset
 - [Layered Temporal Dataset for Anime Drawings](https://layered-anime.github.io/)
+- [TRIGGER dataset](https://www.nii.ac.jp/dsc/idr/trigger/)
 
 ### Representation Learning
 - [Classification and vectorization of key-frames and face characters of anime](https://github.com/enmanuelmag/AnimeClassificator)
@@ -350,7 +372,6 @@ Summary of github or other types of projects that are related to anime or manga 
 - [racinmat/anime-style-transfer](https://github.com/racinmat/anime-style-transfer)
 - [TachibanaYoshino/AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
 - [XiaoSanGit/Real2Animation-video-generation](https://github.com/XiaoSanGit/Real2Animation-video-generation)
-- [rinongal/StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)
 - [Avatar Artist Using GAN](http://cs230.stanford.edu/projects_winter_2020/reports/32639139.pdf)
 - [Generating Cartoon Style Facial Expressions with StackGAN](https://cs230.stanford.edu/projects_fall_2019/reports/26242839.pdf)
 
@@ -364,13 +385,15 @@ Summary of github or other types of projects that are related to anime or manga 
 - [Line Drawing Colorization](http://cs231n.stanford.edu/reports/2017/pdfs/425.pdf)
 
 ### Character Animating
-- [Talking Head Anime from a Single Image](https://pkhungurn.github.io/talking-head-anime/)
-- [Talking Head Anime from a Single Image 2: More Expressive](https://pkhungurn.github.io/talking-head-anime-2/)
+- [Talking Head Anime from a Single Image](https://github.com/pkhungurn/talking-head-anime-demo)
+- [Talking Head Anime from a Single Image 2: More Expressive](https://github.com/pkhungurn/talking-head-anime-2-demo)
+- [Talking Head(?) Anime from a Single Image 3: Now the Body Too](https://github.com/pkhungurn/talking-head-anime-3-demo)
 
 ### Super Resolution
 - [waifu2x](https://github.com/nagadomi/waifu2x)
 - [Anime4K](https://github.com/bloc97/Anime4K)
 - [goldhuang/SRGAN-PyTorch](https://github.com/goldhuang/SRGAN-PyTorch)
+- [Real-CUGAN](https://github.com/bilibili/ailab/blob/main/Real-CUGAN/README_EN.md)
 
 ### Segmentation
 - [jerryli27/AniSeg](https://github.com/jerryli27/AniSeg)
