@@ -16,7 +16,7 @@ Summary of published or preprint papers
 | [Unconstrained Text Detection in Manga: a New Dataset and Baseline](https://arxiv.org/pdf/2009.04042.pdf) | ECCVW2020 | [Github](https://github.com/juvian/Manga-Text-Segmentation) |
 | [Cartoon Face Recognition: A Benchmark Dataset](https://arxiv.org/pdf/1907.13394.pdf) | ACM MM2020 | [Github](https://github.com/luxiangju-PersonAI/iCartoonFace) |
 | [DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION](https://arxiv.org/pdf/2101.08674.pdf) | | [Github](https://github.com/arkel23/animesion) |
-| [AnimeCeleb: Large-Scale Animation CelebFaces Dataset via Controllable 3D Synthetic Models](https://arxiv.org/pdf/2111.07640.pdf) | | |
+| [AnimeCeleb: Large-Scale Animation CelebFaces Dataset via Controllable 3D Synthetic Models](https://arxiv.org/pdf/2111.07640.pdf) | ECCV2022 | [Github](https://github.com/kangyeolk/AnimeCeleb) |
 | [A Challenging Benchmark of Anime Style Recognition](https://openaccess.thecvf.com/content/CVPR2022W/VDU/papers/Li_A_Challenging_Benchmark_of_Anime_Style_Recognition_CVPRW_2022_paper.pdf) | CVPRW2022 | |
 | [COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts](https://arxiv.org/pdf/2207.04675.pdf) | ECCV2022 | [Github](https://github.com/ku21fan/COO-Comic-Onomatopoeia) |
 | [AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies](https://openreview.net/pdf?id=04OPxj0jGN_) | | [HP](https://lisiyao21.github.io/projects/AnimeRun) |
