@@ -58,7 +58,7 @@ Summary of published or preprint papers
 | | [EigenGAN: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf) | | [Github](https://github.com/LynnHo/EigenGAN-Tensorflow) |
 | | [Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Discovering_Interpretable_Latent_Space_Directions_of_GANs_Beyond_Binary_Attributes_CVPR_2021_paper.pdf) | CVPR2021 | |
 | | [Discovering Density-Preserving Latent Space Walks in GANs for Semantic Image Transformations](https://dl.acm.org/doi/pdf/10.1145/3474085.3475293) | MM 2021 | | |
-| Montage | [MontageGAN: Generation and Assembly of Multiple Components by GANs](https://arxiv.org/pdf/2205.15577.pdf) | ICPR2022 | |
+| Montage | [MontageGAN: Generation and Assembly of Multiple Components by GANs](https://arxiv.org/pdf/2205.15577.pdf) | ICPR2022 | [Github](https://github.com/uchidalab/docker-montage-gan)|
 
 ### Image-to-image Translation
 
