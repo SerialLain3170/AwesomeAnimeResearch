@@ -173,7 +173,7 @@ Summary of published or preprint papers
 | | [Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors](https://dl.acm.org/doi/pdf/10.1145/3306214.3338585) | SIGGRAPH2019 | |
 | | [Semantic Example Guided Image-to-Image Translation](https://arxiv.org/pdf/1909.13028.pdf) | IEEE Transactions on Multimedia2020 | |
 | | [Graph Matching based Anime Colorization with Multiple References](https://ahcweb01.naist.jp/papers/conference/2019/201907_SIGGRAPH2019_s-nakamura/201907_SIGGRAPH_s-nakamura.slides.pdf) | SIGGRAPH2019 | |
-| | [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](https://arxiv.org/pdf/2005.05207.pdf) | CVPR2020 | |
+| | [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](https://arxiv.org/pdf/2005.05207.pdf) | CVPR2020 | [Github](https://github.com/Jungjaewon/Reference_based_Skectch_Image_Colorization) |
 | | [Multi-Density Sketch-to-Image Translation Network](https://arxiv.org/pdf/2006.10649.pdf) | | |
 | | [Deep-Eyes: Fully Automatic Anime Character Colorization with Painting of Details on Empty Pupils](https://www.gwern.net/docs/ai/anime/2020-akita.pdf) | EG2020 | |
 | | [Colorization of Line Drawings with Empty Pupils](https://www.gwern.net/docs/anime/2020-akita.pdf) | PG2020 | |
