@@ -401,3 +401,4 @@ Summary of github or other types of projects that are related to anime or manga 
 
 ### Landmark Detection
 - [Anime face landmark detection by deep cascaded regression](https://github.com/kanosawa/anime_face_landmark_detection)
+- [Anime Face Detector using mmdet and mmpose](https://github.com/hysts/anime-face-detector)
