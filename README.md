@@ -58,6 +58,7 @@ Summary of published or preprint papers
 | | [EigenGAN: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf) | | [Github](https://github.com/LynnHo/EigenGAN-Tensorflow) |
 | | [Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Discovering_Interpretable_Latent_Space_Directions_of_GANs_Beyond_Binary_Attributes_CVPR_2021_paper.pdf) | CVPR2021 | |
 | | [Discovering Density-Preserving Latent Space Walks in GANs for Semantic Image Transformations](https://dl.acm.org/doi/pdf/10.1145/3474085.3475293) | MM 2021 | | |
+| | [Self-supervised Enhancement of Latent Discovery in GANs](https://arxiv.org/pdf/2112.08835.pdf) | AAAI2022 | | 
 | Montage | [MontageGAN: Generation and Assembly of Multiple Components by GANs](https://arxiv.org/pdf/2205.15577.pdf) | ICPR2022 | [Github](https://github.com/uchidalab/docker-montage-gan)|
 
 ### Image-to-image Translation
@@ -93,6 +94,7 @@ Summary of published or preprint papers
 | | [Unaligned Image-to-Image Translation by Learning to Reweight](https://arxiv.org/pdf/2109.11736.pdf) | ICCV2021 | |
 | | [UVCGAN: UNET VISION TRANSFORMER CYCLE-CONSISTENT GAN FOR UNPAIRED IMAGE-TO-IMAGE TRANSLATION](https://arxiv.org/pdf/2203.02557.pdf) | | |
 | | [Unpaired Cartoon Image Synthesis via Gated Cycle Mapping](https://openaccess.thecvf.com/content/CVPR2022/papers/Men_Unpaired_Cartoon_Image_Synthesis_via_Gated_Cycle_Mapping_CVPR_2022_paper.pdf) | CVPR2022 | |
+| | [Unpaired Image-to-Image Translation using Negative Learning for Noisy Patches](https://ieeexplore.ieee.org/document/9780547) | IEEE MM2022| |
 | Photo2anime | [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf) | CVPR2018 | [Github](https://github.com/znxlwm/pytorch-CartoonGAN) |
 | | [Comixify: Transform video into a comics](https://arxiv.org/pdf/1812.03473.pdf) | | [Github](https://github.com/maciej3031/comixify) |
 | | [GANILLA: Generative adversarial networks for image to illustration translation](https://arxiv.org/pdf/2002.05638.pdf) | | [Github](https://github.com/giddyyupp/ganilla) |
@@ -186,6 +188,8 @@ Summary of published or preprint papers
 | | [Reference-guided structure-aware deep sketch colorization for cartoons](https://link.springer.com/content/pdf/10.1007/s41095-021-0228-6.pdf) | CVM2022 | |
 | | [Anime Character Colorization using Few-shot Learning](https://dl.acm.org/doi/10.1145/3478512.3488604) | SIGGRAPH Asia2021 | |
 | | [Exemplar-Based Sketch Colorization with Cross-Domain Dense Semantic Correspondence](https://www.mdpi.com/2227-7390/10/12/1988/htm) | Mathematics2022 | |
+| | [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/pdf/2207.06095.pdf) | ECCV2022 | [Github](https://github.com/kunkun0w0/SGA) |
+| | [Improving Reference-Based Image Colorization For Line Arts Via Feature Aggregation And Contrastive Learning](https://ieeexplore.ieee.org/document/9746326) | ICASSP2022 | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/blandocs/Tag2Pix) |
 | | [Line Art Colorization Based on Explicit Region Segmentation](https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf) | PG 2021 | | |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | | [Github](https://github.com/Harry-Thasarathan/TCVC) |
@@ -259,6 +263,7 @@ Summary of published or preprint papers
 | [MakeItTalk: Speaker-Aware Talking-Head Animation](https://arxiv.org/pdf/2004.12992.pdf) | SIGGRAPH Asia2020 | |
 | [CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_CPTNet_Cascade_Pose_Transform_Network_for_Single_Image_Talking_Head_ACCV_2020_paper.pdf) | ACCV2020 | |
 | [Collaborative Neural Rendering using Anime Character Sheets](https://arxiv.org/pdf/2207.05378.pdf) | | [Github](https://github.com/megvii-research/CONR) |
+| [Language-Guided Face Animation by Recurrent StyleGAN-based Generator](https://arxiv.org/pdf/2208.05617.pdf) | | [Github](https://github.com/TiankaiHang/language-guided-animation) |
 
 ### Manga Application
 | Subcategory | Paper | Conference | Links |
@@ -314,6 +319,7 @@ Summary of published or preprint papers
 | [ACFD: Asymmetric Cartoon Face Detector](https://arxiv.org/pdf/2007.00899.pdf) | IJCAI2020 | | 
 | [CAST: CHARACTER LABELING IN ANIMATION USING SELF-SUPERVISION BY TRACKING](https://arxiv.org/pdf/2201.07619.pdf) | EG2022 | |
 | [Open-Vocabulary DETR with Conditional Matching](https://arxiv.org/pdf/2203.11876.pdf) | | [Github](https://github.com/yuhangzang/OV-DETR) |
+| [AniWho : A Quick and Accurate Way to Classify Anime Character Faces in Images](https://arxiv.org/pdf/2208.11012.pdf) | | |
 
 ### 3D Character Creation
 | Paper | Conference | Links |
