@@ -16,7 +16,7 @@ Summary of published or preprint papers
 | [Unconstrained Text Detection in Manga: a New Dataset and Baseline](https://arxiv.org/pdf/2009.04042.pdf) | ECCVW2020 | [Github](https://github.com/juvian/Manga-Text-Segmentation) |
 | [Cartoon Face Recognition: A Benchmark Dataset](https://arxiv.org/pdf/1907.13394.pdf) | ACM MM2020 | [Github](https://github.com/luxiangju-PersonAI/iCartoonFace) |
 | [DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION](https://arxiv.org/pdf/2101.08674.pdf) | | [Github](https://github.com/arkel23/animesion) |
-| [AnimeCeleb: Large-Scale Animation CelebFaces Dataset via Controllable 3D Synthetic Models](https://arxiv.org/pdf/2111.07640.pdf) | | |
+| [AnimeCeleb: Large-Scale Animation CelebHeads Dataset for Head Reenactment](https://arxiv.org/pdf/2111.07640.pdf) | ECCV2022 | [Github](https://github.com/kangyeolk/AnimeCeleb) |
 | [A Challenging Benchmark of Anime Style Recognition](https://openaccess.thecvf.com/content/CVPR2022W/VDU/papers/Li_A_Challenging_Benchmark_of_Anime_Style_Recognition_CVPRW_2022_paper.pdf) | CVPRW2022 | |
 | [COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts](https://arxiv.org/pdf/2207.04675.pdf) | ECCV2022 | [Github](https://github.com/ku21fan/COO-Comic-Onomatopoeia) |
 | [AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies](https://openreview.net/pdf?id=04OPxj0jGN_) | | [HP](https://lisiyao21.github.io/projects/AnimeRun) |
@@ -58,7 +58,7 @@ Summary of published or preprint papers
 | | [EigenGAN: Layer-Wise Eigen-Learning for GANs](https://arxiv.org/pdf/2104.12476.pdf) | | [Github](https://github.com/LynnHo/EigenGAN-Tensorflow) |
 | | [Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Discovering_Interpretable_Latent_Space_Directions_of_GANs_Beyond_Binary_Attributes_CVPR_2021_paper.pdf) | CVPR2021 | |
 | | [Discovering Density-Preserving Latent Space Walks in GANs for Semantic Image Transformations](https://dl.acm.org/doi/pdf/10.1145/3474085.3475293) | MM 2021 | | |
-| Montage | [MontageGAN: Generation and Assembly of Multiple Components by GANs](https://arxiv.org/pdf/2205.15577.pdf) | ICPR2022 | |
+| Montage | [MontageGAN: Generation and Assembly of Multiple Components by GANs](https://arxiv.org/pdf/2205.15577.pdf) | ICPR2022 | [Github](https://github.com/uchidalab/docker-montage-gan)|
 
 ### Image-to-image Translation
 
@@ -173,7 +173,7 @@ Summary of published or preprint papers
 | | [Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors](https://dl.acm.org/doi/pdf/10.1145/3306214.3338585) | SIGGRAPH2019 | |
 | | [Semantic Example Guided Image-to-Image Translation](https://arxiv.org/pdf/1909.13028.pdf) | IEEE Transactions on Multimedia2020 | |
 | | [Graph Matching based Anime Colorization with Multiple References](https://ahcweb01.naist.jp/papers/conference/2019/201907_SIGGRAPH2019_s-nakamura/201907_SIGGRAPH_s-nakamura.slides.pdf) | SIGGRAPH2019 | |
-| | [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](https://arxiv.org/pdf/2005.05207.pdf) | CVPR2020 | |
+| | [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](https://arxiv.org/pdf/2005.05207.pdf) | CVPR2020 | [Github](https://github.com/Jungjaewon/Reference_based_Skectch_Image_Colorization) |
 | | [Multi-Density Sketch-to-Image Translation Network](https://arxiv.org/pdf/2006.10649.pdf) | | |
 | | [Deep-Eyes: Fully Automatic Anime Character Colorization with Painting of Details on Empty Pupils](https://www.gwern.net/docs/ai/anime/2020-akita.pdf) | EG2020 | |
 | | [Colorization of Line Drawings with Empty Pupils](https://www.gwern.net/docs/anime/2020-akita.pdf) | PG2020 | |
@@ -401,3 +401,4 @@ Summary of github or other types of projects that are related to anime or manga 
 
 ### Landmark Detection
 - [Anime face landmark detection by deep cascaded regression](https://github.com/kanosawa/anime_face_landmark_detection)
+- [Anime Face Detector using mmdet and mmpose](https://github.com/hysts/anime-face-detector)
