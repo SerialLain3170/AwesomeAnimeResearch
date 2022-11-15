@@ -133,6 +133,7 @@ Summary of published or preprint papers
 | | [Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer](https://arxiv.org/pdf/2203.13248.pdf) | CVPR2022 | [Github](https://github.com/williamyang1991/DualStyleGAN) |
 | | [Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks](https://arxiv.org/pdf/2207.08736.pdf) | | [Github](https://github.com/1170300521/DiFa) |
 | | [LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data](https://arxiv.org/pdf/2208.14889.pdf) | | [Github](https://github.com/KU-CVLAB/LANIT) |
+| Authoer style transfer | [Translation of Illustration Artist Style Using Sailormoonredraw Data](https://ieeexplore.ieee.org/document/9897787) | ICIP2022 |  |
 
 
 ### Automatic Line Art Colorization
