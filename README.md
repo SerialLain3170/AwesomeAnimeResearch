@@ -277,6 +277,7 @@ Summary of published or preprint papers
 | [MakeItTalk: Speaker-Aware Talking-Head Animation](https://arxiv.org/pdf/2004.12992.pdf) | SIGGRAPH Asia2020 | |
 | [CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_CPTNet_Cascade_Pose_Transform_Network_for_Single_Image_Talking_Head_ACCV_2020_paper.pdf) | ACCV2020 | |
 | [Collaborative Neural Rendering using Anime Character Sheets](https://arxiv.org/pdf/2207.05378.pdf) | | [Github](https://github.com/megvii-research/CONR) |
+
 | [Language-Guided Face Animation by Recurrent StyleGAN-based Generator](https://arxiv.org/pdf/2208.05617.pdf) | | [Github](https://github.com/TiankaiHang/language-guided-animation) |
 
 ### Manga Application
@@ -415,7 +416,8 @@ Summary of github or other types of projects that are related to anime or manga 
 - [Talking Head Anime from a Single Image](https://github.com/pkhungurn/talking-head-anime-demo)
 - [Talking Head Anime from a Single Image 2: More Expressive](https://github.com/pkhungurn/talking-head-anime-2-demo)
 - [Talking Head(?) Anime from a Single Image 3: Now the Body Too](https://github.com/pkhungurn/talking-head-anime-3-demo)
-
+- [Neural Rendering with Attention: An Incremental Improvement for Anime Character Animation](https://github.com/transpchan/Live3D-v2)
+- 
 ### Super Resolution
 - [waifu2x](https://github.com/nagadomi/waifu2x)
 - [Anime4K](https://github.com/bloc97/Anime4K)
