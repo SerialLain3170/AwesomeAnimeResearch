@@ -97,6 +97,7 @@ Summary of published or preprint papers
 | | [Unpaired Cartoon Image Synthesis via Gated Cycle Mapping](https://openaccess.thecvf.com/content/CVPR2022/papers/Men_Unpaired_Cartoon_Image_Synthesis_via_Gated_Cycle_Mapping_CVPR_2022_paper.pdf) | CVPR2022 | |
 | | [Unpaired Image-to-Image Translation using Negative Learning for Noisy Patches](https://ieeexplore.ieee.org/document/9780547) | IEEE MM2022| |
 | | [Hyprogan: Breaking the Dimensional wall From Human to Anime](https://ieeexplore.ieee.org/document/9897973) | ICIP2022 | |
+| | [Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.pdf) | CVPR2022 | |
 | Photo2anime | [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf) | CVPR2018 | [Github](https://github.com/znxlwm/pytorch-CartoonGAN) |
 | | [Comixify: Transform video into a comics](https://arxiv.org/pdf/1812.03473.pdf) | | [Github](https://github.com/maciej3031/comixify) |
 | | [GANILLA: Generative adversarial networks for image to illustration translation](https://arxiv.org/pdf/2002.05638.pdf) | | [Github](https://github.com/giddyyupp/ganilla) |
@@ -133,7 +134,7 @@ Summary of published or preprint papers
 | | [Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer](https://arxiv.org/pdf/2203.13248.pdf) | CVPR2022 | [Github](https://github.com/williamyang1991/DualStyleGAN) |
 | | [Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks](https://arxiv.org/pdf/2207.08736.pdf) | | [Github](https://github.com/1170300521/DiFa) |
 | | [LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data](https://arxiv.org/pdf/2208.14889.pdf) | | [Github](https://github.com/KU-CVLAB/LANIT) |
-| Authoer style transfer | [Translation of Illustration Artist Style Using Sailormoonredraw Data](https://ieeexplore.ieee.org/document/9897787) | ICIP2022 |  |
+| Author style transfer | [Translation of Illustration Artist Style Using Sailormoonredraw Data](https://ieeexplore.ieee.org/document/9897787) | ICIP2022 |  |
 
 
 ### Automatic Line Art Colorization
@@ -199,8 +200,9 @@ Summary of published or preprint papers
 | | [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/pdf/2207.06095.pdf) | ECCV2022 | [Github](https://github.com/kunkun0w0/SGA) |
 | | [Improving Reference-Based Image Colorization For Line Arts Via Feature Aggregation And Contrastive Learning](https://ieeexplore.ieee.org/document/9746326) | ICASSP2022 | |
 | | [Semi-Automatic Colorization Pipeline for Anime Characters and its Evaluation in Production](https://ieeexplore.ieee.org/document/9848507) | NicoInt2022 | |
+| | [ATTENTION-AWARE ANIME LINE DRAWING COLORIZATION](https://arxiv.org/pdf/2212.10988.pdf) | |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/blandocs/Tag2Pix) |
-| | [Line Art Colorization Based on Explicit Region Segmentation](https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf) | PG 2021 | | |
+| | [Line Art Colorization Based on Explicit Region Segmentation](https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf) | PG 2021 | |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | | [Github](https://github.com/Harry-Thasarathan/TCVC) |
 | | [Artist-Guided Semiautomatic Animation Colorization](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Thasarathan_Artist-Guided_Semiautomatic_Animation_Colorization_ICCVW_2019_paper.pdf) | ICCVW2019 | |
 | | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | | |
@@ -277,7 +279,6 @@ Summary of published or preprint papers
 | [MakeItTalk: Speaker-Aware Talking-Head Animation](https://arxiv.org/pdf/2004.12992.pdf) | SIGGRAPH Asia2020 | |
 | [CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_CPTNet_Cascade_Pose_Transform_Network_for_Single_Image_Talking_Head_ACCV_2020_paper.pdf) | ACCV2020 | |
 | [Collaborative Neural Rendering using Anime Character Sheets](https://arxiv.org/pdf/2207.05378.pdf) | | [Github](https://github.com/megvii-research/CONR) |
-
 | [Language-Guided Face Animation by Recurrent StyleGAN-based Generator](https://arxiv.org/pdf/2208.05617.pdf) | | [Github](https://github.com/TiankaiHang/language-guided-animation) |
 
 ### Manga Application
@@ -417,7 +418,7 @@ Summary of github or other types of projects that are related to anime or manga 
 - [Talking Head Anime from a Single Image 2: More Expressive](https://github.com/pkhungurn/talking-head-anime-2-demo)
 - [Talking Head(?) Anime from a Single Image 3: Now the Body Too](https://github.com/pkhungurn/talking-head-anime-3-demo)
 - [Neural Rendering with Attention: An Incremental Improvement for Anime Character Animation](https://github.com/transpchan/Live3D-v2)
-- 
+
 ### Super Resolution
 - [waifu2x](https://github.com/nagadomi/waifu2x)
 - [Anime4K](https://github.com/bloc97/Anime4K)
