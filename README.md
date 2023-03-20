@@ -20,6 +20,7 @@ Summary of published or preprint papers
 | [A Challenging Benchmark of Anime Style Recognition](https://openaccess.thecvf.com/content/CVPR2022W/VDU/papers/Li_A_Challenging_Benchmark_of_Anime_Style_Recognition_CVPRW_2022_paper.pdf) | CVPRW2022 | |
 | [COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts](https://arxiv.org/pdf/2207.04675.pdf) | ECCV2022 | [Github](https://github.com/ku21fan/COO-Comic-Onomatopoeia) |
 | [AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies](https://openreview.net/pdf?id=04OPxj0jGN_) | | [HP](https://lisiyao21.github.io/projects/AnimeRun) |
+| [Parsing-Conditioned Anime Translation: A New Dataset and Method](https://dl.acm.org/doi/10.1145/3585002) | ACM TG2023 | [Github](https://github.com/zsl2018/StyleAnime) | 
 
 ### Image Generation
 
@@ -60,7 +61,10 @@ Summary of published or preprint papers
 | | [Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Discovering_Interpretable_Latent_Space_Directions_of_GANs_Beyond_Binary_Attributes_CVPR_2021_paper.pdf) | CVPR2021 | |
 | | [Discovering Density-Preserving Latent Space Walks in GANs for Semantic Image Transformations](https://dl.acm.org/doi/pdf/10.1145/3474085.3475293) | MM 2021 | | |
 | | [Self-supervised Enhancement of Latent Discovery in GANs](https://arxiv.org/pdf/2112.08835.pdf) | AAAI2022 | | 
+| | [Unsupervised Discovery of Disentangled Interpretable Directions for Layer-Wise GAN](https://link.springer.com/chapter/10.1007/978-981-19-8331-3_2) | Big Data2022 | |
 | Montage | [MontageGAN: Generation and Assembly of Multiple Components by GANs](https://arxiv.org/pdf/2205.15577.pdf) | ICPR2022 | [Github](https://github.com/uchidalab/docker-montage-gan)|
+| Text-to-Image | [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/pdf/2302.05543.pdf) | | [Github](https://github.com/lllyasviel/ControlNet) |
+| | [DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning](https://arxiv.org/pdf/2211.11337.pdf) | | [Github](https://github.com/7eu7d7/DreamArtist-stable-diffusion) |
 
 ### Image-to-image Translation
 
@@ -84,6 +88,8 @@ Summary of published or preprint papers
 | | [A Domain Gap Aware Generative Adversarial Network for Multi-domain Image Translation](https://arxiv.org/pdf/2110.10837.pdf) | | |
 | | [Cross-Domain Style Mixing for Face Cartoonization](https://arxiv.org/pdf/2205.12450.pdf) | CVPRW2022 | [HP](https://webtoon.github.io/WebtoonMe/en)|
 | | [Neural Optimal Transport](https://arxiv.org/pdf/2201.12220.pdf) | | |
+| | [Appearance-preserved Portrait-to-anime Translation via Proxy-guided Domain Adaptation](https://ieeexplore.ieee.org/document/9982378) | TVCG2022 | |
+| | [StyO: Stylize Your Face in Only One-Shot](https://arxiv.org/pdf/2303.03231.pdf) | | |
 | Selfie2anime | [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://arxiv.org/pdf/1907.10830.pdf) | ICLR2020 | [Github](https://github.com/taki0112/UGATIT) |
 | | [Breaking the cycle—Colleagues are all you need](https://arxiv.org/pdf/1911.10538.pdf) | CVPR2020 | [Github](https://github.com/Onr/Council-GAN) |
 | | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://arxiv.org/pdf/1911.11897.pdf) | IJCNN2019 | [Github](https://github.com/Ha0Tang/AttentionGAN) |
@@ -118,6 +124,7 @@ Summary of published or preprint papers
 | | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf) | ECCV2020 | [Github](https://github.com/hytseng0509/ArtEditing) |
 | | [Deep Sketch-guided Cartoon Video Inbetweening](https://arxiv.org/pdf/2008.04149.pdf) | IEEE2021 | |
 | | [How to train your conditional GAN: An approach using geometrically structured latent manifolds](https://arxiv.org/pdf/2011.13055.pdf) | | |
+| | [PMSGAN: Parallel Multistage GANs for Face Image Translation](https://ieeexplore.ieee.org/document/10014017) | TNNLS2022 | |
 | Photo2manga | [MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/pdf/2004.10634.pdf) | AAAI2021 | |
 | Anime2costume | [Anime-to-Real Clothing: Cosplay Costume Generation via Image-to-Image Translation](https://arxiv.org/pdf/2008.11479.pdf) | | |
 | Style transfer | [Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks](https://arxiv.org/pdf/1805.07997v1.pdf) | | |
@@ -134,6 +141,7 @@ Summary of published or preprint papers
 | | [Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer](https://arxiv.org/pdf/2203.13248.pdf) | CVPR2022 | [Github](https://github.com/williamyang1991/DualStyleGAN) |
 | | [Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks](https://arxiv.org/pdf/2207.08736.pdf) | | [Github](https://github.com/1170300521/DiFa) |
 | | [LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data](https://arxiv.org/pdf/2208.14889.pdf) | | [Github](https://github.com/KU-CVLAB/LANIT) |
+| | [HRInversion: High-Resolution GAN Inversion for Cross-Domain Image Synthesis](https://ieeexplore.ieee.org/document/9953153) | TCSVT2022 | |
 | Author style transfer | [Translation of Illustration Artist Style Using Sailormoonredraw Data](https://ieeexplore.ieee.org/document/9897787) | ICIP2022 |  |
 
 
@@ -172,6 +180,7 @@ Summary of published or preprint papers
 | | [Dual Color Space Guided Sketch Colorization](https://ieeexplore.ieee.org/document/9515572) | IEEE Trans. on Img. Proc. 2021 | |
 | | [Interactive Manga Colorization with Fast Flat Coloring](https://dl.acm.org/doi/fullHtml/10.1145/3476124.3488628) | SIGGRAPH Asia2021 | |
 | | [Late-resizing: A Simple but Effective Sketch Extraction Strategy for Improving Generalization of Line-art Colorization](https://openaccess.thecvf.com/content/WACV2022/papers/Kim_Late-Resizing_A_Simple_but_Effective_Sketch_Extraction_Strategy_for_Improving_WACV_2022_paper.pdf) | WACV2022 | |
+| | [StencilTorch: An Iterative and User-Guided Framework for Anime Lineart Colorization](https://dl.acm.org/doi/abs/10.1007/978-3-031-25825-1_1) | IVCNZ2022 | |
 | | [Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization](https://arxiv.org/pdf/2210.14270.pdf) | WACV2023 | |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 | |
 | | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 | |
@@ -254,6 +263,7 @@ Summary of published or preprint papers
 | [One-shot Line Extraction from Color Illustrations](https://ieeexplore.ieee.org/document/9515964) | NicoInt2021 | |
 | [Learning to Generate Artistic Character Line Drawing](https://arxiv.org/pdf/2206.02998.pdf) | | |
 | [A Drawing Support System for Sketching Aging Anime Faces](https://ieeexplore.ieee.org/abstract/document/9937356) | CW2022 | |
+| [Reference Based Sketch Extraction via Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3550454.3555504) | ACM TG2022 | [Github](https://github.com/ref2sketch/ref2sketch) |
 
 ### Automatic Animation Inbetweening
 | Paper | Conference | Links |
@@ -390,7 +400,6 @@ Summary of github or other types of projects that are related to anime or manga 
 - Diffusion models
   - [harubaru/waifu-diffusion](https://github.com/harubaru/waifu-diffusion)
   - [DGSpitzer/Cyberpunk-Anime-Diffusion](https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion)
-  - [7eu7d7/DreamArtist-stable-diffusion](https://github.com/7eu7d7/DreamArtist-stable-diffusion)
   - [NovelAI](https://novelai.net/)
   - [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)
 
