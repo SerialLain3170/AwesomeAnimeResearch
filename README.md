@@ -21,6 +21,7 @@ Summary of published or preprint papers
 | [COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts](https://arxiv.org/pdf/2207.04675.pdf) | ECCV2022 | [Github](https://github.com/ku21fan/COO-Comic-Onomatopoeia) |
 | [AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies](https://openreview.net/pdf?id=04OPxj0jGN_) | | [HP](https://lisiyao21.github.io/projects/AnimeRun) |
 | [Parsing-Conditioned Anime Translation: A New Dataset and Method](https://dl.acm.org/doi/10.1145/3585002) | ACM TG2023 | [Github](https://github.com/zsl2018/StyleAnime) | 
+| [Semi-supervised reference-based sketch extraction using a contrastive learning framework](https://drive.google.com/file/d/1FELTVl73OrQ9Q0uBXN7jLbRStSsF-NgM/view?pli=1) | ACM TG2023 | [Github](https://github.com/Chanuku/4skst) |
 
 ### Image Generation
 
@@ -125,6 +126,7 @@ Summary of published or preprint papers
 | | [Deep Sketch-guided Cartoon Video Inbetweening](https://arxiv.org/pdf/2008.04149.pdf) | IEEE2021 | |
 | | [How to train your conditional GAN: An approach using geometrically structured latent manifolds](https://arxiv.org/pdf/2011.13055.pdf) | | |
 | | [PMSGAN: Parallel Multistage GANs for Face Image Translation](https://ieeexplore.ieee.org/document/10014017) | TNNLS2022 | |
+| | [AniFaceDrawing: Anime Portrait Exploration during Your Sketching](https://arxiv.org/abs/2306.07476) | ACM TG2023 | [HP](http://www.jaist.ac.jp/~xie/AniFaceDrawing.html) |
 | Photo2manga | [MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing](https://arxiv.org/pdf/2004.10634.pdf) | AAAI2021 | |
 | Anime2costume | [Anime-to-Real Clothing: Cosplay Costume Generation via Image-to-Image Translation](https://arxiv.org/pdf/2008.11479.pdf) | | |
 | Style transfer | [Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks](https://arxiv.org/pdf/1805.07997v1.pdf) | | |
@@ -182,6 +184,7 @@ Summary of published or preprint papers
 | | [Late-resizing: A Simple but Effective Sketch Extraction Strategy for Improving Generalization of Line-art Colorization](https://openaccess.thecvf.com/content/WACV2022/papers/Kim_Late-Resizing_A_Simple_but_Effective_Sketch_Extraction_Strategy_for_Improving_WACV_2022_paper.pdf) | WACV2022 | |
 | | [StencilTorch: An Iterative and User-Guided Framework for Anime Lineart Colorization](https://dl.acm.org/doi/abs/10.1007/978-3-031-25825-1_1) | IVCNZ2022 | |
 | | [Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization](https://arxiv.org/pdf/2210.14270.pdf) | WACV2023 | |
+| | [Diffusart: Enhancing Line Art Colorization with Conditional Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023W/CVFAD/papers/Carrillo_Diffusart_Enhancing_Line_Art_Colorization_With_Conditional_Diffusion_Models_CVPRW_2023_paper.pdf) | CVPRW2023 | |
 | Reference | [Unsupervised Colorization of Black-and-White Cartoons](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.2629&rep=rep1&type=pdf) | NPAR2004 | |
 | | [Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming](http://yusukematsui.me/pdf/sato_sa2014.pdf) | SIGGRAPH2014 | |
 | | [Deep Manga Colorization with Color Style Extraction by Conditional Adversarially Learned Inference](http://www.iaiai.org/journals/index.php/IEE/article/view/214) | IIAI2017 | |
@@ -210,6 +213,8 @@ Summary of published or preprint papers
 | | [Improving Reference-Based Image Colorization For Line Arts Via Feature Aggregation And Contrastive Learning](https://ieeexplore.ieee.org/document/9746326) | ICASSP2022 | |
 | | [Semi-Automatic Colorization Pipeline for Anime Characters and its Evaluation in Production](https://ieeexplore.ieee.org/document/9848507) | NicoInt2022 | |
 | | [ATTENTION-AWARE ANIME LINE DRAWING COLORIZATION](https://arxiv.org/pdf/2212.10988.pdf) | |
+| | [AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models](https://arxiv.org/pdf/2303.11137.pdf) | |
+| | [Two-Step Training: Adjustable Sketch Colourization via Reference Image and Text Tag](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14791) | CG Forum2023 | [Github](https://github.com/ydk-tellurion/sketch_colorizer) |
 | Tag | [Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf) | ICCV2019 | [Github](https://github.com/blandocs/Tag2Pix) |
 | | [Line Art Colorization Based on Explicit Region Segmentation](https://www.sysu-imsl.com/files/PG2021/line_art_colorization_pg2021_main.pdf) | PG 2021 | |
 | Video | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | | [Github](https://github.com/Harry-Thasarathan/TCVC) |
@@ -246,6 +251,7 @@ Summary of published or preprint papers
 | [Improving The Quality Of Illustrations: Transforming Amateur Illustrations To A Professional Standard](https://ieeexplore.ieee.org/document/9506615) | ICIP2021 | |
 | [Universal Face Restoration With Memorized Modulation](https://arxiv.org/pdf/2110.01033.pdf) | | |
 | [Unsupervised Learning of Compositional Energy Concepts](https://arxiv.org/pdf/2111.03042.pdf) | NeurIPS2021 | [Github](https://github.com/yilundu/comet) |
+| [Reference-based Image Composition with Sketch via Structure-aware Diffusion Model](https://arxiv.org/pdf/2304.09748.pdf) | | [Github](https://github.com/kangyeolk/Paint-by-Sketch) |
 
 ### Automatic Sketch Editing
 
@@ -264,6 +270,8 @@ Summary of published or preprint papers
 | [Learning to Generate Artistic Character Line Drawing](https://arxiv.org/pdf/2206.02998.pdf) | | |
 | [A Drawing Support System for Sketching Aging Anime Faces](https://ieeexplore.ieee.org/abstract/document/9937356) | CW2022 | |
 | [Reference Based Sketch Extraction via Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3550454.3555504) | ACM TG2022 | [Github](https://github.com/ref2sketch/ref2sketch) |
+| [Semi-supervised reference-based sketch extraction using a contrastive learning framework](https://drive.google.com/file/d/1FELTVl73OrQ9Q0uBXN7jLbRStSsF-NgM/view?pli=1) | ACM TG2023 | [Github](https://github.com/Chanuku/semi_ref2sketch_code) |
+| [Joint Geometric-Semantic Driven Character Line Drawing Generation](https://dl.acm.org/doi/10.1145/3591106.3592216) | ICMR2023 | |
 
 ### Automatic Animation Inbetweening
 | Paper | Conference | Links |
@@ -346,7 +354,8 @@ Summary of published or preprint papers
 | [CAST: CHARACTER LABELING IN ANIMATION USING SELF-SUPERVISION BY TRACKING](https://arxiv.org/pdf/2201.07619.pdf) | EG2022 | |
 | [Open-Vocabulary DETR with Conditional Matching](https://arxiv.org/pdf/2203.11876.pdf) | | [Github](https://github.com/yuhangzang/OV-DETR) |
 | [AniWho : A Quick and Accurate Way to Classify Anime Character Faces in Images](https://arxiv.org/pdf/2208.11012.pdf) | | |
-| [GCN-Based Multi-Modal Multi-Label Attribute Classification in Anime Illustration Using Domain-Specific Semantic Features](https://ieeexplore.ieee.org/document/9898071) | ICIP2022 | 
+| [GCN-Based Multi-Modal Multi-Label Attribute Classification in Anime Illustration Using Domain-Specific Semantic Features](https://ieeexplore.ieee.org/document/9898071) | ICIP2022 | |
+| [Hierarchical Multi-Label Attribute Classification With Graph Convolutional Networks on Anime Illustration](https://ieeexplore.ieee.org/document/10097719) | IEEE Access2023 | 
 
 ### 3D Character Creation
 | Paper | Conference | Links |
