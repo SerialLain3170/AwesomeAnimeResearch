@@ -221,6 +221,8 @@ Summary of published or preprint papers
 | | [Artist-Guided Semiautomatic Animation Colorization](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVFAD/Thasarathan_Artist-Guided_Semiautomatic_Animation_Colorization_ICCVW_2019_paper.pdf) | ICCVW2019 | |
 | | [Deep Line Art Video Colorization with a Few References](https://arxiv.org/pdf/2003.10685.pdf) | | |
 | | [Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Line_Art_Correlation_Matching_Feature_Transfer_Network_for_Automatic_Animation_WACV_2021_paper.pdf) | WACV2021 | |
+| | [Coloring anime line art videos with transformation region enhancement network](https://www.sciencedirect.com/science/article/pii/S0031320323002625?casa_token=evjknkPkujoAAAAA:a0kjRw6hy3aaO9UAkINCtXYlELCDMDQu5RykR6k7qNeRPaYsaBfR8_PNSg0R-MsIs3vOCePOTfYh) | PR2023 |  |
+| | [The Animation Transformer: Visual Correspondence via Segment Matching](https://arxiv.org/pdf/2109.02614.pdf) | ICCV2021 | [Video](https://cadmium.app/) |
 
 ### Automatic Character Lighting
 
