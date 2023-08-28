@@ -120,6 +120,7 @@ Summary of published or preprint papers
 | | [Unsupervised Coherent Video Cartoonization with Perceptual Motion Consistency](https://www.aaai.org/AAAI22Papers/AAAI-6861.ZhenahuanL.pdf) | AAAI2022 | |
 | | [Learning to Incorporate Texture Saliency Adaptive Attention to Image Cartoonization](https://proceedings.mlr.press/v162/gao22k/gao22k.pdf) | ICML2022 | |
 | | [Cartoon-Flow: A Flow-Based Generative Adversarial Network for Arbitrary-Style Photo Cartoonization](https://dl.acm.org/doi/abs/10.1145/3503161.3548094) | MM2022 | |
+| | [Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation](https://arxiv.org/abs/2308.12968) | ICCV2023 | [Github](https://github.com/Yuxinn-J/Scenimefy) |
 | Sketch2anime | [SmartPaint: a co-creative drawing system based on generative adversarial networks](https://link.springer.com/content/pdf/10.1631/FITEE.1900386.pdf) | FITEE2019 | |
 | | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf) | | [Github](https://github.com/youyuge34/PI-REC) |
 | | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf) | ECCV2020 | [Github](https://github.com/hytseng0509/ArtEditing) |
