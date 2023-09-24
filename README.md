@@ -364,6 +364,7 @@ Summary of published or preprint papers
 | Paper | Conference | Links |
 | ---- | ---- | ---- |
 | [Automatic Generation of 3D Natural Anime-like Non-Player Characters with Machine Learning](https://ieeexplore.ieee.org/document/9240508) | ICCW2020 | |
+| [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/pdf/2305.12529.pdf) |  | [Github](https://github.com/IDEA-Research/DreamWaltz) |
 
 ### Robotics
 | Paper | Conference | Links |
