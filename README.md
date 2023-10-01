@@ -284,7 +284,8 @@ Summary of published or preprint papers
 | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506) | ICIP2019 | |
 | [Deep Animation Video Interpolation in the Wild](https://arxiv.org/pdf/2104.02495.pdf) | CVPR2021 | [Github](https://github.com/lisiyao21/AnimeInterp/) |
 | [Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/pdf/2111.12792.pdf) | ECCV2022 | [Github](https://github.com/ShuhongChen/eisai-anime-interpolator/) |
-| [ENHANCED DEEP ANIMATION VIDEO INTERPOLATION](https://arxiv.org/pdf/2206.12657.pdf) | ICIP2022 | [Github](https://github.com/laomao0/AutoSktFI) |
+| [Enhanced Deep Animation Video Interpolation](https://arxiv.org/pdf/2206.12657.pdf) | ICIP2022 | [Github](https://github.com/laomao0/AutoSktFI) |
+| [Deep Geometrized Cartoon Line Inbetweening](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf) | ICCV2023 | [Github](https://github.com/lisiyao21/animeinbet) |
 
 ### Automatic Image Enhancement
 | Paper | Conference | Links |
