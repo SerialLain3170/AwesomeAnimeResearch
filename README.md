@@ -125,6 +125,7 @@ Summary of published or preprint papers
 | | [PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain](https://arxiv.org/pdf/1903.10146.pdf) | | [Github](https://github.com/youyuge34/PI-REC) |
 | | [Modeling Artistic Workflows for Image Generation and Editing](https://arxiv.org/pdf/2007.07238.pdf) | ECCV2020 | [Github](https://github.com/hytseng0509/ArtEditing) |
 | | [Deep Sketch-guided Cartoon Video Inbetweening](https://arxiv.org/pdf/2008.04149.pdf) | IEEE2021 | |
+| | [SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches](https://arxiv.org/pdf/2209.00185.pdf) | FDG2022 | |
 | | [How to train your conditional GAN: An approach using geometrically structured latent manifolds](https://arxiv.org/pdf/2011.13055.pdf) | | |
 | | [PMSGAN: Parallel Multistage GANs for Face Image Translation](https://ieeexplore.ieee.org/document/10014017) | TNNLS2022 | |
 | | [AniFaceDrawing: Anime Portrait Exploration during Your Sketching](https://arxiv.org/abs/2306.07476) | ACM TG2023 | [HP](http://www.jaist.ac.jp/~xie/AniFaceDrawing.html) |
@@ -205,7 +206,6 @@ Summary of published or preprint papers
 | | [Anime Style Transfer With Spatially-Adaptive Normalization](https://ieeexplore.ieee.org/document/9428305) | ICME2021 | |
 | | [Exploring Sketch-based Character Design Guided by Automatic Colorization](https://rawanmg.github.io/pdf/gi21.pdf) | | |
 | | [PAINTING STYLE-AWARE MANGA COLORIZATION BASED ON GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/2107.07943.pdf) | ICIP2021 | |
-| | [The Animation Transformer: Visual Correspondence via Segment Matching](https://openaccess.thecvf.com/content/ICCV2021/papers/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.pdf) | ICCV2021 | | |
 | | [Disentangled and controllable sketch creation based ondisentangling the structure and color enhancement](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ipr2.12343) | | |
 | | [Reference-guided structure-aware deep sketch colorization for cartoons](https://link.springer.com/content/pdf/10.1007/s41095-021-0228-6.pdf) | CVM2022 | |
 | | [Anime Character Colorization using Few-shot Learning](https://dl.acm.org/doi/10.1145/3478512.3488604) | SIGGRAPH Asia2021 | |
