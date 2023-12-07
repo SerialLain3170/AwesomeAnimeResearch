@@ -270,7 +270,6 @@ Summary of published or preprint papers
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 | |
 | [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | MM2020 | [Github](https://github.com/LCXCUC/SketchMan2020) |
 | [One-shot Line Extraction from Color Illustrations](https://ieeexplore.ieee.org/document/9515964) | NicoInt2021 | |
-| [Learning to Generate Artistic Character Line Drawing](https://arxiv.org/pdf/2206.02998.pdf) | | |
 | [A Drawing Support System for Sketching Aging Anime Faces](https://ieeexplore.ieee.org/abstract/document/9937356) | CW2022 | |
 | [Reference Based Sketch Extraction via Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3550454.3555504) | ACM TG2022 | [Github](https://github.com/ref2sketch/ref2sketch) |
 | [Semi-supervised reference-based sketch extraction using a contrastive learning framework](https://drive.google.com/file/d/1FELTVl73OrQ9Q0uBXN7jLbRStSsF-NgM/view?pli=1) | ACM TG2023 | [Github](https://github.com/Chanuku/semi_ref2sketch_code) |
@@ -397,6 +396,7 @@ Summary of github or other types of projects that are related to anime or manga 
 ### Dataset
 - [Layered Temporal Dataset for Anime Drawings](https://layered-anime.github.io/)
 - [TRIGGER dataset](https://www.nii.ac.jp/dsc/idr/trigger/)
+- [Anime Art](https://www.kaggle.com/datasets/muoncollider/danbooru2020small)
 
 ### Representation Learning
 - [Classification and vectorization of key-frames and face characters of anime](https://github.com/enmanuelmag/AnimeClassificator)
