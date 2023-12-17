@@ -22,6 +22,7 @@ Summary of published or preprint papers
 | [AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies](https://openreview.net/pdf?id=04OPxj0jGN_) | | [HP](https://lisiyao21.github.io/projects/AnimeRun) |
 | [Parsing-Conditioned Anime Translation: A New Dataset and Method](https://dl.acm.org/doi/10.1145/3585002) | ACM TG2023 | [Github](https://github.com/zsl2018/StyleAnime) | 
 | [Semi-supervised reference-based sketch extraction using a contrastive learning framework](https://drive.google.com/file/d/1FELTVl73OrQ9Q0uBXN7jLbRStSsF-NgM/view?pli=1) | ACM TG2023 | [Github](https://github.com/Chanuku/4skst) |
+| [Manga109Dialog: A Large-scale Dialogue Dataset for Comics Speaker Detection](https://arxiv.org/pdf/2306.17469.pdf) |  | [Github](https://github.com/manga109/public-annotations) |
 
 ### Image Generation
 
@@ -270,7 +271,6 @@ Summary of published or preprint papers
 | [Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations](https://www.mdpi.com/2076-3417/10/1/41) | Appl. Sci. 2020 | |
 | [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | MM2020 | [Github](https://github.com/LCXCUC/SketchMan2020) |
 | [One-shot Line Extraction from Color Illustrations](https://ieeexplore.ieee.org/document/9515964) | NicoInt2021 | |
-| [Learning to Generate Artistic Character Line Drawing](https://arxiv.org/pdf/2206.02998.pdf) | | |
 | [A Drawing Support System for Sketching Aging Anime Faces](https://ieeexplore.ieee.org/abstract/document/9937356) | CW2022 | |
 | [Reference Based Sketch Extraction via Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3550454.3555504) | ACM TG2022 | [Github](https://github.com/ref2sketch/ref2sketch) |
 | [Semi-supervised reference-based sketch extraction using a contrastive learning framework](https://drive.google.com/file/d/1FELTVl73OrQ9Q0uBXN7jLbRStSsF-NgM/view?pli=1) | ACM TG2023 | [Github](https://github.com/Chanuku/semi_ref2sketch_code) |
@@ -311,13 +311,15 @@ Summary of published or preprint papers
 | | [Generating Manga from Illustrations via Mimicking Manga Workflow](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Generating_Manga_From_Illustrations_via_Mimicking_Manga_Creation_Workflow_CVPR_2021_paper.pdf) | CVPR2021 | [HP](https://lllyasviel.github.io/MangaFilter/) |
 | | [Hair Shading Style Transfer for Manga with cGAN](https://www.scitepress.org/Papers/2020/89614/89614.pdf) | ICAART2020 | 
 | Restoration | [Exploiting Aliasing for Manga Restoration](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Exploiting_Aliasing_for_Manga_Restoration_CVPR_2021_paper.pdf) | CVPR2021 | [Github](https://github.com/msxie92/MangaRestoration) |
-| Inpainting | [Seamless Manga Inpainting with Semantics Awareness](http://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.pdf) | | |
+| Inpainting | [Seamless Manga Inpainting with Semantics Awareness](http://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.pdf) | TOG2021 | |
+| | [Comic Image Inpainting via Distance Transform](https://dl.acm.org/doi/abs/10.1145/3478512.3488607) | SIGGRAPH Asia 2021 | |
 | Text Detection | [Method for Real Time Text Extraction of Digital Manga Comic](https://www.cscjournals.org/manuscript/Journals/IJIP/Volume4/Issue6/IJIP-290.pdf) | IJIP2011 | |
 | | [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/document/8893046) | ICDARW2019 |
 | | [Deep Learning-Based Classification of the Polar Emotions of “Moe”-Style Cartoon Pictures](https://ieeexplore.ieee.org/document/9220754) | TST2020 |
 | | [Learning from the Past: Meta-Continual Learning withKnowledge Embedding for Jointly Sketch, Cartoon, andCaricature Face Recognition](https://dl.acm.org/doi/epdf/10.1145/3394171.3413892) | MM2020 |
 | Landmark Detection | [Facial Landmark Detection for Manga Images](https://arxiv.org/pdf/1811.03214.pdf) | | |
 | Segmentation | [Extraction of Frame Sequences in the Manga Context](https://ieeexplore.ieee.org/document/9327968) | 2020 IEEE International Symposium on Multimedia (ISM) | |
+| | [Towards Content-Aware Pixel-Wise Comic Panel Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-37742-6_1) | ICPR2022 | |
 | Translation | [Towards Fully Automated Manga Translation](https://arxiv.org/pdf/2012.14271.pdf) | AAAI2021 | |
 | Depth Estimation | [Estimating Image Depth in the Comics Domain](https://arxiv.org/pdf/2110.03575.pdf) | WACV2022 | |
 | Vectorization | [Vectorization of Raster Manga by Deep Reinforcement Learning](https://arxiv.org/pdf/2110.04830.pdf) | | |
@@ -384,19 +386,25 @@ Summary of published or preprint papers
 | [An Evaluation of Traditional and CNN-Based Feature Descriptors for Cartoon Pornography Detection](https://ieeexplore.ieee.org/document/9371684) | IEEE Access2021 |  |
 | [A Deep Learning-Based Approach for Inappropriate Content Detection and Classification of YouTube Videos](https://ieeexplore.ieee.org/document/9696242) | IEEE Access2022 |  |
 
-### Survey
+### Survey & Review
 | Paper | Conference |
 | ---- | ---- |
 | [A Survey of Comics Research in Computer Science](https://arxiv.org/pdf/1804.05490.pdf) | |
 | [Computational Approaches to Comics Analysis](https://pubmed.ncbi.nlm.nih.gov/31705626/) | |
 | [Image Colorization: A Survey and Dataset](https://arxiv.org/pdf/2008.10774.pdf) | |
+| [Cartoon Image Processing: A Survey](https://link.springer.com/article/10.1007/s11263-022-01645-1) | IJCV2022 | 
+| [Anime like Character Face Generation: A survey](https://www.researchgate.net/publication/374705438_Anime-like_Character_Face_Generation_A_Survey) | |
 
 ## Projects
 Summary of github or other types of projects that are related to anime or manga except above.
 
+### Repository
+- [Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research)
+
 ### Dataset
 - [Layered Temporal Dataset for Anime Drawings](https://layered-anime.github.io/)
 - [TRIGGER dataset](https://www.nii.ac.jp/dsc/idr/trigger/)
+- [Anime Art](https://www.kaggle.com/datasets/muoncollider/danbooru2020small)
 
 ### Representation Learning
 - [Classification and vectorization of key-frames and face characters of anime](https://github.com/enmanuelmag/AnimeClassificator)
