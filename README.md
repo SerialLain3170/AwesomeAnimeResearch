@@ -225,6 +225,8 @@ Summary of published or preprint papers
 | | [Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Line_Art_Correlation_Matching_Feature_Transfer_Network_for_Automatic_Animation_WACV_2021_paper.pdf) | WACV2021 | |
 | | [The Animation Transformer: Visual Correspondence via Segment Matching](https://arxiv.org/pdf/2109.02614.pdf) | ICCV2021 | [Video](https://cadmium.app/) |
 | | [Coloring anime line art videos with transformation region enhancement network](https://www.sciencedirect.com/science/article/pii/S0031320323002625?casa_token=evjknkPkujoAAAAA:a0kjRw6hy3aaO9UAkINCtXYlELCDMDQu5RykR6k7qNeRPaYsaBfR8_PNSg0R-MsIs3vOCePOTfYh) | PR2023 |  |
+| | [ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text](https://arxiv.org/pdf/2401.01456.pdf) | |  |
+
 
 ### Automatic Character Lighting
 
@@ -286,6 +288,7 @@ Summary of published or preprint papers
 | [Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/pdf/2111.12792.pdf) | ECCV2022 | [Github](https://github.com/ShuhongChen/eisai-anime-interpolator/) |
 | [Enhanced Deep Animation Video Interpolation](https://arxiv.org/pdf/2206.12657.pdf) | ICIP2022 | [Github](https://github.com/laomao0/AutoSktFI) |
 | [Deep Geometrized Cartoon Line Inbetweening](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf) | ICCV2023 | [Github](https://github.com/lisiyao21/animeinbet) |
+| [Automatic Animation Inbetweening](https://link.springer.com/article/10.1007/s11042-023-17354-x) | MTA2023 | |
 
 ### Automatic Image Enhancement
 | Paper | Conference | Links |
