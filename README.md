@@ -65,6 +65,7 @@ Summary of published or preprint papers
 | | [Self-supervised Enhancement of Latent Discovery in GANs](https://arxiv.org/pdf/2112.08835.pdf) | AAAI2022 | | 
 | | [Unsupervised Discovery of Disentangled Interpretable Directions for Layer-Wise GAN](https://link.springer.com/chapter/10.1007/978-981-19-8331-3_2) | Big Data2022 | |
 | Montage | [MontageGAN: Generation and Assembly of Multiple Components by GANs](https://arxiv.org/pdf/2205.15577.pdf) | ICPR2022 | [Github](https://github.com/uchidalab/docker-montage-gan)|
+| | [Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation](https://dl.acm.org/doi/pdf/10.1145/3550454.3555439) | TOG2022 | |
 | Text-to-Image | [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/pdf/2302.05543.pdf) | | [Github](https://github.com/lllyasviel/ControlNet) |
 | | [DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning](https://arxiv.org/pdf/2211.11337.pdf) | | [Github](https://github.com/7eu7d7/DreamArtist-stable-diffusion) |
 
@@ -225,6 +226,8 @@ Summary of published or preprint papers
 | | [Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Line_Art_Correlation_Matching_Feature_Transfer_Network_for_Automatic_Animation_WACV_2021_paper.pdf) | WACV2021 | |
 | | [The Animation Transformer: Visual Correspondence via Segment Matching](https://arxiv.org/pdf/2109.02614.pdf) | ICCV2021 | [Video](https://cadmium.app/) |
 | | [Coloring anime line art videos with transformation region enhancement network](https://www.sciencedirect.com/science/article/pii/S0031320323002625?casa_token=evjknkPkujoAAAAA:a0kjRw6hy3aaO9UAkINCtXYlELCDMDQu5RykR6k7qNeRPaYsaBfR8_PNSg0R-MsIs3vOCePOTfYh) | PR2023 |  |
+| | [ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text](https://arxiv.org/pdf/2401.01456.pdf) | |  |
+
 
 ### Automatic Character Lighting
 
@@ -256,6 +259,9 @@ Summary of published or preprint papers
 | [Universal Face Restoration With Memorized Modulation](https://arxiv.org/pdf/2110.01033.pdf) | | |
 | [Unsupervised Learning of Compositional Energy Concepts](https://arxiv.org/pdf/2111.03042.pdf) | NeurIPS2021 | [Github](https://github.com/yilundu/comet) |
 | [Reference-based Image Composition with Sketch via Structure-aware Diffusion Model](https://arxiv.org/pdf/2304.09748.pdf) | | [Github](https://github.com/kangyeolk/Paint-by-Sketch) |
+| [Instance-guided Cartoon Editing with a Large-scale Dataset](https://arxiv.org/pdf/2312.01943.pdf) | | |
+| [Re:Draw - Context Aware Translation as a Controllable Method for Artistic Production](https://arxiv.org/pdf/2401.03499.pdf) | | |
+
 
 ### Automatic Sketch Editing
 
@@ -272,6 +278,7 @@ Summary of published or preprint papers
 | [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | MM2020 | [Github](https://github.com/LCXCUC/SketchMan2020) |
 | [One-shot Line Extraction from Color Illustrations](https://ieeexplore.ieee.org/document/9515964) | NicoInt2021 | |
 | [A Drawing Support System for Sketching Aging Anime Faces](https://ieeexplore.ieee.org/abstract/document/9937356) | CW2022 | |
+| [End-to-End Line Drawing Vectorization](https://ojs.aaai.org/index.php/AAAI/article/download/20379/20138) | AAAI2022 | |
 | [Reference Based Sketch Extraction via Attention Mechanism](https://dl.acm.org/doi/abs/10.1145/3550454.3555504) | ACM TG2022 | [Github](https://github.com/ref2sketch/ref2sketch) |
 | [Semi-supervised reference-based sketch extraction using a contrastive learning framework](https://drive.google.com/file/d/1FELTVl73OrQ9Q0uBXN7jLbRStSsF-NgM/view?pli=1) | ACM TG2023 | [Github](https://github.com/Chanuku/semi_ref2sketch_code) |
 | [Joint Geometric-Semantic Driven Character Line Drawing Generation](https://dl.acm.org/doi/10.1145/3591106.3592216) | ICMR2023 | |
@@ -286,6 +293,7 @@ Summary of published or preprint papers
 | [Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/pdf/2111.12792.pdf) | ECCV2022 | [Github](https://github.com/ShuhongChen/eisai-anime-interpolator/) |
 | [Enhanced Deep Animation Video Interpolation](https://arxiv.org/pdf/2206.12657.pdf) | ICIP2022 | [Github](https://github.com/laomao0/AutoSktFI) |
 | [Deep Geometrized Cartoon Line Inbetweening](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf) | ICCV2023 | [Github](https://github.com/lisiyao21/animeinbet) |
+| [Automatic Animation Inbetweening](https://link.springer.com/article/10.1007/s11042-023-17354-x) | MTA2023 | |
 
 ### Automatic Image Enhancement
 | Paper | Conference | Links |
@@ -306,12 +314,14 @@ Summary of published or preprint papers
 ### Manga Application
 | Subcategory | Paper | Conference | Links |
 | ---- | ---- | ---- | ---- |
+| Classification | [Panel-Page-Aware Comic Genre Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10112648) | IEEE Transactions on Image Processing, 2023 | |
 | Generation | [Synthesis of Screentone Patterns of Manga Characters](https://ieeexplore.ieee.org/document/8959008) | ISM2019 | |
 | | [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) | SIGGRAPH2020 | |
 | | [Generating Manga from Illustrations via Mimicking Manga Workflow](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Generating_Manga_From_Illustrations_via_Mimicking_Manga_Creation_Workflow_CVPR_2021_paper.pdf) | CVPR2021 | [HP](https://lllyasviel.github.io/MangaFilter/) |
 | | [Hair Shading Style Transfer for Manga with cGAN](https://www.scitepress.org/Papers/2020/89614/89614.pdf) | ICAART2020 | 
 | Restoration | [Exploiting Aliasing for Manga Restoration](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Exploiting_Aliasing_for_Manga_Restoration_CVPR_2021_paper.pdf) | CVPR2021 | [Github](https://github.com/msxie92/MangaRestoration) |
 | Inpainting | [Seamless Manga Inpainting with Semantics Awareness](http://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.pdf) | TOG2021 | |
+| Editing | [Manga Rescreening with Interpretable Screentone Representation](https://arxiv.org/pdf/2306.04114.pdf) | | |
 | | [Comic Image Inpainting via Distance Transform](https://dl.acm.org/doi/abs/10.1145/3478512.3488607) | SIGGRAPH Asia 2021 | |
 | Text Detection | [Method for Real Time Text Extraction of Digital Manga Comic](https://www.cscjournals.org/manuscript/Journals/IJIP/Volume4/Issue6/IJIP-290.pdf) | IJIP2011 | |
 | | [CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images](https://ieeexplore.ieee.org/document/8893046) | ICDARW2019 |
