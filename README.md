@@ -302,6 +302,7 @@ Summary of published or preprint papers
 | [Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data](https://arxiv.org/pdf/2107.10833.pdf) | ICCVW2021 | [Github](https://github.com/xinntao/Real-ESRGAN) |
 | [A Transformer-Based Model for Super-Resolution of Anime Image](https://www.mdpi.com/1424-8220/22/21/8126) | Sensors2022 | |
 | [AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos](https://arxiv.org/pdf/2206.07038.pdf) | | [Github](https://github.com/TencentARC/AnimeSR) |
+| [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/pdf/2403.01598.pdf) | CVPR2024 | [Github](https://github.com/Kiteretsu77/APISR) |
 
 ### Character Animating
 | Paper | Conference | Links |
