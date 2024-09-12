@@ -1,12 +1,10 @@
 # AwesomeAnimeResearch
 
 Everything related to Anime.\
-For the Comics/Manga papers, please refer to [🔥🚀 Awesome Comics Understanding 🔥🚀](https://github.com/emanuelevivoli/awesome-comics-understanding)
+For the **Comics/Manga** papers, please refer to [🔥 Awesome Comics Understanding](https://github.com/emanuelevivoli/awesome-comics-understanding)\
+For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research)
 
-## Papers
-Summary of published or preprint papers
-
-### Datasets 📂
+## 📂 Datasets
 
   - <details>
       <summary>Overview of Anime/Comic/Manga Datasets</summary>
@@ -31,6 +29,8 @@ Summary of published or preprint papers
       | 2019 | CVPR | [Creative Flow+ Dataset](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shugrina_Creative_Flow_Dataset_CVPR_2019_paper.pdf) |  [HP](https://www.cs.toronto.edu/creativeflow/) |
       | 2017 | CVPR | [The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives](https://arxiv.org/pdf/1611.05118.pdf) | [Github](https://github.com/miyyer/comics) |
     </details>
+
+## 📜 Papers
 
 ### Image Generation
 
@@ -162,7 +162,7 @@ Summary of published or preprint papers
 
   - <details>
       <summary>Photo 2 Anime</summary>
-      
+
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
       | 2024 | IEICE TIS | [A Novel Double-Tail Generative Adversarial Network for Fast Photo Animation](https://www.jstage.jst.go.jp/article/transinf/E107.D/1/E107.D_2023EDP7061/_pdf) |[HP](https://tachibanayoshino.github.io/AnimeGANv3/) |
@@ -360,7 +360,7 @@ Summary of published or preprint papers
       | 2019 | CCCRV | [Automatic Temporally Coherent Video Colorization](https://arxiv.org/pdf/1904.09527.pdf) | [Github](https://github.com/Harry-Thasarathan/TCVC) |
   </details>
 
-### Automatic Character Lighting
+### Editing
 
   - <details>
       <summary>Lighting</summary>
@@ -377,8 +377,6 @@ Summary of published or preprint papers
       | 2018 | ECCV Workshop | [Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Hudon_Deep_Normal_Estimation_for_Automatic_Shading_of_Hand-Drawn_Characters_ECCVW_2018_paper.pdf) | [Github](https://github.com/V-Sense/DeepNormals) |
       | 2014 | ACM-TG | [Ink-and-Ray: Bas-Relief Meshes for Adding Global Illumination Effects to Hand-Drawn Characters](https://dcgi.fel.cvut.cz/home/sykorad/Sykora14-TOG.pdf) |  |
   </details>
-
-### Automatic Illustration Editing
 
   - <details>
       <summary>Illustration Editing</summary>
@@ -402,10 +400,8 @@ Summary of published or preprint papers
       | 2018 | PG | [Decomposing Images into Layers with Advanced Color Blending](https://onlinelibrary.wiley.com/doi/10.1111/cgf.13577) | [Github](https://github.com/yuki-koyama/unblending) |
   </details>
 
-### Automatic Sketch Editing
-
   - <details>
-      <summary>Automatic Sketch Editing</summary>
+      <summary>Sketch Editing</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
@@ -426,7 +422,6 @@ Summary of published or preprint papers
       | 2011 | NPAR | [Temporal Noise Control for Sketchy Animation](https://dl.acm.org/doi/10.1145/2024676.2024691)  |
   </details>
 
-### Automatic Animation Inbetweening
   - <details>
       <summary>Automatic Animation</summary>
       
@@ -440,8 +435,6 @@ Summary of published or preprint papers
       | 2019 | ICIP | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/document/8803506) | |
       | 2017 | CMV | [DiLight: Digital light table – Inbetweening for 2D animations using guidelines](http://graphics.tudelft.nl/Publications-new/2017/CMV17/pdf.pdf) | |
   </details>
-
-### Automatic Image Enhancement
 
   - <details>
       <summary>Automatic Image Enhancement</summary>
