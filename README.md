@@ -304,7 +304,8 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       <summary>Reference</summary>
 
       | **Year** | **Conference / Journal** | **Title** | **Links** |
-      | ---- | ---- | ---- | ---- | 
+      | ---- | ---- | ---- | ---- |
+      | 2024 | Arxiv | [ColorFlow: Retrieval-Augmented Image Sequence Colorization](https://arxiv.org/abs/2412.11815) | [Github](https://github.com/TencentARC/ColorFlow) |
       | 2024 | Arxiv | [ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text](https://arxiv.org/pdf/2401.01456.pdf) | |
       | 2024 | CVPR | [Learning Inclusion Matching for Animation Paint Bucket Coloriation](https://arxiv.org/pdf/2403.18342) | [HP](https://ykdai.github.io/projects/InclusionMatching) |
       | 2023 | CGF | [Two-Step Training: Adjustable Sketch Colourization via Reference Image and Text Tag](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cgf.14791) | [Github](https://github.com/ydk-tellurion/sketch_colorizer) |
