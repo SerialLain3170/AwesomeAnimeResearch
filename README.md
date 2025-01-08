@@ -558,7 +558,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
-      | 2021 | Arxiv | [Vectorization of Raster Manga by Deep Reinforcement Learning](https://arxiv.org/pdf/2110.04830.pdf) | |
+      | 2021 | Arxiv | [Raster Manga Vectorization via Primitive-wise Deep Reinforcement Learning](https://arxiv.org/pdf/2110.04830.pdf) | |
   </details>
 
   - <details>
