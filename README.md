@@ -11,6 +11,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2025 | COLING | [Context-Informed Machine Translation of Manga using Multimodal Large Language Models](https://arxiv.org/pdf/2411.02589) | [GitHub](https://github.com/plippmann/multimodal-manga-translation) |
       | 2024 | Arxiv | [Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names](https://arxiv.org/abs/2408.00298) | [GitHub](https://github.com/ragavsachdeva/magi) |
       | 2024 | Arxiv | [CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding](https://arxiv.org/abs/2407.03550) | [GitHub](https://github.com/emanuelevivoli/comix-dataset) |
       | 2023 | CVPR | [Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes](https://openaccess.thecvf.com/content/CVPR2023/papers/Ju_Human-Art_A_Versatile_Human-Centric_Dataset_Bridging_Natural_and_Artificial_Scenes_CVPR_2023_paper.pdf) | [Github](https://github.com/IDEA-Research/HumanArt) | 
@@ -816,3 +817,4 @@ Summary of github or other types of projects that are related to anime or manga 
 - IROS: IEEE International Conference on Intelligent Robots and Systems
 - HSET: Highlights in Science Engineering and Technology
 - TOPS: Topics in Cognitive Science
+- COLING: Conference on Computational Linguistics
