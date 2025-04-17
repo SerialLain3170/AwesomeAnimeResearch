@@ -306,6 +306,9 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- |
+      | 2025 | Arxiv | [Cobra: Efficient Line Art COlorization with BRoAder References](https://arxiv.org/abs/2504.12240) | [HP](https://zhuang2002.github.io/Cobra/) |
+      | 2025 | Arxiv | [ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities](https://arxiv.org/abs/2504.06895) | [GitHub](https://github.com/tellurion-kanata/colorizeDiffusion) |
+      | 2025 | Arxiv | [MangaNinja: Line Art Colorization with Precise Reference Following](https://arxiv.org/abs/2501.08332) | [HP](https://johanan528.github.io/MangaNinjia/) |
       | 2024 | Arxiv | [ColorFlow: Retrieval-Augmented Image Sequence Colorization](https://arxiv.org/abs/2412.11815) | [Github](https://github.com/TencentARC/ColorFlow) |
       | 2024 | Arxiv | [ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text](https://arxiv.org/pdf/2401.01456.pdf) | |
       | 2024 | CVPR | [Learning Inclusion Matching for Animation Paint Bucket Coloriation](https://arxiv.org/pdf/2403.18342) | [HP](https://ykdai.github.io/projects/InclusionMatching) |
