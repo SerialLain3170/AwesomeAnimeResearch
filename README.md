@@ -11,6 +11,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2025 | COLING | [AnimeDL-2M: Million-Scale AI-Generated Anime Image Detection and Localization in Diffusion Era](https://arxiv.org/abs/2504.11015) | [HP](https://flytweety.github.io/AnimeDL2M/) |
       | 2025 | COLING | [Context-Informed Machine Translation of Manga using Multimodal Large Language Models](https://arxiv.org/pdf/2411.02589) | [GitHub](https://github.com/plippmann/multimodal-manga-translation) |
       | 2024 | Arxiv | [Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names](https://arxiv.org/abs/2408.00298) | [GitHub](https://github.com/ragavsachdeva/magi) |
       | 2024 | Arxiv | [CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding](https://arxiv.org/abs/2407.03550) | [GitHub](https://github.com/emanuelevivoli/comix-dataset) |
