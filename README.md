@@ -307,6 +307,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- |
+      | 2025 | Arxiv | [SSIMBaD: Sigma Scaling with SSIM-Guided Balanced Diffusion for AnimeFace Colorization](https://arxiv.org/abs/2506.04283) | [GitHub](https://github.com/Giventicket/SSIMBaD-Sigma-Scaling-with-SSIM-Guided-Balanced-Diffusion-for-AnimeFace-Colorization) |
       | 2025 | Arxiv | [Cobra: Efficient Line Art COlorization with BRoAder References](https://arxiv.org/abs/2504.12240) | [HP](https://zhuang2002.github.io/Cobra/) |
       | 2025 | Arxiv | [ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities](https://arxiv.org/abs/2504.06895) | [GitHub](https://github.com/tellurion-kanata/colorizeDiffusion) |
       | 2025 | Arxiv | [MangaNinja: Line Art Colorization with Precise Reference Following](https://arxiv.org/abs/2501.08332) | [HP](https://johanan528.github.io/MangaNinjia/) |
@@ -537,7 +538,8 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       <summary>Segmentation</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
-      | ---- | ---- | ---- | ---- | 
+      | ---- | ---- | ---- | ---- |
+      | 2025 | Arxiv | [Advancing Manga Analysis: Comprehensive Segmentation Annotations for the Manga109 Dataset](https://openaccess.thecvf.com//content/CVPR2025/papers/Xie_Advancing_Manga_Analysis_Comprehensive_Segmentation_Annotations_for_the_Manga109_Dataset_CVPR_2025_paper.pdf) | [HuggingFace](https://huggingface.co/datasets/MS92/MangaSegmentation) |
       | 2022 | ICPR | [Towards Content-Aware Pixel-Wise Comic Panel Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-37742-6_1) | |
       | 2020 | ISM | [Extraction of Frame Sequences in the Manga Context](https://ieeexplore.ieee.org/document/9327968) | |
   </details>
