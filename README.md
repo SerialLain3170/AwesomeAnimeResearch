@@ -41,6 +41,8 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2025 | Arxiv | [SakugaFlow: A Stagewise Illustration Framework Emulating the Human Drawing Process and Providing Interactive Tutoring for Novice Drawing Skills](https://arxiv.org/abs/2506.08443) | | |
+      | 2025 | Arxiv | [Interactive Drawing Guidance for Anime Illustrations with Diffusion Model](https://arxiv.org/pdf/2507.09140) |  |
       | 2022 | Arxiv | [Combating Mode Collapse in GANs via Manifold Entropy Estimation](https://arxiv.org/pdf/2208.12055.pdf) | | [Github](https://arxiv.org/pdf/2208.12055.pdf) |
       | 2022 | SIGGRAPH | [StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators](https://arxiv.org/pdf/2108.00946.pdf)  | [Github](https://github.com/rinongal/StyleGAN-nada) |
       | 2021 | ICCV | [DisUnknown: Distilling Unknown Factors for Disentanglement Learning](https://arxiv.org/pdf/2109.08090.pdf)  | [Github](https://github.com/stormraiser/disunknown) |
@@ -461,6 +463,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2025 | arXiv | [CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits](https://arxiv.org/pdf/2507.17327) |[HP](https://human3daigc.github.io/CartoonAlive_webpage/) |
       | 2024 | Arxiv | [AnimateDiff-Lightning: Cross-Model Diffusion Distillation](https://arxiv.org/pdf/2403.12706) | [HF](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
       | 2024 | TCSVT | [Hierarchical Feature Warping and Blending for Talking Head Animation](https://gwern.net/doc/ai/anime/2024-zhang.pdf) | |
       | 2023 | TMM | [Language-Guided Face Animation by Recurrent StyleGAN-based Generator](https://arxiv.org/pdf/2208.05617.pdf) | [Github](https://github.com/TiankaiHang/language-guided-animation) |
@@ -483,7 +486,8 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
     | **Year** | **Conference / Journal** | **Title** | **Links** |
     | ---- | ---- | ---- | ---- | 
-    | 2024 | Arxiv | [SKETCH2MANGA: SHADED MANGA SCREENING FROM SKETCH WITH DIFFUSION MODELS](https://arxiv.org/pdf/2403.08266) | [Github](https://github.com/dmMaze/sketch2manga) |
+    | 2025 | Arxiv | [Retrieval Augmented Comic Image Generation](https://arxiv.org/pdf/2507.09140) |  |
+    | 2024 | Arxiv | [Sketch2Manga: Shaded Manga Screening from Sketch with Diffusion Models](https://arxiv.org/pdf/2403.08266) | [Github](https://github.com/dmMaze/sketch2manga) |
     | 2021 | CVPR | [Generating Manga from Illustrations via Mimicking Manga Workflow](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Generating_Manga_From_Illustrations_via_Mimicking_Manga_Creation_Workflow_CVPR_2021_paper.pdf) | [HP](https://lllyasviel.github.io/MangaFilter/) |
     | 2020 | ICAART | [Hair Shading Style Transfer for Manga with cGAN](https://www.scitepress.org/Papers/2020/89614/89614.pdf) | |
     | 2020 | SIGGRAPH | [Manga Filling Style Conversion with Screentone Variational Autoencoder](http://www.cse.cuhk.edu.hk/~ttwong/papers/screenstyle/screenstyle.pdf) | |
@@ -681,6 +685,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2025 | arXiv | [Comparing Human and AI Performance in Visual Storytelling through Creation of Comic Strips: A Case Study](https://arxiv.org/pdf/2507.18641) ||
       | 2024 | under review | [One missing peace in Vision & Language: A survey on Comics Understanding](https://github.com/emanuelevivoli/awesome-comics-understanding) | [GitHub](https://github.com/emanuelevivoli/awesome-comics-understanding) |
       | 2023 | HSET | [Anime like Character Face Generation: A survey](https://www.researchgate.net/publication/374705438_Anime-like_Character_Face_Generation_A_Survey) |  |
       | 2022 | IJCV | [Cartoon Image Processing: A Survey](https://link.springer.com/article/10.1007/s11263-022-01645-1) | |
