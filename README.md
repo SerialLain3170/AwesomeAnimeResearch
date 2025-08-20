@@ -495,12 +495,29 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
   </details>
 
   - <details>
+      <summary>Colorization</summary>
+      
+      | **Year** | **Conference / Journal** | **Title** | **Links** |
+      | ---- | ---- | ---- | ---- | 
+      | 2023 | arXiv | [MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10112648](https://arxiv.org/pdf/2508.09709)) |  |
+  </details>
+
+  - <details>
       <summary>Restoration</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
       | 2021 | CVPR | [Exploiting Aliasing for Manga Restoration](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Exploiting_Aliasing_for_Manga_Restoration_CVPR_2021_paper.pdf)  | [Github](https://github.com/msxie92/MangaRestoration) |
   </details>
+
+  - <details>
+      <summary>Understanding</summary>
+      
+      | **Year** | **Conference / Journal** | **Title** | **Links** |
+      | ---- | ---- | ---- | ---- | 
+      | 2021 | arXiv | [Re:Verse - Can Your VLM Read a Manga?](https://arxiv.org/pdf/2508.08508)  | |
+  </details>
+
 
   - <details>
       <summary>Inpainting</summary>
