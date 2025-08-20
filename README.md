@@ -499,7 +499,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
-      | 2023 | arXiv | [MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10112648](https://arxiv.org/pdf/2508.09709)) |  |
+      | 2025 | arXiv | [MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10112648](https://arxiv.org/pdf/2508.09709)) |  |
   </details>
 
   - <details>
@@ -515,7 +515,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
-      | 2021 | arXiv | [Re:Verse - Can Your VLM Read a Manga?](https://arxiv.org/pdf/2508.08508)  | |
+      | 2025 | arXiv | [Re:Verse - Can Your VLM Read a Manga?](https://arxiv.org/pdf/2508.08508)  | |
   </details>
 
 
