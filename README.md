@@ -11,6 +11,8 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2025 | arXiv | [AnimeScore: A Preference-Based Dataset and Framework for Evaluating Anime-Like Speech Style](https://arxiv.org/pdf/2603.11482) | [Github](https://github.com/sizigi/animescore) |
+      | 2025 | arXiv | [MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation](https://arxiv.org/pdf/2507.20368) | |
       | 2025 | arXiv | [ComicScene154: A Scene Dataset for Comic Analysis](https://arxiv.org/pdf/2508.16190) | |
       | 2025 | COLING | [AnimeDL-2M: Million-Scale AI-Generated Anime Image Detection and Localization in Diffusion Era](https://arxiv.org/abs/2504.11015) | [HP](https://flytweety.github.io/AnimeDL2M/) |
       | 2025 | COLING | [Context-Informed Machine Translation of Manga using Multimodal Large Language Models](https://arxiv.org/pdf/2411.02589) | [GitHub](https://github.com/plippmann/multimodal-manga-translation) |
@@ -31,9 +33,30 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       | 2020 | MMUL | [Building a Manga Dataset ”Manga109” with Annotations for Multimedia Applications](https://arxiv.org/pdf/2005.04425.pdf) |  [HP](http://www.manga109.org/ja/download_s.html) |
       | 2019 | CVPR | [Creative Flow+ Dataset](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shugrina_Creative_Flow_Dataset_CVPR_2019_paper.pdf) |  [HP](https://www.cs.toronto.edu/creativeflow/) |
       | 2017 | CVPR | [The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives](https://arxiv.org/pdf/1611.05118.pdf) | [Github](https://github.com/miyyer/comics) |
-    </details>
+  </details>
+
+  - <details>
+      - <summary>Benchmarks</summary>
+
+      | **Year** | **Conference / Journal** | **Title** | **Links** |
+      | ---- | ---- | ---- | ---- | 
+      | 2026 | arXiv | [AnimationBench: Are Video Models Good at Character-Centric Animation?](https://arxiv.org/pdf/2604.15299) | [Github](https://github.com/VideoVerses/AnimationBench) |
+  </details>
 
 ## 📜 Papers
+
+### Anime Production
+
+  - <details>
+      <summary>End-to-end Anime Generation</summary>
+
+      | **Year** | **Conference / Journal** | **Title** | **Links** |
+      | ---- | ---- | ---- | ---- |
+      | 2025 | SIGGRAPH | [AniME: Adaptive Multi-Agent Planning for Long AnimationGeneration](https://dl.acm.org/doi/epdf/10.1145/3757374.3771455) | |
+      | 2025 | SIGGRAPH | [AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation](https://arxiv.org/pdf/2506.10540) | [Github](https://github.com/HITsz-TMG/Anim-Director) |
+      | 2025 | arXiv | [CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits](https://arxiv.org/pdf/2507.17327) |[HP](https://human3daigc.github.io/CartoonAlive_webpage/) |
+      | 2024 | SIGGRAPH | [Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation](https://dl.acm.org/doi/10.1145/3680528.3687688) | [Github](https://github.com/HITsz-TMG/Anim-Director) |
+
 
 ### Image Generation
 
@@ -252,6 +275,36 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       | 2022 | ICIP | [Translation of Illustration Artist Style Using Sailormoonredraw Data](https://ieeexplore.ieee.org/document/9897787) |  |
   </details>
 
+### Video Generation
+
+  - <details>
+      <summary>Text-to-Video</summary>
+
+      | **Year** | **Conference / Journal** | **Title** | **Links** |
+      | ---- | ---- | ---- | ---- | 
+      | 2026 | Arxiv | [ANIMATRIX: AN ANIME VIDEO GENERATION MODEL THATTHINKS IN ART, NOT PHYSICS](https://arxiv.org/pdf/2605.03652) | |
+      | 2025 | Arxiv | [PTTA: A PURE TEXT-TO-ANIMATION FRAMEWORK FOR HIGH-QUALITY CREATION](https://arxiv.org/pdf/2512.18614) | |
+      | 2025 | IJCAI | [AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era](https://arxiv.org/pdf/2412.10255) | [Github](https://github.com/bilibili/Index-anisora) |
+      | 2024 | Arxiv | [Aligning Anime Video Generation with Human Feedback](https://arxiv.org/pdf/2504.10044v2) | [Github](https://github.com/bilibili/Index-anisora) |
+  </details>
+
+  - <details>
+      <summary>Image-to-Video</summary>
+
+      | **Year** | **Conference / Journal** | **Title** | **Links** |
+      | ---- | ---- | ---- | ---- | 
+      | 2025 | ICCV | [VACE: All-in-One Video Creation and Editing](https://arxiv.org/pdf/2503.07598) | [Github](https://github.com/ali-vilab/VACE) |
+      | 2025 | ICCV | [LayerAnimate: Layer-level Control for Animation](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_LayerAnimate_Layer-level_Control_for_Animation_ICCV_2025_paper.pdf) | [Github](https://github.com/IamCreateAI/LayerAnimate) |
+      | 2025 | CVPR | [PhysAnimator: Physics-Guided Generative Cartoon Animation](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_PhysAnimator_Physics-Guided_Generative_Cartoon_Animation_CVPR_2025_paper.pdf) | [HP](https://xpandora.github.io/PhysAnimator/) |
+      | 2024 | ICLR | [ANIMATEDIFF: ANIMATE YOUR PERSONALIZEDTEXT-TO-IMAGE DIFFUSION MODELS WITHOUTSPECIFIC TUNING](https://arxiv.org/pdf/2307.04725) | [Github](https://github.com/guoyww/AnimateDiff) |
+      | 2024 | Arxiv | [AnimateDiff-Lightning: Cross-Model Diffusion Distillation](https://arxiv.org/pdf/2403.12706) | [HF](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
+      | 2024 | TCSVT | [Hierarchical Feature Warping and Blending for Talking Head Animation](https://gwern.net/doc/ai/anime/2024-zhang.pdf) | |
+      | 2023 | TMM | [Language-Guided Face Animation by Recurrent StyleGAN-based Generator](https://arxiv.org/pdf/2208.05617.pdf) | [Github](https://github.com/TiankaiHang/language-guided-animation) |
+      | 2023 | IJCAI | [Collaborative Neural Rendering using Anime Character Sheets](https://arxiv.org/pdf/2207.05378.pdf) | [Github](https://github.com/megvii-research/CONR) |
+      | 2020 | ACCV | [CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_CPTNet_Cascade_Pose_Transform_Network_for_Single_Image_Talking_Head_ACCV_2020_paper.pdf) | |
+      | 2020 | SIGGRAPH Asia | [MakeItTalk: Speaker-Aware Talking-Head Animation](https://arxiv.org/pdf/2004.12992.pdf) | |
+  </details>
+
 ### Colorization
 
   - <details>
@@ -269,6 +322,8 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       | 2022 | CHI | [FlatMagic: Improving Flat Colorization through AI-driven Design for Digital Comic Professionals](https://dl.acm.org/doi/10.1145/3491102.3502075) | [Github](https://cragl.cs.gmu.edu/flatmagic/) |
       | 2022 | ICCIR | [Attention-Based Unsupervised Sketch Colorization of Anime Avatar](https://dl.acm.org/doi/abs/10.1145/3548608.3559316) | |
       | 2023 | IEEE Access| [Robust Manga Page Colorization via Coloring Latent Space](https://ieeexplore.ieee.org/document/10278137)| |
+      | 2026 | CHI | [No Pixel Left Behind: Filling Gaps in Anime Colorization](https://dl.acm.org/doi/pdf/10.1145/3772318.3790968) | [Github](https://github.com/marc2825/GapFill) |
+      | 2026 | WACV | [Diverse Sketch Colorization with Content-Enhanced Style Representation and Recolorization Distillation](https://openaccess.thecvf.com/content/WACV2026/papers/Mao_Diverse_Sketch_Colorization_with_Content-Enhanced_Style_Representation_and_Recolorization_Distillation_WACV_2026_paper.pdf) | [Github]() |
   </details>
 
 
@@ -310,10 +365,14 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- |
+      | 2026 | CVPR | [Towards High-resolution and Disentangled Reference-based Sketch Colorization](https://openaccess.thecvf.com/content/CVPR2026/papers/Yan_Towards_High-resolution_and_Disentangled_Reference-based_Sketch_Colorization_CVPR_2026_paper.pdf) | [Github](https://github.com/tellurion-kanata/ColorizeDiffusionXL) | 
+      | 2025 | ICCV | [MagicColor: Multi-Instance Sketch Colorization](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_MagicColor_Multi-Instance_Sketch_Colorization_ICCV_2025_paper.pdf) | [Github](https://github.com/YinHan-Zhang/MagicColor) | 
+      | 2025 | CVPR | [Image Referenced Sketch Colorization Based on Animation Creation Workflow](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Image_Referenced_Sketch_Colorization_Based_on_Animation_Creation_Workflow_CVPR_2025_paper.pdf) | [Github](https://github.com/tellurion-kanata/colorizeDiffusion) | 
       | 2025 | Arxiv | [SSIMBaD: Sigma Scaling with SSIM-Guided Balanced Diffusion for AnimeFace Colorization](https://arxiv.org/abs/2506.04283) | [GitHub](https://github.com/Giventicket/SSIMBaD-Sigma-Scaling-with-SSIM-Guided-Balanced-Diffusion-for-AnimeFace-Colorization) |
-      | 2025 | Arxiv | [Cobra: Efficient Line Art COlorization with BRoAder References](https://arxiv.org/abs/2504.12240) | [HP](https://zhuang2002.github.io/Cobra/) |
-      | 2025 | Arxiv | [ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities](https://arxiv.org/abs/2504.06895) | [GitHub](https://github.com/tellurion-kanata/colorizeDiffusion) |
+      | 2025 | SIGGRAPH | [Cobra: Efficient Line Art COlorization with BRoAder References](https://arxiv.org/abs/2504.12240) | [HP](https://zhuang2002.github.io/Cobra/) |
+      | 2025 | ACM-TG | [ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities](https://arxiv.org/abs/2504.06895) | [GitHub](https://github.com/tellurion-kanata/colorizeDiffusion) |
       | 2025 | Arxiv | [MangaNinja: Line Art Colorization with Precise Reference Following](https://arxiv.org/abs/2501.08332) | [HP](https://johanan528.github.io/MangaNinjia/) |
+      | 2025 | Arxiv | [MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers](https://arxiv.org/pdf/2508.09709?) | [Github](https://github.com/CyberAgentAILab/MangaDiT) |
       | 2024 | Arxiv | [ColorFlow: Retrieval-Augmented Image Sequence Colorization](https://arxiv.org/abs/2412.11815) | [Github](https://github.com/TencentARC/ColorFlow) |
       | 2024 | Arxiv | [ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text](https://arxiv.org/pdf/2401.01456.pdf) | |
       | 2024 | CVPR | [Learning Inclusion Matching for Animation Paint Bucket Coloriation](https://arxiv.org/pdf/2403.18342) | [HP](https://ykdai.github.io/projects/InclusionMatching) |
@@ -361,7 +420,15 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       <summary>Video</summary>
 
       | **Year** | **Conference / Journal** | **Title** | **Links** |
-      | ---- | ---- | ---- | ---- | 
+      | ---- | ---- | ---- | ---- |
+      | 2026 | arXiv | [Uni-Animator: Towards Unified Visual Colorization](https://arxiv.org/pdf/2602.23191) | | 
+      | 2026 | arXiv | [OmniColor: A Unified Framework for Multi-modal Lineart Colorization](https://arxiv.org/pdf/2603.27531) | [Github](https://github.com/zhangxulu1996/OmniColor) |
+      | 2026 | ICLR | [ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing](https://arxiv.org/pdf/2508.10881?) | [Github](https://github.com/TencentARC/ToonComposer) |
+      | 2025 | ICCV | [A Unified Framework for Industrial Cel-Animation Colorization with Temporal-Structural Awareness](https://openaccess.thecvf.com/content/ICCV2025/papers/Feng_A_Unified_Framework_for_Industrial_Cel-Animation_Colorization_with_Temporal-Structural_Awareness_ICCV_2025_paper.pdf) | |
+      | 2025 | ICCV | [LongAnimation: Long Animation Generation with Dynamic Global-Local Memory](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_LongAnimation_Long_Animation_Generation_with_Dynamic_Global-Local_Memory_ICCV_2025_paper.pdf) | [Github](https://github.com/CN-makers/LongAnimation) |
+      | 2025 | CVPR | [AniDoc: Animation Creation Made Easier](https://openaccess.thecvf.com/content/CVPR2025/papers/Meng_AniDoc_Animation_Creation_Made_Easier_CVPR_2025_paper.pdf) | [Github](https://github.com/ant-research/AniDoc) | 
+      | 2025 | Arxiv | [InstanceAnimator: Multi-Instance Sketch Video Colorization](https://arxiv.org/pdf/2603.25357) | [Github](https://github.com/YinHan-Zhang/InstanceAnimator) | 
+      | 2024 | ACM-TG | [LVCD: Reference-based Lineart Video Colorization with Diffusion Models](https://dl.acm.org/doi/pdf/10.1145/3687910) | [Github](https://github.com/luckyhzt/LVCD) |
       | 2023 | PR | [Coloring anime line art videos with transformation region enhancement network](https://www.sciencedirect.com/science/article/pii/S0031320323002625?casa_token=evjknkPkujoAAAAA:a0kjRw6hy3aaO9UAkINCtXYlELCDMDQu5RykR6k7qNeRPaYsaBfR8_PNSg0R-MsIs3vOCePOTfYh) |  |
       | 2021 | ICCV | [The Animation Transformer: Visual Correspondence via Segment Matching](https://arxiv.org/pdf/2109.02614.pdf)  | [Video](https://cadmium.app/) |
       | 2021 | WACV  | [Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Line_Art_Correlation_Matching_Feature_Transfer_Network_for_Automatic_Animation_WACV_2021_paper.pdf) | |  
@@ -393,6 +460,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2026 | SIGGRAPH | [See-through: Single-image Layer Decomposition for Anime Characters](https://dl.acm.org/doi/epdf/10.1145/3799902.3811209) | [Github](https://github.com/shitagaki-lab/see-through) | 
       | 2024 | Arxiv | [Re:Draw - Context Aware Translation as a Controllable Method for Artistic Production](https://arxiv.org/pdf/2401.03499.pdf) | | |
       | 2023 | Arxiv | [DreamTuner: Single Image is Enough for Subject-Driven Generation](https://arxiv.org/pdf/2312.13691) | | |
       | 2023 | Arxiv | [Instance-guided Cartoon Editing with a Large-scale Dataset](https://arxiv.org/pdf/2312.01943.pdf) | | |
@@ -433,10 +501,11 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
   </details>
 
   - <details>
-      <summary>Automatic Animation</summary>
+      <summary>Interpolation</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2024 | ACM-TG | [ToonCrafter: Generative Cartoon Interpolation](https://dl.acm.org/doi/epdf/10.1145/3687761) | [Github](https://github.com/Doubiiu/ToonCrafter) |
       | 2023 | MTA | [Automatic Animation Inbetweening](https://link.springer.com/article/10.1007/s11042-023-17354-x) | |
       | 2023 | ICCV | [Deep Geometrized Cartoon Line Inbetweening](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf) | [Github](https://github.com/lisiyao21/animeinbet) |
       | 2022 | ICIP | [Enhanced Deep Animation Video Interpolation](https://arxiv.org/pdf/2206.12657.pdf) | [Github](https://github.com/laomao0/AutoSktFI) |
@@ -465,21 +534,6 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
     | ---- | ---- | ---- | ---- | 
     | 2025 | arXiv | [ToonOut: Fine-tuned Background-Removal for Anime Characters](https://arxiv.org/pdf/2509.06839) |[Github](https://github.com/MatteoKartoon/BiRefNet) |
       </details>
-
-### Character Animating
-  - <details>
-      <summary>Character animation</summary>
-      
-      | **Year** | **Conference / Journal** | **Title** | **Links** |
-      | ---- | ---- | ---- | ---- | 
-      | 2025 | arXiv | [CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits](https://arxiv.org/pdf/2507.17327) |[HP](https://human3daigc.github.io/CartoonAlive_webpage/) |
-      | 2024 | Arxiv | [AnimateDiff-Lightning: Cross-Model Diffusion Distillation](https://arxiv.org/pdf/2403.12706) | [HF](https://huggingface.co/ByteDance/AnimateDiff-Lightning) |
-      | 2024 | TCSVT | [Hierarchical Feature Warping and Blending for Talking Head Animation](https://gwern.net/doc/ai/anime/2024-zhang.pdf) | |
-      | 2023 | TMM | [Language-Guided Face Animation by Recurrent StyleGAN-based Generator](https://arxiv.org/pdf/2208.05617.pdf) | [Github](https://github.com/TiankaiHang/language-guided-animation) |
-      | 2023 | IJCAI | [Collaborative Neural Rendering using Anime Character Sheets](https://arxiv.org/pdf/2207.05378.pdf) | [Github](https://github.com/megvii-research/CONR) |
-      | 2020 | ACCV | [CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation](https://openaccess.thecvf.com/content/ACCV2020/papers/Zhang_CPTNet_Cascade_Pose_Transform_Network_for_Single_Image_Talking_Head_ACCV_2020_paper.pdf) | |
-      | 2020 | SIGGRAPH Asia | [MakeItTalk: Speaker-Aware Talking-Head Animation](https://arxiv.org/pdf/2004.12992.pdf) | |
-  </details>
 
 ### Manga Application
   - <details>
@@ -613,7 +667,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
 ### Representation Learning
   - <details>
-      <summary>Automatic Sketch Editing</summary>
+      <summary>Representation Learning</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
@@ -622,7 +676,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
 ### Pose Estimation
   - <details>
-      <summary>Automatic Sketch Editing</summary>
+      <summary>Pose Estimation</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
@@ -633,7 +687,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
 ### Image Retrieval
   - <details>
-      <summary>Automatic Sketch Editing</summary>
+      <summary>Image Retrieval</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
@@ -643,7 +697,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
 ### Visual Correspondence
   - <details>
-      <summary>Automatic Sketch Editing</summary>
+      <summary>Visual Correspondence</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
@@ -652,7 +706,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
 ### Character Recognition
   - <details>
-      <summary>Automatic Sketch Editing</summary>
+      <summary>Character Recognition</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
@@ -672,7 +726,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
 ### 3D Character Creation
   - <details>
-      <summary>3D character creation</summary>
+      <summary>3D Character Creation</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
@@ -695,6 +749,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2025 | IEEE UEMCON | [Comparative Evaluation of Expressive Japanese Character Text-to-Speech with VITS and Style-BERT-VITS2](https://arxiv.org/pdf/2505.17320) | |
       | 2019 | ACM-TG | [Comic-Guided Speech Synthesis](https://dl.acm.org/doi/pdf/10.1145/3355089.3356487)  | [HP](https://bitwangyujia.github.io/research/project/comic2speech.html) |
   </details>
 
@@ -711,7 +766,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
 
 ### Survey & Review
   - <details>
-      <summary>Adult Content Detection</summary>
+      <summary>Survey & Review</summary>
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
