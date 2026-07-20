@@ -527,6 +527,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2026 | arXiv | [CHROMIC: Chronological Reasoning Across Multi-Panel Comics](https://aclanthology.org/2026.eacl-long.205.pdf)  | |
       | 2025 | arXiv | [Re:Verse - Can Your VLM Read a Manga?](https://arxiv.org/pdf/2508.08508)  | |
   </details>
 
@@ -543,6 +544,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2026 | Proceeding | [Inference-time Trajectory Optimization for Manga Image Editing](https://arxiv.org/pdf/2603.27790) | |
       | 2023 | Arxiv | [Manga Rescreening with Interpretable Screentone Representation](https://arxiv.org/pdf/2306.04114.pdf) | |
       | 2021 | SIGGRAPH Asia | [Comic Image Inpainting via Distance Transform](https://dl.acm.org/doi/abs/10.1145/3478512.3488607) | |
   </details>
