@@ -858,6 +858,7 @@ Summary of github or other types of projects that are related to anime or manga 
       - [Talking Head Anime from a Single Image 2: More Expressive](https://github.com/pkhungurn/talking-head-anime-2-demo)
       - [Talking Head(?) Anime from a Single Image 3: Now the Body Too](https://github.com/pkhungurn/talking-head-anime-3-demo)
       - [Neural Rendering with Attention: An Incremental Improvement for Anime Character Animation](https://github.com/transpchan/Live3D-v2)
+      - [mmdance: MMD dances on any Mixamo-rigged Blender character](https://github.com/starryark/mmdance)
     </details>
 
   - <details>
