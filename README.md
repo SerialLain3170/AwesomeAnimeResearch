@@ -332,6 +332,7 @@ For the **2D cartoon video** research, please refer to [🚀 Awesome-Animation-R
       
       | **Year** | **Conference / Journal** | **Title** | **Links** |
       | ---- | ---- | ---- | ---- | 
+      | 2026 | TVCG | [Hint-AUC: Deterministic Region-based Hint Generation for Line Art Colorization Evaluation](https://doi.org/10.1109/TVCG.2026.3738401) | [Github](https://github.com/MADONOKOUKI/DetFill-with-DHT) |
       | 2023 | CVPR Workshop | [Diffusart: Enhancing Line Art Colorization with Conditional Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023W/CVFAD/papers/Carrillo_Diffusart_Enhancing_Line_Art_Colorization_With_Conditional_Diffusion_Models_CVPRW_2023_paper.pdf) | |
       | 2023 | WACV | [Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization](https://arxiv.org/pdf/2210.14270.pdf)| |
       | 2022 | IVCNZ | [StencilTorch: An Iterative and User-Guided Framework for Anime Lineart Colorization](https://dl.acm.org/doi/abs/10.1007/978-3-031-25825-1_1) | |
